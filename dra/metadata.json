@@ -86,9 +86,29 @@
       "chapters": 13
     },
     {
+      "id": "TOB",
+      "name": "Tobit",
+      "chapters": 14
+    },
+    {
+      "id": "JDT",
+      "name": "Judith",
+      "chapters": 16
+    },
+    {
       "id": "EST",
       "name": "Esther",
       "chapters": 16
+    },
+    {
+      "id": "1MA",
+      "name": "1 Maccabees",
+      "chapters": 16
+    },
+    {
+      "id": "2MA",
+      "name": "2 Maccabees",
+      "chapters": 15
     },
     {
       "id": "JOB",
@@ -116,6 +136,16 @@
       "chapters": 8
     },
     {
+      "id": "WIS",
+      "name": "Wisdom",
+      "chapters": 19
+    },
+    {
+      "id": "SIR",
+      "name": "Sirach",
+      "chapters": 51
+    },
+    {
       "id": "ISA",
       "name": "Isaiah",
       "chapters": 66
@@ -129,6 +159,11 @@
       "id": "LAM",
       "name": "Lamentations",
       "chapters": 5
+    },
+    {
+      "id": "BAR",
+      "name": "Baruch",
+      "chapters": 6
     },
     {
       "id": "EZK",
@@ -199,41 +234,6 @@
       "id": "MAL",
       "name": "Malachi",
       "chapters": 4
-    },
-    {
-      "id": "TOB",
-      "name": "Tobit",
-      "chapters": 14
-    },
-    {
-      "id": "JDT",
-      "name": "Judith",
-      "chapters": 16
-    },
-    {
-      "id": "1MA",
-      "name": "1 Maccabees",
-      "chapters": 16
-    },
-    {
-      "id": "2MA",
-      "name": "2 Maccabees",
-      "chapters": 15
-    },
-    {
-      "id": "WIS",
-      "name": "Wisdom",
-      "chapters": 19
-    },
-    {
-      "id": "SIR",
-      "name": "Sirach",
-      "chapters": 51
-    },
-    {
-      "id": "BAR",
-      "name": "Baruch",
-      "chapters": 6
     },
     {
       "id": "MAT",
