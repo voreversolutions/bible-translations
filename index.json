@@ -59,6 +59,13 @@
       "language": "en",
       "year": 1899,
       "license": "public-domain"
+    },
+    {
+      "id": "arasvd",
+      "name": "الكتاب المقدس (ترجمة فان دايك)",
+      "language": "ar",
+      "year": 1865,
+      "license": "public-domain"
     }
   ]
 }

@@ -135,6 +135,13 @@ function flushBook() {
     return;
   }
 
+  if (books.some((b) => b.id === bookInfo.id)) {
+    console.error(
+      `  ✗ Duplicate book ${bookInfo.id} (OSIS ID '${currentOsisBook}') — source file has mislabeled osisIDs. Fix the source, don't overwrite.`
+    );
+    process.exit(1);
+  }
+
   const bookFile = path.join(outputDir, `${bookInfo.id}.json`);
   fs.writeFileSync(
     bookFile,

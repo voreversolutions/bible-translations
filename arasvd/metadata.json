@@ -1,0 +1,339 @@
+{
+  "id": "arasvd",
+  "name": "الكتاب المقدس (ترجمة فان دايك)",
+  "language": "ar",
+  "year": 1865,
+  "license": "public-domain",
+  "books": [
+    {
+      "id": "GEN",
+      "name": "تكوين",
+      "chapters": 50
+    },
+    {
+      "id": "EXO",
+      "name": "خروج",
+      "chapters": 40
+    },
+    {
+      "id": "LEV",
+      "name": "لاويين",
+      "chapters": 27
+    },
+    {
+      "id": "NUM",
+      "name": "عدد",
+      "chapters": 36
+    },
+    {
+      "id": "DEU",
+      "name": "تثنية",
+      "chapters": 34
+    },
+    {
+      "id": "JOS",
+      "name": "يشوع",
+      "chapters": 24
+    },
+    {
+      "id": "JDG",
+      "name": "قضاة",
+      "chapters": 21
+    },
+    {
+      "id": "RUT",
+      "name": "راعوث",
+      "chapters": 4
+    },
+    {
+      "id": "1SA",
+      "name": "صموئيل الأول",
+      "chapters": 31
+    },
+    {
+      "id": "2SA",
+      "name": "صموئيل الثاني",
+      "chapters": 24
+    },
+    {
+      "id": "1KI",
+      "name": "ملوك الأول",
+      "chapters": 22
+    },
+    {
+      "id": "2KI",
+      "name": "ملوك الثاني",
+      "chapters": 25
+    },
+    {
+      "id": "1CH",
+      "name": "أخبار الأيام الأول",
+      "chapters": 29
+    },
+    {
+      "id": "2CH",
+      "name": "أخبار الأيام الثاني",
+      "chapters": 36
+    },
+    {
+      "id": "EZR",
+      "name": "عزرا",
+      "chapters": 10
+    },
+    {
+      "id": "NEH",
+      "name": "نحميا",
+      "chapters": 13
+    },
+    {
+      "id": "EST",
+      "name": "أستير",
+      "chapters": 10
+    },
+    {
+      "id": "JOB",
+      "name": "أيوب",
+      "chapters": 42
+    },
+    {
+      "id": "PSA",
+      "name": "مزامير",
+      "chapters": 150
+    },
+    {
+      "id": "PRO",
+      "name": "أمثال",
+      "chapters": 31
+    },
+    {
+      "id": "ECC",
+      "name": "جامعة",
+      "chapters": 12
+    },
+    {
+      "id": "SNG",
+      "name": "نشيد الأنشاد",
+      "chapters": 8
+    },
+    {
+      "id": "ISA",
+      "name": "إشعياء",
+      "chapters": 66
+    },
+    {
+      "id": "JER",
+      "name": "إرميا",
+      "chapters": 52
+    },
+    {
+      "id": "LAM",
+      "name": "مراثي إرميا",
+      "chapters": 5
+    },
+    {
+      "id": "EZK",
+      "name": "حزقيال",
+      "chapters": 48
+    },
+    {
+      "id": "DAN",
+      "name": "دانيال",
+      "chapters": 12
+    },
+    {
+      "id": "HOS",
+      "name": "هوشع",
+      "chapters": 14
+    },
+    {
+      "id": "JOL",
+      "name": "يوئيل",
+      "chapters": 3
+    },
+    {
+      "id": "AMO",
+      "name": "عاموس",
+      "chapters": 9
+    },
+    {
+      "id": "OBA",
+      "name": "عوبديا",
+      "chapters": 1
+    },
+    {
+      "id": "JON",
+      "name": "يونان",
+      "chapters": 4
+    },
+    {
+      "id": "MIC",
+      "name": "ميخا",
+      "chapters": 7
+    },
+    {
+      "id": "NAM",
+      "name": "ناحوم",
+      "chapters": 3
+    },
+    {
+      "id": "HAB",
+      "name": "حبقوق",
+      "chapters": 3
+    },
+    {
+      "id": "ZEP",
+      "name": "صفنيا",
+      "chapters": 3
+    },
+    {
+      "id": "HAG",
+      "name": "حجي",
+      "chapters": 2
+    },
+    {
+      "id": "ZEC",
+      "name": "زكريا",
+      "chapters": 14
+    },
+    {
+      "id": "MAL",
+      "name": "ملاخي",
+      "chapters": 4
+    },
+    {
+      "id": "MAT",
+      "name": "متى",
+      "chapters": 28
+    },
+    {
+      "id": "MRK",
+      "name": "مرقس",
+      "chapters": 16
+    },
+    {
+      "id": "LUK",
+      "name": "لوقا",
+      "chapters": 24
+    },
+    {
+      "id": "JHN",
+      "name": "يوحنا",
+      "chapters": 21
+    },
+    {
+      "id": "ACT",
+      "name": "أعمال الرسل",
+      "chapters": 28
+    },
+    {
+      "id": "ROM",
+      "name": "رومية",
+      "chapters": 16
+    },
+    {
+      "id": "1CO",
+      "name": "كورنثوس الأولى",
+      "chapters": 16
+    },
+    {
+      "id": "2CO",
+      "name": "كورنثوس الثانية",
+      "chapters": 13
+    },
+    {
+      "id": "GAL",
+      "name": "غلاطية",
+      "chapters": 6
+    },
+    {
+      "id": "EPH",
+      "name": "أفسس",
+      "chapters": 6
+    },
+    {
+      "id": "PHP",
+      "name": "فيلبي",
+      "chapters": 4
+    },
+    {
+      "id": "COL",
+      "name": "كولوسي",
+      "chapters": 4
+    },
+    {
+      "id": "1TH",
+      "name": "تسالونيكي الأولى",
+      "chapters": 5
+    },
+    {
+      "id": "2TH",
+      "name": "تسالونيكي الثانية",
+      "chapters": 3
+    },
+    {
+      "id": "1TI",
+      "name": "تيموثاوس الأولى",
+      "chapters": 6
+    },
+    {
+      "id": "2TI",
+      "name": "تيموثاوس الثانية",
+      "chapters": 4
+    },
+    {
+      "id": "TIT",
+      "name": "تيطس",
+      "chapters": 3
+    },
+    {
+      "id": "PHM",
+      "name": "فليمون",
+      "chapters": 1
+    },
+    {
+      "id": "HEB",
+      "name": "عبرانيين",
+      "chapters": 13
+    },
+    {
+      "id": "JAS",
+      "name": "يعقوب",
+      "chapters": 5
+    },
+    {
+      "id": "1PE",
+      "name": "بطرس الأولى",
+      "chapters": 5
+    },
+    {
+      "id": "2PE",
+      "name": "بطرس الثانية",
+      "chapters": 3
+    },
+    {
+      "id": "1JN",
+      "name": "يوحنا الأولى",
+      "chapters": 5
+    },
+    {
+      "id": "2JN",
+      "name": "يوحنا الثانية",
+      "chapters": 1
+    },
+    {
+      "id": "3JN",
+      "name": "يوحنا الثالثة",
+      "chapters": 1
+    },
+    {
+      "id": "JUD",
+      "name": "يهوذا",
+      "chapters": 1
+    },
+    {
+      "id": "REV",
+      "name": "رؤيا يوحنا",
+      "chapters": 22
+    }
+  ]
+}
