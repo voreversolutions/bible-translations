@@ -66,6 +66,13 @@
       "language": "ar",
       "year": 1865,
       "license": "public-domain"
+    },
+    {
+      "id": "elb1905",
+      "name": "Elberfelder Bibel 1905",
+      "language": "de",
+      "year": 1905,
+      "license": "public-domain"
     }
   ]
 }
