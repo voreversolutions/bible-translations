@@ -1,0 +1,5598 @@
+{
+ "GEN": {
+  "1": {
+   "1": "Stvaranje",
+   "3": "Prvi dan",
+   "6": "Drugi dan",
+   "9": "Treći dan",
+   "14": "Četvrti dan",
+   "20": "Peti dan",
+   "24": "Šesti dan"
+  },
+  "2": {
+   "1": "Sedmi dan",
+   "4": "Muškarac i žena u vrtu"
+  },
+  "3": {
+   "1": "Zmijina prijevara",
+   "8": "Bog poziva na odgovornost Adama i Evu",
+   "14": "Sudbina zmije",
+   "16": "Kazna čovječanstvu",
+   "21": "Izgon iz raja"
+  },
+  "4": {
+   "1": "Kajin i Abel",
+   "17": "Kajinovi potomci",
+   "25": "Šet i Enoš"
+  },
+  "5": {
+   "1": "Adamovi potomci",
+   "18": "Bog uzima Henoka",
+   "25": "Od Metušalaha do Noe"
+  },
+  "6": {
+   "1": "Pokvarenost na zemlji",
+   "8": "Noa nalazi milost u Boga",
+   "13": "Priprava Kovčega"
+  },
+  "7": {
+   "1": "Veliki potop"
+  },
+  "8": {
+   "1": "Korablja se zaustavlja na Araratu",
+   "6": "Noa šalje gavrana i golubicu",
+   "13": "Izlazak iz korablje",
+   "20": "Noa gradi žrtvenik"
+  },
+  "9": {
+   "1": "Savez duge",
+   "18": "Noina sramota i prokletstvo Kanaanovo",
+   "26": "Šemov blagoslov i Noina smrt"
+  },
+  "10": {
+   "1": "Popis naroda",
+   "2": "Jafetovci",
+   "6": "Hamovci",
+   "21": "Šemovci"
+  },
+  "11": {
+   "1": "Babilonska kula",
+   "10": "Rodoslovlje od Šema do Abrama",
+   "27": "Terahovi potomci"
+  },
+  "12": {
+   "1": "Abramov poziv",
+   "10": "Abram i Saraja u Egiptu"
+  },
+  "13": {
+   "1": "Abram i Lot se razilaze",
+   "10": "Lot ide prema Sodomi",
+   "14": "Bog obnavlja obećanje Abramu"
+  },
+  "14": {
+   "1": "Rat kraljeva",
+   "10": "Abram izbavlja Lota",
+   "17": "Melkisedek blagoslivlja Abrama"
+  },
+  "15": {
+   "1": "Božji savez s Abramom",
+   "8": "Bog potvrđuje svoje obećanje"
+  },
+  "16": {
+   "1": "Hagara i Jišmael"
+  },
+  "17": {
+   "1": "Abraham će biti otac mnogih naroda",
+   "9": "Savez obrezanja"
+  },
+  "18": {
+   "1": "Tri posjetitelja",
+   "9": "Sara se smije obećanju",
+   "16": "Abraham posreduje za Sodomu"
+  },
+  "19": {
+   "1": "Lot prima anđele",
+   "12": "Lot bježi u Zoar",
+   "24": "Razorenje Sodome i Gomore",
+   "30": "Lot i njegove kćeri"
+  },
+  "20": {
+   "1": "Abraham, Sara i Abimelek"
+  },
+  "21": {
+   "1": "Rođenje Izaka",
+   "9": "Sara se okreće protiv Hagare",
+   "22": "Savez u Beer-Šebi"
+  },
+  "22": {
+   "1": "Prinošenje Izaka",
+   "11": "GOSPOD priskrbljuje žrtvu",
+   "20": "Nahorovi sinovi"
+  },
+  "23": {
+   "1": "Sarina smrt i pokop"
+  },
+  "24": {
+   "1": "Žena za Izaka",
+   "15": "Rebeka je izabrana",
+   "62": "Izak uzima Rebeku za ženu"
+  },
+  "25": {
+   "1": "Abraham i Ketura",
+   "7": "Abrahamova smrt",
+   "12": "Jišmaelovi potomci",
+   "19": "Jakov i Ezav",
+   "29": "Ezav prodaje pravo prvorodstva"
+  },
+  "26": {
+   "1": "Božje obećanje Izaku",
+   "6": "Izak vara Abimeleka",
+   "12": "Izakovo blagostanje",
+   "26": "Izakov savez s Abimelekom",
+   "34": "Ezavove žene"
+  },
+  "27": {
+   "1": "Izak blagoslivlja Jakova",
+   "30": "Ezavova izgubljena nada"
+  },
+  "28": {
+   "1": "Jakovljev odlazak",
+   "6": "Ezav uzima Mahalatu za ženu",
+   "10": "Jakovljeve ljestve",
+   "18": "Kamen u Betelu"
+  },
+  "29": {
+   "1": "Jakov susreće Rahelu",
+   "14": "Jakov uzima Leu i Rahelu za žene",
+   "31": "Ruben, Šimun, Levi i Juda"
+  },
+  "30": {
+   "1": "Dan i Naftali",
+   "9": "Gad i Ašer",
+   "17": "Jisakar, Zebulun i Dina",
+   "22": "Josip",
+   "25": "Jakov napreduje"
+  },
+  "31": {
+   "1": "Jakov bježi od Labana",
+   "22": "Laban goni Jakova",
+   "43": "Jakovljev savez s Labanom"
+  },
+  "32": {
+   "1": "Jakov se sprema na susret s Ezavom",
+   "22": "Jakov se hrve s Bogom"
+  },
+  "33": {
+   "1": "Jakov susreće Ezava",
+   "18": "Jakov se nastanjuje u Šekemu"
+  },
+  "34": {
+   "1": "Obeščašćenje Dine",
+   "13": "Osveta Dinine braće"
+  },
+  "35": {
+   "1": "Jakov se vraća u Betel",
+   "16": "Rođenje Benjamina, smrt Rahelina",
+   "21": "Jakovljevi sinovi",
+   "27": "Izakova smrt"
+  },
+  "36": {
+   "1": "Ezavovi potomci",
+   "20": "Seirovi potomci",
+   "31": "Kraljevi edomski"
+  },
+  "37": {
+   "1": "Josipovi snovi",
+   "12": "Josip prodan u Egipat",
+   "31": "Jakov oplakuje Josipa"
+  },
+  "38": {
+   "1": "Juda i Tamara",
+   "27": "Rođenje Peresa i Zeraha"
+  },
+  "39": {
+   "1": "Josip i Potifarova žena",
+   "13": "Josip nepravedno u tamnici"
+  },
+  "40": {
+   "1": "Peharnik i pekar"
+  },
+  "41": {
+   "1": "Faraonovi snovi",
+   "14": "Josip tumači faraonove snove",
+   "37": "Josipu povjeren Egipat",
+   "46": "Sedam godina obilja",
+   "53": "Počinje glad"
+  },
+  "42": {
+   "1": "Josipova braća poslana u Egipat",
+   "25": "Josipova braća vraćaju se u Kanaan"
+  },
+  "43": {
+   "1": "Povratak u Egipat s Benjaminom",
+   "16": "Josipova gostoljubivost prema braći"
+  },
+  "44": {
+   "1": "Benjamin i srebrni pehar",
+   "18": "Juda moli za Benjamina"
+  },
+  "45": {
+   "1": "Josip se otkriva braći",
+   "9": "Josip šalje po svojega oca",
+   "16": "Faraon poziva Jakova u Egipat",
+   "25": "Jakov oživio"
+  },
+  "46": {
+   "1": "Jakovljev put u Egipat",
+   "7": "Oni koji su otišli u Egipat",
+   "8": "Leina djeca",
+   "16": "Zilpina djeca",
+   "19": "Rahelina djeca",
+   "23": "Bilhina djeca",
+   "28": "Jakov stiže u Egipat"
+  },
+  "47": {
+   "1": "Jakov se nastanjuje u Gošenu",
+   "13": "Glad se nastavlja",
+   "27": "Izraelci napreduju u Gošenu"
+  },
+  "48": {
+   "1": "Jakov blagoslivlja Efrajima i Manašea"
+  },
+  "49": {
+   "1": "Jakov blagoslivlja svoje sinove",
+   "29": "Jakovljeva smrt"
+  },
+  "50": {
+   "1": "Oplakivanje i pokop Jakova",
+   "15": "Josip tješi svoju braću",
+   "22": "Josipova smrt"
+  }
+ },
+ "EXO": {
+  "1": {
+   "1": "Izraelci se množe u Egiptu",
+   "8": "Tlačenje pod novim kraljem"
+  },
+  "2": {
+   "1": "Rođenje i posvojenje Mojsija",
+   "11": "Mojsije odbačen i u bijegu",
+   "23": "Bog čuje vapaj Izraelaca"
+  },
+  "3": {
+   "1": "Mojsije kod gorućeg grma"
+  },
+  "4": {
+   "1": "Mojsijev štap",
+   "6": "Mojsijeva ruka",
+   "10": "Postavljanje Arona",
+   "18": "Mojsije odlazi u Egipat",
+   "27": "Narod vjeruje Mojsiju i Aronu"
+  },
+  "5": {
+   "1": "Faraonovo prvo odbijanje",
+   "6": "Opeke i slama",
+   "15": "Vapaj Izraelaca"
+  },
+  "6": {
+   "1": "Bog obećava izbavljenje",
+   "14": "Rodoslovlja Mojsija i Arona"
+  },
+  "7": {
+   "1": "Bog zapovijeda Mojsiju i Aronu",
+   "8": "Aronov štap",
+   "14": "Prva pošast: krv"
+  },
+  "8": {
+   "1": "Druga pošast: žabe",
+   "16": "Treća pošast: komarci",
+   "20": "Četvrta pošast: obadi"
+  },
+  "9": {
+   "1": "Peta pošast: stoka",
+   "8": "Šesta pošast: čirevi",
+   "13": "Sedma pošast: tuča"
+  },
+  "10": {
+   "1": "Osma pošast: skakavci",
+   "21": "Deveta pošast: tama"
+  },
+  "11": {
+   "1": "Naviještena pošast na prvorođence"
+  },
+  "12": {
+   "1": "Prva Pasha",
+   "14": "Blagdan beskvasnih kruhova",
+   "29": "Deseta pošast: smrt prvorođenaca",
+   "31": "Počinje izlazak",
+   "43": "Upute za Pashu"
+  },
+  "13": {
+   "1": "Posveta prvorođenaca",
+   "17": "Stup od oblaka i ognja"
+  },
+  "14": {
+   "1": "Faraon goni Izraelce",
+   "15": "Razdvajanje Crvenog mora"
+  },
+  "15": {
+   "1": "Pjesma na moru",
+   "22": "Vode Mare"
+  },
+  "16": {
+   "1": "Mana i prepelice s neba",
+   "22": "Držanje subote",
+   "31": "Posuda s manom"
+  },
+  "17": {
+   "1": "Voda iz stijene",
+   "8": "Poraz Amalečana"
+  },
+  "18": {
+   "1": "Jetrov posjet",
+   "13": "Jetro savjetuje Mojsija"
+  },
+  "19": {
+   "1": "Izrael na gori Sinaju",
+   "16": "GOSPOD silazi na Sinaj"
+  },
+  "20": {
+   "1": "Deset zapovijedi",
+   "18": "Mojsije tješi narod",
+   "22": "Zabranjeno idolopoklonstvo"
+  },
+  "21": {
+   "1": "Hebrejske sluge",
+   "12": "Zakoni o tjelesnim ozljedama"
+  },
+  "22": {
+   "1": "Zakoni o vlasništvu",
+   "16": "Zakoni društvene odgovornosti"
+  },
+  "23": {
+   "1": "Pravda i milosrđe",
+   "10": "Zakoni o suboti",
+   "14": "Tri hodočasnička blagdana",
+   "20": "Božji anđeo će voditi"
+  },
+  "24": {
+   "1": "Savez zapečaćen",
+   "12": "Mojsije na gori"
+  },
+  "25": {
+   "1": "Prinosi za Šator",
+   "10": "Kovčeg saveza",
+   "17": "Pomirilište",
+   "23": "Stol za prinesene kruhove",
+   "31": "Svijećnjak"
+  },
+  "26": {
+   "1": "Deset zavjesa za Šator",
+   "7": "Jedanaest zavjesa od kozje dlake",
+   "15": "Okviri i podnožja",
+   "31": "Zastor",
+   "36": "Zavjesa na ulazu"
+  },
+  "27": {
+   "1": "Mjedeni žrtvenik",
+   "9": "Predvorje",
+   "20": "Ulje za svjetiljke"
+  },
+  "28": {
+   "1": "Haljine za svećenike",
+   "6": "Oplećak",
+   "15": "Naprsnik",
+   "31": "Daljnje svećeničke haljine"
+  },
+  "29": {
+   "1": "Posvećenje svećenika",
+   "10": "Red žrtava",
+   "31": "Hrana za svećenike",
+   "38": "Svakodnevni prinosi",
+   "45": "Bog će prebivati među narodom"
+  },
+  "30": {
+   "1": "Žrtvenik kadioni",
+   "11": "Prinos pri popisu",
+   "17": "Mjedeni umivaonik",
+   "22": "Ulje pomazanja",
+   "34": "Kad"
+  },
+  "31": {
+   "1": "Bezalel i Oholiab",
+   "12": "Znak subote",
+   "18": "Mojsije prima ploče"
+  },
+  "32": {
+   "1": "Zlatno tele"
+  },
+  "33": {
+   "1": "Zapovijed za odlazak sa Sinaja",
+   "7": "Šator sastanka",
+   "12": "Obećanje Božje prisutnosti"
+  },
+  "34": {
+   "1": "Nove kamene ploče",
+   "10": "GOSPOD obnavlja savez"
+  },
+  "35": {
+   "1": "Subota",
+   "4": "Prinosi za Šator",
+   "10": "Vješti obrtnici",
+   "20": "Narod prinosi darove",
+   "30": "Bezalel i Oholiab"
+  },
+  "36": {
+   "1": "Narod donosi više nego što treba",
+   "8": "Deset zavjesa za Šator",
+   "14": "Jedanaest zavjesa od kozje dlake",
+   "20": "Okviri i podnožja",
+   "35": "Zastor",
+   "37": "Zavjesa na ulazu"
+  },
+  "37": {
+   "1": "Gradnja Kovčega",
+   "6": "Pomirilište",
+   "10": "Stol za prinesene kruhove",
+   "17": "Svijećnjak",
+   "25": "Žrtvenik kadioni"
+  },
+  "38": {
+   "1": "Mjedeni žrtvenik",
+   "8": "Mjedeni umivaonik",
+   "9": "Predvorje",
+   "21": "Popis građe"
+  },
+  "39": {
+   "1": "Oplećak",
+   "8": "Naprsnik",
+   "22": "Daljnje svećeničke haljine",
+   "32": "Mojsije odobrava djelo"
+  },
+  "40": {
+   "1": "Podizanje Šatora",
+   "34": "Oblak i slava"
+  }
+ },
+ "LEV": {
+  "1": {
+   "1": "Zakoni za žrtve paljenice"
+  },
+  "2": {
+   "1": "Zakoni za prinosnice"
+  },
+  "3": {
+   "1": "Zakoni za žrtve pomirnice"
+  },
+  "4": {
+   "1": "Zakoni za žrtve za grijeh"
+  },
+  "5": {
+   "1": "Grijesi koji traže žrtvu za grijeh",
+   "14": "Zakoni za žrtve za krivnju"
+  },
+  "6": {
+   "1": "Grijesi koji traže žrtvu za krivnju",
+   "8": "Žrtva paljenica",
+   "14": "Prinosnica",
+   "24": "Žrtva za grijeh"
+  },
+  "7": {
+   "1": "Žrtva za krivnju",
+   "11": "Žrtva pomirnica",
+   "22": "Zabranjeni salo i krv",
+   "28": "Dio svećenika"
+  },
+  "8": {
+   "1": "Mojsije posvećuje Arona i njegove sinove",
+   "14": "Žrtva za grijeh svećenika",
+   "18": "Žrtva paljenica svećenika",
+   "22": "Ovan posvetnica"
+  },
+  "9": {
+   "1": "Aronovi prvi prinosi"
+  },
+  "10": {
+   "1": "Grijeh Nadaba i Abihua",
+   "8": "Zabrane za svećenike"
+  },
+  "11": {
+   "1": "Čiste i nečiste životinje"
+  },
+  "12": {
+   "1": "Očišćenje nakon poroda"
+  },
+  "13": {
+   "1": "Zakoni o kožnim bolestima",
+   "47": "Zakoni o plijesni"
+  },
+  "14": {
+   "1": "Čišćenje od kožnih bolesti",
+   "33": "Znakovi zaraze u kući",
+   "48": "Čišćenje kuće"
+  },
+  "15": {
+   "1": "Nečistoća muškaraca",
+   "13": "Očišćenje muškaraca",
+   "19": "Nečistoća žena",
+   "28": "Očišćenje žena"
+  },
+  "16": {
+   "1": "Dan pomirenja"
+  },
+  "17": {
+   "1": "Mjesto žrtvovanja",
+   "10": "Zakoni protiv jedenja krvi"
+  },
+  "18": {
+   "1": "Nedopušteni spolni odnosi"
+  },
+  "19": {
+   "1": "Zapovijedi za svetost",
+   "9": "Ljubi bližnjega svojega",
+   "19": "Držite uredbe moje"
+  },
+  "20": {
+   "1": "Kazne za neposlušnost",
+   "10": "Kazne za bludnost",
+   "22": "Razlikovati čisto od nečistoga"
+  },
+  "21": {
+   "1": "Svetost koja se traži od svećenika",
+   "16": "Zabrane onima s tjelesnom manom"
+  },
+  "22": {
+   "1": "Zabrane nečistima",
+   "17": "Dostojni prinosi"
+  },
+  "23": {
+   "1": "Blagdani i subote",
+   "4": "Pasha i Blagdan beskvasnih kruhova",
+   "9": "Blagdan prvina",
+   "15": "Blagdan sedmica",
+   "23": "Blagdan truba",
+   "26": "Dan pomirenja",
+   "33": "Blagdan sjenica"
+  },
+  "24": {
+   "1": "Ulje za svjetiljke",
+   "5": "Prineseni kruhovi",
+   "10": "Kazna za hulu",
+   "17": "Oko za oko"
+  },
+  "25": {
+   "1": "Sedma godina",
+   "8": "Jubilarna godina",
+   "13": "Povrat vlasništva",
+   "18": "Blagoslov poslušnosti",
+   "23": "Zakon otkupa",
+   "35": "Otkup siromaha",
+   "39": "Otkup robova",
+   "47": "Otkup slugu"
+  },
+  "26": {
+   "1": "Daljnji blagoslovi poslušnosti",
+   "14": "Kazne za neposlušnost",
+   "40": "Bog se sjeća onih koji se kaju"
+  },
+  "27": {
+   "1": "Propisi o procjenama",
+   "30": "Pouka o desetini"
+  }
+ },
+ "NUM": {
+  "1": {
+   "1": "Prvi popis Izraela",
+   "5": "Poglavari plemena",
+   "17": "Broj svakog plemena",
+   "47": "Izuzeće levita"
+  },
+  "2": {
+   "1": "Raspored tabora"
+  },
+  "3": {
+   "1": "Aronovi sinovi",
+   "5": "Dužnosti levita",
+   "14": "Popis levita",
+   "21": "Geršonovci",
+   "27": "Kehatovci",
+   "33": "Merarijevci",
+   "38": "Mojsije i Aron",
+   "40": "Otkup prvorođenaca"
+  },
+  "4": {
+   "1": "Dužnosti Kehatovaca",
+   "21": "Dužnosti Geršonovaca",
+   "29": "Dužnosti Merarijevaca",
+   "34": "Popis levitskih rodova"
+  },
+  "5": {
+   "1": "Čišćenje tabora",
+   "5": "Naknada za prijestupe",
+   "11": "Kušnja za preljub"
+  },
+  "6": {
+   "1": "Nazirejski zavjet",
+   "22": "Aronov blagoslov"
+  },
+  "7": {
+   "1": "Prinosi posvete"
+  },
+  "8": {
+   "1": "Svijećnjak",
+   "5": "Posvećenje levita",
+   "23": "Umirovljenje levita"
+  },
+  "9": {
+   "1": "Druga Pasha",
+   "15": "Oblak nad Šatorom"
+  },
+  "10": {
+   "1": "Dvije srebrne trube",
+   "11": "Od Sinaja do Parana"
+  },
+  "11": {
+   "1": "Prigovori naroda",
+   "10": "Mojsijev prigovor",
+   "16": "Pomazano sedamdeset starješina",
+   "31": "Prepelice i pomor"
+  },
+  "12": {
+   "1": "Prigovor Mirjame i Arona"
+  },
+  "13": {
+   "1": "Uhode izviđaju Kanaan",
+   "25": "Izvještaji uhoda"
+  },
+  "14": {
+   "1": "Pobuna Izraelova",
+   "13": "Mojsije posreduje za Izrael",
+   "20": "Božje oproštenje i sud",
+   "36": "Pomor na deset uhoda",
+   "40": "Poraz kod Horme"
+  },
+  "15": {
+   "1": "Zakoni o prinosima",
+   "22": "Prinosi za nehotične grijehe",
+   "32": "Kamenovan skvrnitelj subote",
+   "37": "Zakon o rescima"
+  },
+  "16": {
+   "1": "Korahova pobuna",
+   "23": "Mojsije odvaja narod",
+   "28": "Zemlja proguta Koraha",
+   "36": "Kadionice namijenjene svetoj uporabi",
+   "41": "Mrmljanje i pomor"
+  },
+  "17": {
+   "1": "Aronov štap propupao"
+  },
+  "18": {
+   "1": "Dužnosti svećenika i levita",
+   "8": "Prinosi za svećenike i levite"
+  },
+  "19": {
+   "1": "Crvena junica",
+   "11": "Očišćenje nečistih"
+  },
+  "20": {
+   "1": "Voda iz stijene",
+   "14": "Edom uskraćuje prolaz",
+   "22": "Aronova smrt"
+  },
+  "21": {
+   "1": "Poraz Arada",
+   "4": "Mjedena zmija",
+   "10": "Put u Moab",
+   "21": "Poraz Sihona",
+   "31": "Poraz Oga"
+  },
+  "22": {
+   "1": "Balak poziva Bileama",
+   "22": "Anđeo i Bileamova magarica"
+  },
+  "23": {
+   "1": "Bileamovo prvo proroštvo",
+   "13": "Bileamovo drugo proroštvo"
+  },
+  "24": {
+   "1": "Bileamovo treće proroštvo",
+   "10": "Balak otpušta Bileama",
+   "15": "Bileamovo četvrto proroštvo",
+   "20": "Bileamova posljednja tri proroštva"
+  },
+  "25": {
+   "1": "Moab zavodi Izrael",
+   "6": "Pinhasova revnost"
+  },
+  "26": {
+   "1": "Drugi popis Izraela",
+   "5": "Pleme Rubenovo",
+   "12": "Pleme Šimunovo",
+   "15": "Pleme Gadovo",
+   "19": "Pleme Judino",
+   "23": "Pleme Jisakarovo",
+   "26": "Pleme Zebulunovo",
+   "28": "Pleme Manašeovo",
+   "35": "Pleme Efrajimovo",
+   "38": "Pleme Benjaminovo",
+   "42": "Pleme Danovo",
+   "44": "Pleme Ašerovo",
+   "48": "Pleme Naftalijevo",
+   "52": "Baština po ždrijebu",
+   "57": "Popisani leviti",
+   "63": "Ostaju samo Kaleb i Jošua"
+  },
+  "27": {
+   "1": "Selofhadove kćeri",
+   "12": "Mojsije traži nasljednika",
+   "18": "Jošua će naslijediti Mojsija"
+  },
+  "28": {
+   "1": "Svakodnevni prinosi",
+   "9": "Subotnji prinosi",
+   "11": "Mjesečni prinosi",
+   "16": "Pasha i Blagdan beskvasnih kruhova",
+   "26": "Blagdan sedmica"
+  },
+  "29": {
+   "1": "Blagdan truba",
+   "7": "Dan pomirenja",
+   "12": "Blagdan sjenica"
+  },
+  "30": {
+   "1": "Zakoni o zavjetima"
+  },
+  "31": {
+   "1": "Osveta nad Midjanom",
+   "25": "Dioba plijena",
+   "48": "Dragovoljni prinos"
+  },
+  "32": {
+   "1": "Plemena istočno od Jordana"
+  },
+  "33": {
+   "1": "Četrdeset dva putovanja Izraelaca",
+   "50": "Upute za zaposjedanje Kanaana"
+  },
+  "34": {
+   "1": "Međe Kanaana",
+   "16": "Poglavari koji će razdijeliti zemlju"
+  },
+  "35": {
+   "1": "Četrdeset osam gradova levitima",
+   "9": "Šest gradova utočišta"
+  },
+  "36": {
+   "1": "Selofhadove kćeri se udaju"
+  }
+ },
+ "DEU": {
+  "1": {
+   "1": "Zapovijed za odlazak s Horeba",
+   "9": "Mojsije postavlja poglavare",
+   "19": "Poslano dvanaest uhoda",
+   "26": "Pobuna Izraelova",
+   "34": "Kazna Izraelu",
+   "41": "Poraz kod Horme"
+  },
+  "2": {
+   "1": "Lutanja po pustinji",
+   "24": "Poraz Sihona"
+  },
+  "3": {
+   "1": "Poraz Oga",
+   "12": "Dioba zemlje istočno od Jordana",
+   "23": "Mojsiju zabranjeno prijeći Jordan"
+  },
+  "4": {
+   "1": "Poticaj na poslušnost",
+   "15": "Opomena protiv idolopoklonstva",
+   "32": "Samo je GOSPOD Bog",
+   "41": "Gradovi utočišta",
+   "44": "Uvod u Zakon"
+  },
+  "5": {
+   "1": "Savez na Horebu",
+   "5": "Deset zapovijedi",
+   "22": "Mojsije posreduje za narod"
+  },
+  "6": {
+   "1": "Najveća zapovijed",
+   "20": "Poučavaj djecu svoju"
+  },
+  "7": {
+   "1": "Istjerajte narode",
+   "12": "Božja obećanja"
+  },
+  "8": {
+   "1": "Sjeti se GOSPODA, Boga svojega"
+  },
+  "9": {
+   "1": "Jamstvo pobjede",
+   "7": "Zlatno tele"
+  },
+  "10": {
+   "1": "Nove kamene ploče",
+   "12": "Poziv na poslušnost"
+  },
+  "11": {
+   "1": "Poslušnost i stega",
+   "8": "Veliki Božji blagoslovi",
+   "18": "Sjećaj se riječi Božjih",
+   "26": "Blagoslov i prokletstvo"
+  },
+  "12": {
+   "1": "Jedno mjesto za bogoslužje",
+   "29": "Opomena protiv idolopoklonstva"
+  },
+  "13": {
+   "1": "Idolopoklonike treba pogubiti",
+   "12": "Idolopoklonički gradovi neka se unište"
+  },
+  "14": {
+   "1": "Čiste i nečiste životinje",
+   "22": "Davanje desetine"
+  },
+  "15": {
+   "1": "Sedma godina",
+   "7": "Darežljivost u posudbi i darivanju",
+   "12": "Hebrejske sluge",
+   "19": "Prvorođena stoka"
+  },
+  "16": {
+   "1": "Pasha i Blagdan beskvasnih kruhova",
+   "9": "Blagdan sedmica",
+   "13": "Blagdan sjenica",
+   "18": "Suci i pravda",
+   "21": "Zabranjeni oblici štovanja"
+  },
+  "17": {
+   "1": "Gnusne žrtve",
+   "2": "Odstranite idolopoklonika",
+   "8": "Sudovi",
+   "14": "Odredbe za kralja"
+  },
+  "18": {
+   "1": "Uzdržavanje svećenika i levita",
+   "9": "Zabranjeno vračanje",
+   "15": "Prorok poput Mojsija"
+  },
+  "19": {
+   "1": "Gradovi utočišta",
+   "15": "Svjedočanstvo dvojice ili trojice svjedoka"
+  },
+  "20": {
+   "1": "Ratni zakoni"
+  },
+  "21": {
+   "1": "Okajanje za nerazjašnjeno ubojstvo",
+   "10": "Ženidba zarobljenicom",
+   "15": "Pravo baštine prvorođenca",
+   "18": "Buntovni sin",
+   "22": "Proklet je svatko obješen na drvo"
+  },
+  "22": {
+   "1": "Razni zakoni",
+   "13": "Povrede braka"
+  },
+  "23": {
+   "1": "Isključenje iz zajednice",
+   "9": "Nečistoća u taboru",
+   "15": "Razni zakoni"
+  },
+  "24": {
+   "1": "Zakoni o braku i rastavi",
+   "6": "Daljnji zakoni"
+  },
+  "25": {
+   "1": "Pravičnost i milosrđe",
+   "5": "Udovištvo i brak",
+   "13": "Ispravne mjere i utezi",
+   "17": "Osveta Amalečanima"
+  },
+  "26": {
+   "1": "Prinošenje prvina i desetine",
+   "16": "Vršite zapovijedi GOSPODNJE"
+  },
+  "27": {
+   "1": "Žrtvenik na gori Ebalu",
+   "11": "Prokletstva izrečena s Ebala"
+  },
+  "28": {
+   "1": "Blagoslovi poslušnosti",
+   "15": "Prokletstva neposlušnosti"
+  },
+  "29": {
+   "1": "Savez u Moabu"
+  },
+  "30": {
+   "1": "Obećanje obnove",
+   "11": "Izbor života ili smrti"
+  },
+  "31": {
+   "1": "Jošua će naslijediti Mojsija",
+   "9": "Čitanje Zakona",
+   "14": "Bog postavlja Jošuu",
+   "24": "Zakon položen u Kovčeg",
+   "30": "Mojsije započinje svoju pjesmu"
+  },
+  "32": {
+   "1": "Mojsijeva pjesma",
+   "48": "Naviještena Mojsijeva smrt"
+  },
+  "33": {
+   "1": "Mojsije blagoslivlja dvanaest plemena"
+  },
+  "34": {
+   "1": "Mojsijeva smrt"
+  }
+ },
+ "JOS": {
+  "1": {
+   "1": "Bog poučava Jošuu",
+   "10": "Jošua preuzima vodstvo"
+  },
+  "2": {
+   "1": "Rahaba prima uhode",
+   "8": "Obećanje Rahabi"
+  },
+  "3": {
+   "1": "Prijelaz preko Jordana"
+  },
+  "4": {
+   "1": "Dvanaest kamenova iz Jordana",
+   "19": "Tabor u Gilgalu"
+  },
+  "5": {
+   "1": "Obrezanje i Pasha u Gilgalu",
+   "13": "Vojvoda vojske GOSPODNJE"
+  },
+  "6": {
+   "1": "Zidine Jerihona"
+  },
+  "7": {
+   "1": "Poraz kod Aja",
+   "16": "Akanov grijeh"
+  },
+  "8": {
+   "1": "Osvajanje Aja",
+   "30": "Jošua obnavlja savez"
+  },
+  "9": {
+   "1": "Prijevara Gibeonaca"
+  },
+  "10": {
+   "1": "Dan kada je sunce stalo",
+   "16": "Pobjeda kod Makede",
+   "29": "Osvajanje južnih gradova"
+  },
+  "11": {
+   "1": "Osvajanje sjevernih gradova",
+   "16": "Jošua osvaja svu zemlju"
+  },
+  "12": {
+   "1": "Poraženi kraljevi istočno od Jordana",
+   "7": "Poraženi kraljevi zapadno od Jordana"
+  },
+  "13": {
+   "1": "Zemlje koje još nisu osvojene",
+   "8": "Baština istočno od Jordana",
+   "15": "Rubenova baština",
+   "24": "Gadova baština",
+   "29": "Manašeova istočna baština"
+  },
+  "14": {
+   "1": "Dioba zemlje zapadno od Jordana",
+   "6": "Kaleb traži Hebron"
+  },
+  "15": {
+   "1": "Judina baština",
+   "13": "Kalebov dio i osvajanje",
+   "20": "Gradovi Judini"
+  },
+  "16": {
+   "1": "Efrajimova baština"
+  },
+  "17": {
+   "1": "Manašeova zapadna baština"
+  },
+  "18": {
+   "1": "Ostatak razdijeljen",
+   "11": "Benjaminova baština"
+  },
+  "19": {
+   "1": "Šimunova baština",
+   "10": "Zebulunova baština",
+   "17": "Jisakarova baština",
+   "24": "Ašerova baština",
+   "32": "Naftalijeva baština",
+   "40": "Danova baština",
+   "49": "Jošuina baština"
+  },
+  "20": {
+   "1": "Šest gradova utočišta"
+  },
+  "21": {
+   "1": "Četrdeset osam gradova levitima"
+  },
+  "22": {
+   "1": "Istočna plemena vraćaju se kući",
+   "9": "Žrtvenik svjedok"
+  },
+  "23": {
+   "1": "Jošuina zapovijed poglavarima"
+  },
+  "24": {
+   "1": "Jošua podsjeća na povijest Izraela",
+   "14": "Izaberite komu ćete služiti",
+   "29": "Jošuina smrt i pokop"
+  }
+ },
+ "JDG": {
+  "1": {
+   "1": "Osvajanje Kanaana se nastavlja",
+   "8": "Zauzeće Jeruzalema i Hebrona",
+   "27": "Nedovršeno osvajanje"
+  },
+  "2": {
+   "1": "Izrael ukoren u Bokimu",
+   "6": "Jošuina smrt i pokop",
+   "10": "Nevjernost Izraelova",
+   "16": "Podignuti suci"
+  },
+  "3": {
+   "1": "Narodi ostavljeni da iskušaju Izrael",
+   "7": "Otniel",
+   "12": "Ehud",
+   "31": "Šamgar"
+  },
+  "4": {
+   "1": "Debora i Barak",
+   "17": "Jaela ubija Siseru"
+  },
+  "5": {
+   "1": "Pjesma Debore i Baraka"
+  },
+  "6": {
+   "1": "Midjan tlači Izrael",
+   "11": "Gideonov poziv",
+   "25": "Gideon ruši Baalov žrtvenik",
+   "33": "Znak s runom"
+  },
+  "7": {
+   "1": "Gideonova vojska od tristo ljudi",
+   "9": "Gideonov mač",
+   "15": "Gideon pobjeđuje Midjance"
+  },
+  "8": {
+   "1": "Gideon pobjeđuje Zebaha i Salmuna",
+   "22": "Gideonov oplećak",
+   "28": "Četrdeset godina mira",
+   "32": "Gideonova smrt"
+  },
+  "9": {
+   "1": "Abimelekova urota",
+   "7": "Jotamova prispodoba",
+   "22": "Gaal se uroti sa Šekemcima",
+   "30": "Pad Šekema",
+   "50": "Abimelekova kazna"
+  },
+  "10": {
+   "1": "Tola",
+   "3": "Jair",
+   "6": "Tlačenje od Filistejaca i Amonaca"
+  },
+  "11": {
+   "1": "Jiftah izbavlja Izrael",
+   "29": "Jiftahov tragični zavjet"
+  },
+  "12": {
+   "1": "Jiftah pobjeđuje Efrajima",
+   "8": "Ibsan, Elon i Abdon"
+  },
+  "13": {
+   "1": "Rođenje Samsona"
+  },
+  "14": {
+   "1": "Samsonova ženidba",
+   "8": "Samsonova zagonetka"
+  },
+  "15": {
+   "1": "Samsonova osveta"
+  },
+  "16": {
+   "1": "Samson izmiče iz Gaze",
+   "4": "Samson i Delila",
+   "15": "Delila doznaje tajnu",
+   "23": "Samsonova osveta i smrt"
+  },
+  "17": {
+   "1": "Mikino idolopoklonstvo"
+  },
+  "18": {
+   "1": "Danovci se nastanjuju u Laišu",
+   "14": "Danovci odnose Mikine kumire"
+  },
+  "19": {
+   "1": "Zločin Benjaminovaca"
+  },
+  "20": {
+   "1": "Odluka skupštine",
+   "18": "Rat protiv Benjamina"
+  },
+  "21": {
+   "1": "Žene za Benjaminovce"
+  }
+ },
+ "RUT": {
+  "1": {
+   "1": "Noemi ostaje udovica",
+   "6": "Rutina vjernost Noemi",
+   "19": "Povratak u Betlehem"
+  },
+  "2": {
+   "1": "Boaz susreće Rutu"
+  },
+  "3": {
+   "1": "Osigurano Rutino otkupljenje"
+  },
+  "4": {
+   "1": "Boaz otkupljuje Rutu",
+   "13": "Boaz uzima Rutu za ženu",
+   "18": "Loza Davidova"
+  }
+ },
+ "1SA": {
+  "1": {
+   "1": "Elkana i njegove žene",
+   "9": "Ana moli za sina",
+   "19": "Rođenje Samuela"
+  },
+  "2": {
+   "1": "Anina molitva zahvale",
+   "12": "Elijevi opaki sinovi",
+   "27": "Proroštvo protiv doma Elijeva"
+  },
+  "3": {
+   "1": "GOSPOD zove Samuela",
+   "15": "Samuel objavljuje viđenje"
+  },
+  "4": {
+   "1": "Filistejci osvajaju Kovčeg",
+   "12": "Elijeva smrt"
+  },
+  "5": {
+   "1": "Kovčeg pogađa Filistejce"
+  },
+  "6": {
+   "1": "Kovčeg vraćen Izraelu"
+  },
+  "7": {
+   "1": "Samuel svladava Filistejce"
+  },
+  "8": {
+   "1": "Izrael traži kralja",
+   "10": "Samuelovo upozorenje",
+   "19": "Bog uslišava molbu"
+  },
+  "9": {
+   "1": "Šaul izabran za kralja"
+  },
+  "10": {
+   "1": "Samuel pomazuje Šaula",
+   "9": "Ispunjeni Samuelovi znakovi",
+   "17": "Šaul proglašen kraljem"
+  },
+  "11": {
+   "1": "Šaul pobjeđuje Amonce",
+   "12": "Šaul potvrđen za kralja"
+  },
+  "12": {
+   "1": "Samuelov oproštajni govor"
+  },
+  "13": {
+   "1": "Rat s Filistejcima",
+   "8": "Šaulova nezakonita žrtva",
+   "16": "Izrael bez oružja"
+  },
+  "14": {
+   "1": "Jonatanova pobjeda nad Filistejcima",
+   "24": "Jonatan jede med",
+   "37": "Narod spašava Jonatana",
+   "47": "Šaulove pobjede"
+  },
+  "15": {
+   "1": "Šaulova neposlušnost",
+   "10": "Samuel osuđuje Šaula",
+   "24": "Šaulovo priznanje"
+  },
+  "16": {
+   "1": "Samuel pomazuje Davida",
+   "14": "David služi Šaulu"
+  },
+  "17": {
+   "1": "Golijatov izazov",
+   "12": "David prihvaća izazov",
+   "38": "David ubija Golijata"
+  },
+  "18": {
+   "1": "Jonatan se sprijateljuje s Davidom",
+   "5": "Šaul zavidi Davidu",
+   "17": "David uzima Mikalu za ženu"
+  },
+  "19": {
+   "1": "Šaul pokušava ubiti Davida"
+  },
+  "20": {
+   "1": "Jonatan pomaže Davidu",
+   "10": "Jonatan i David obnavljaju svoj savez",
+   "30": "Šaul nastoji ubiti Jonatana"
+  },
+  "21": {
+   "1": "David uzima posvećeni kruh",
+   "8": "David bježi u Gat"
+  },
+  "22": {
+   "1": "David bježi u Adulam i Mispu",
+   "6": "Šaul ubija svećenike u Nobu"
+  },
+  "23": {
+   "1": "David izbavlja Keilu",
+   "7": "Šaul goni Davida"
+  },
+  "24": {
+   "1": "David štedi Šaula",
+   "16": "Davidova zakletva Šaulu"
+  },
+  "25": {
+   "1": "Samuelova smrt",
+   "2": "David, Nabal i Abigail",
+   "18": "Abigail posreduje za Nabala",
+   "39": "David uzima Abigail za ženu"
+  },
+  "26": {
+   "1": "David ponovno štedi Šaula",
+   "13": "David kori Abnera",
+   "21": "Šaul priznaje svoj grijeh"
+  },
+  "27": {
+   "1": "David i Filistejci"
+  },
+  "28": {
+   "1": "Filistejci se skupljaju protiv Izraela",
+   "7": "Šaul i vračara iz Endora"
+  },
+  "29": {
+   "1": "Filistejci odbacuju Davida"
+  },
+  "30": {
+   "1": "Amalečani pljačkaju Ziklag",
+   "7": "David uništava Amalečane",
+   "21": "Plijen se dijeli"
+  },
+  "31": {
+   "1": "Šaulov pad i smrt",
+   "7": "Filistejci zaposjedaju gradove",
+   "11": "Počast Jabeš-Gileada Šaulu"
+  }
+ },
+ "2SA": {
+  "1": {
+   "1": "Davidu javljena Šaulova smrt",
+   "17": "Davidova tužaljka za Šaulom i Jonatanom"
+  },
+  "2": {
+   "1": "David pomazan za kralja Judina",
+   "8": "Išbošet postavljen za kralja Izraela",
+   "12": "Bitka kod Gibeona"
+  },
+  "3": {
+   "1": "Ojačan dom Davidov",
+   "6": "Abner prelazi Davidu",
+   "22": "Joab ubija Abnera",
+   "31": "David oplakuje Abnera"
+  },
+  "4": {
+   "1": "Umorstvo Išbošeta",
+   "9": "Pogubljenje Rekaba i Baane"
+  },
+  "5": {
+   "1": "David pomazan za kralja svega Izraela",
+   "6": "David osvaja Jeruzalem",
+   "12": "Davidova obitelj raste",
+   "17": "Dvije pobjede nad Filistejcima"
+  },
+  "6": {
+   "1": "David dovodi Kovčeg",
+   "5": "Uza dotiče Kovčeg",
+   "12": "Kovčeg donesen u Jeruzalem",
+   "16": "Mikalin prezir prema Davidu"
+  },
+  "7": {
+   "1": "Božji savez s Davidom",
+   "18": "Davidova molitva zahvale"
+  },
+  "8": {
+   "1": "Davidove pobjede",
+   "15": "Davidovi dostojanstvenici"
+  },
+  "9": {
+   "1": "David i Mefibošet"
+  },
+  "10": {
+   "1": "Davidovi glasnici osramoćeni",
+   "9": "David pobjeđuje Amona i Aram"
+  },
+  "11": {
+   "1": "David i Batšeba",
+   "14": "David smišlja Urijinu smrt",
+   "26": "David uzima Batšebu za ženu"
+  },
+  "12": {
+   "1": "Natan kori Davida",
+   "13": "Davidov gubitak i pokajanje",
+   "24": "Salomonovo rođenje",
+   "26": "Zauzeće Rabe"
+  },
+  "13": {
+   "1": "Amnon i Tamara",
+   "23": "Abšalomova osveta Amnonu",
+   "34": "Abšalom bježi u Gešur"
+  },
+  "14": {
+   "1": "Abšalomov povratak u Jeruzalem",
+   "28": "Abšalom pomiren s Davidom"
+  },
+  "15": {
+   "1": "Abšalomova urota",
+   "13": "David bježi iz Jeruzalema",
+   "30": "David plače na Maslinskoj gori"
+  },
+  "16": {
+   "1": "David i Siba",
+   "5": "Šimej proklinje Davida",
+   "15": "Savjet Ahitofela i Hušaja"
+  },
+  "17": {
+   "1": "Hušaj osujećuje Ahitofelov savjet",
+   "15": "Hušajevo upozorenje spašava Davida"
+  },
+  "18": {
+   "1": "Abšalom ubijen",
+   "19": "David oplakuje Abšaloma"
+  },
+  "19": {
+   "1": "Joab kori Davida",
+   "8": "David vraćen na prijestolje",
+   "16": "Šimeju oprošteno",
+   "24": "Mefibošet opravdan",
+   "31": "Davidova dobrota prema Barzilaju",
+   "41": "Prepirka oko kralja"
+  },
+  "20": {
+   "1": "Šebina pobuna"
+  },
+  "21": {
+   "1": "David osvećuje Gibeonce",
+   "15": "Četiri bitke protiv Filistejaca"
+  },
+  "22": {
+   "1": "Davidova pjesma izbavljenja"
+  },
+  "23": {
+   "1": "Davidova posljednja pjesma",
+   "8": "Davidovi junaci"
+  },
+  "24": {
+   "1": "Davidov popis vojske",
+   "10": "Kazna za Davidov grijeh",
+   "15": "Pomor u Izraelu",
+   "18": "David gradi žrtvenik"
+  }
+ },
+ "1KI": {
+  "1": {
+   "1": "Abišaga dvori Davida",
+   "5": "Adonija prisvaja kraljevstvo",
+   "11": "Natan i Batšeba pred Davidom",
+   "28": "David obnavlja zakletvu Batšebi",
+   "32": "Salomon pomazan za kralja",
+   "41": "Adonija doznaje za Salomonovo kraljevanje"
+  },
+  "2": {
+   "1": "David poučava Salomona",
+   "10": "Davidovo kraljevanje i smrt",
+   "13": "Pogubljenje Adonije",
+   "28": "Pogubljenje Joaba",
+   "36": "Pogubljenje Šimeja"
+  },
+  "3": {
+   "1": "Salomonova molitva za mudrost",
+   "16": "Salomon sudi mudro"
+  },
+  "4": {
+   "1": "Salomonovi knezovi",
+   "7": "Salomonovih dvanaest namjesnika",
+   "20": "Salomonovo blagostanje",
+   "29": "Salomonova mudrost"
+  },
+  "5": {
+   "1": "Priprave za Hram",
+   "7": "Hiramov odgovor Salomonu",
+   "13": "Salomonova radna sila"
+  },
+  "6": {
+   "1": "Počinje gradnja Hrama",
+   "5": "Prostorije",
+   "11": "Božje obećanje Salomonu",
+   "14": "Unutrašnjost Hrama",
+   "23": "Kerubini",
+   "31": "Vrata",
+   "36": "Predvorje"
+  },
+  "7": {
+   "1": "Salomonovo dvorsko zdanje",
+   "13": "Stupovi i glavice",
+   "23": "Liveno more",
+   "27": "Deset mjedenih podnožja",
+   "38": "Deset mjedenih umivaonika",
+   "40": "Dovršenje mjedenih radova",
+   "48": "Dovršenje zlatnog posuđa"
+  },
+  "8": {
+   "1": "Kovčeg ulazi u Hram",
+   "12": "Salomon blagoslivlja GOSPODA",
+   "22": "Salomonova molitva posvete",
+   "54": "Salomonov blagoslov",
+   "62": "Žrtve posvete"
+  },
+  "9": {
+   "1": "Odgovor GOSPODNJI Salomonu",
+   "10": "Daljnja Salomonova djela"
+  },
+  "10": {
+   "1": "Kraljica od Sabe",
+   "14": "Salomonovo bogatstvo i sjaj"
+  },
+  "11": {
+   "1": "Salomonove tuđinske žene",
+   "9": "Božji gnjev na Salomona",
+   "14": "Hadadov povratak",
+   "23": "Rezonovo neprijateljstvo",
+   "26": "Jeroboamova pobuna",
+   "41": "Salomonova smrt"
+  },
+  "12": {
+   "1": "Pobuna protiv Rehoboama",
+   "16": "Podijeljeno kraljevstvo",
+   "20": "Šemajino proroštvo",
+   "25": "Jeroboamovo idolopoklonstvo"
+  },
+  "13": {
+   "1": "Jeroboamu se ruka osuši",
+   "11": "Stari prorok i čovjek Božji"
+  },
+  "14": {
+   "1": "Ahijino proroštvo protiv Jeroboama",
+   "19": "Nadab nasljeđuje Jeroboama",
+   "21": "Rehoboam kraljuje u Judi",
+   "25": "Šišak pljačka Jeruzalem"
+  },
+  "15": {
+   "1": "Abijam kraljuje u Judi",
+   "9": "Asa kraljuje u Judi",
+   "16": "Rat između Ase i Baše",
+   "23": "Jošafat nasljeđuje Asu",
+   "25": "Nadab kraljuje u Izraelu",
+   "33": "Baša kraljuje u Izraelu"
+  },
+  "16": {
+   "1": "Jehuovo proroštvo protiv Baše",
+   "8": "Ela kraljuje u Izraelu",
+   "15": "Zimri kraljuje u Izraelu",
+   "21": "Omri kraljuje u Izraelu",
+   "29": "Ahab kraljuje u Izraelu i ženi Jezabelu"
+  },
+  "17": {
+   "1": "Gavrani hrane Iliju",
+   "8": "Udovica iz Sarfate",
+   "17": "Ilija uskrisuje udovičina sina"
+  },
+  "18": {
+   "1": "Ilijina poruka Ahabu",
+   "16": "Ilija na gori Karmelu",
+   "36": "Ilijina molitva",
+   "41": "GOSPOD šalje kišu"
+  },
+  "19": {
+   "1": "Ilija bježi od Jezabele",
+   "9": "GOSPOD govori Iliji na Horebu",
+   "19": "Elizejev poziv"
+  },
+  "20": {
+   "1": "Benhadad napada Samariju",
+   "13": "Ahab pobjeđuje Benhadada",
+   "26": "Novi rat s Benhadadom",
+   "31": "Ahab poštedi Benhadada",
+   "35": "Prorok kori Ahaba"
+  },
+  "21": {
+   "1": "Nabotov vinograd",
+   "8": "Jezabelina urota",
+   "17": "Ilija osuđuje Ahaba i Jezabelu",
+   "25": "Ahabovo pokajanje"
+  },
+  "22": {
+   "1": "Ahab i lažni proroci",
+   "13": "Mihej prorokuje protiv Ahaba",
+   "29": "Ahabov poraz i smrt",
+   "41": "Jošafat kraljuje u Judi",
+   "51": "Ahazija kraljuje u Izraelu"
+  }
+ },
+ "2KI": {
+  "1": {
+   "1": "Ilija osuđuje Ahaziju",
+   "17": "Joram nasljeđuje Ahaziju"
+  },
+  "2": {
+   "1": "Ilija uznesen na nebo",
+   "15": "Elizej nasljeđuje Iliju",
+   "19": "Elizej ozdravlja vode jerihonske",
+   "23": "Elizej ismijan"
+  },
+  "3": {
+   "1": "Moabova pobuna"
+  },
+  "4": {
+   "1": "Udovičino ulje",
+   "8": "Šunamka",
+   "18": "Elizej uskrisuje Šunamkina sina",
+   "38": "Elizej čisti otrovano jelo",
+   "42": "Nahranjeno stotinu ljudi"
+  },
+  "5": {
+   "1": "Naaman ozdravio od gube",
+   "15": "Gehazijeva pohlepa i guba"
+  },
+  "6": {
+   "1": "Sjekira ispliva",
+   "8": "Elizej zarobljava oslijepljene Aramejce",
+   "24": "Opsada i glad u Samariji"
+  },
+  "7": {
+   "1": "Elizejevo proroštvo o obilju",
+   "3": "Sirijci bježe",
+   "16": "Ispunjeno Elizejevo proroštvo"
+  },
+  "8": {
+   "1": "Šunamki vraćena zemlja",
+   "7": "Hazael ubija Benhadada",
+   "16": "Joram kraljuje u Judi",
+   "20": "Edom i Libna se pobune",
+   "25": "Ahazija kraljuje u Judi"
+  },
+  "9": {
+   "1": "Jehu pomazan za kralja Izraela",
+   "14": "Jehu ubija Jorama i Ahaziju",
+   "30": "Nasilna smrt Jezabelina"
+  },
+  "10": {
+   "1": "Pobijeno sedamdeset Ahabovih sinova",
+   "18": "Jehu ubija Baalove svećenike",
+   "28": "Jehu ponavlja Jeroboamove grijehe",
+   "34": "Jehoahaz nasljeđuje Jehua u Izraelu"
+  },
+  "11": {
+   "1": "Atalija i Joaš",
+   "4": "Joaš pomazan za kralja Judina",
+   "13": "Atalijina smrt",
+   "17": "Jojada obnavlja štovanje GOSPODA"
+  },
+  "12": {
+   "1": "Joaš popravlja Hram",
+   "17": "Joaševa smrt"
+  },
+  "13": {
+   "1": "Jehoahaz kraljuje u Izraelu",
+   "10": "Jehoaš kraljuje u Izraelu",
+   "14": "Elizejevo posljednje proroštvo"
+  },
+  "14": {
+   "1": "Amazija kraljuje u Judi",
+   "8": "Jehoaš pobjeđuje Amaziju",
+   "15": "Jeroboam II. nasljeđuje Jehoaša u Izraelu",
+   "17": "Amazijina smrt",
+   "21": "Azarija nasljeđuje Amaziju u Judi",
+   "23": "Jeroboam II. kraljuje u Izraelu"
+  },
+  "15": {
+   "1": "Azarija kraljuje u Judi",
+   "8": "Zaharija kraljuje u Izraelu",
+   "13": "Šalum kraljuje u Izraelu",
+   "17": "Menahem kraljuje u Izraelu",
+   "23": "Pekahja kraljuje u Izraelu",
+   "27": "Pekah kraljuje u Izraelu",
+   "32": "Jotam kraljuje u Judi"
+  },
+  "16": {
+   "1": "Ahaz kraljuje u Judi",
+   "10": "Ahazovo idolopoklonstvo"
+  },
+  "17": {
+   "1": "Hošea, posljednji kralj Izraela",
+   "5": "Izrael odveden u sužanjstvo u Asiriju",
+   "24": "Samarija ponovno naseljena"
+  },
+  "18": {
+   "1": "Ezekija uništava idolopoklonstvo u Judi",
+   "13": "Sanherib napada Judu",
+   "17": "Sanherib prijeti Jeruzalemu"
+  },
+  "19": {
+   "1": "Izaijina poruka o izbavljenju",
+   "8": "Sanheribovo hulno pismo",
+   "14": "Ezekijina molitva",
+   "20": "Naviješten Sanheribov pad",
+   "35": "Jeruzalem izbavljen od Asiraca"
+  },
+  "20": {
+   "1": "Ezekijina bolest i ozdravljenje",
+   "12": "Ezekija pokazuje svoje blago",
+   "20": "Manaše nasljeđuje Ezekiju"
+  },
+  "21": {
+   "1": "Manaše kraljuje u Judi",
+   "10": "Ukorena Manašeova idolopoklonstva",
+   "19": "Amon kraljuje u Judi"
+  },
+  "22": {
+   "1": "Jošija kraljuje u Judi",
+   "3": "Sredstva za popravak Hrama",
+   "8": "Hilkija nalazi Knjigu Zakona",
+   "14": "Huldino proroštvo"
+  },
+  "23": {
+   "1": "Jošija obnavlja savez",
+   "4": "Jošija uništava idolopoklonstvo",
+   "21": "Jošija obnavlja Pashu",
+   "28": "Jošijina smrt",
+   "31": "Jehoahaz nasljeđuje Jošiju",
+   "36": "Jojakim kraljuje u Judi"
+  },
+  "24": {
+   "1": "Babilon podvrgava Jojakima",
+   "6": "Jehojakin kraljuje u Judi",
+   "10": "Sužanjstvo Jeruzalema",
+   "18": "Zedekija kraljuje u Judi"
+  },
+  "25": {
+   "1": "Nabukodonosor opsjeda Jeruzalem",
+   "8": "Razoreni Hram",
+   "18": "Sužnji odvedeni u Babilon",
+   "22": "Gedalija upravlja Judom",
+   "25": "Umorstvo Gedalije",
+   "27": "Jehojakin pušten iz tamnice"
+  }
+ },
+ "1CH": {
+  "1": {
+   "1": "Od Adama do Abrahama",
+   "28": "Abrahamovi potomci",
+   "35": "Ezavovi potomci",
+   "38": "Seirovi potomci",
+   "43": "Kraljevi edomski"
+  },
+  "2": {
+   "1": "Sinovi Izraelovi"
+  },
+  "3": {
+   "1": "Davidovi potomci",
+   "10": "Salomonovi potomci",
+   "17": "Kraljevska loza nakon sužanjstva"
+  },
+  "4": {
+   "1": "Judini potomci",
+   "9": "Jabesova molitva",
+   "11": "Daljnji Judini potomci",
+   "24": "Šimunovi potomci"
+  },
+  "5": {
+   "1": "Rubenovi potomci",
+   "11": "Gadovi potomci",
+   "23": "Polovica plemena Manašeova"
+  },
+  "6": {
+   "1": "Levijevi potomci",
+   "31": "Hramski pjevači",
+   "48": "Aronovi potomci",
+   "54": "Područja za levite"
+  },
+  "7": {
+   "1": "Jisakarovi potomci",
+   "6": "Benjaminovi potomci",
+   "13": "Naftalijevi potomci",
+   "14": "Manašeovi potomci",
+   "20": "Efrajimovi potomci",
+   "30": "Ašerovi potomci"
+  },
+  "8": {
+   "1": "Rodoslovlje od Benjamina do Šaula",
+   "33": "Šaulova obitelj"
+  },
+  "9": {
+   "1": "Stanovnici Jeruzalema",
+   "35": "Šaulovi potomci"
+  },
+  "10": {
+   "1": "Šaulov pad i smrt",
+   "7": "Filistejci zaposjedaju gradove",
+   "11": "Počast Jabeš-Gileada Šaulu"
+  },
+  "11": {
+   "1": "David pomazan za kralja svega Izraela",
+   "4": "David osvaja Jeruzalem",
+   "10": "Davidovi junaci"
+  },
+  "12": {
+   "1": "Junaci pristaju uz Davida u Ziklagu",
+   "23": "Davidova vojska raste u Hebronu"
+  },
+  "13": {
+   "1": "David dovodi Kovčeg",
+   "8": "Uza dotiče Kovčeg"
+  },
+  "14": {
+   "1": "Davidova obitelj raste",
+   "8": "Dvije pobjede nad Filistejcima"
+  },
+  "15": {
+   "1": "Priprava za prijenos Kovčega",
+   "14": "Svećenici i leviti nose Kovčeg",
+   "25": "Prijenos Kovčega u Jeruzalem",
+   "29": "Mikalin prezir prema Davidu"
+  },
+  "16": {
+   "1": "Šator za Kovčeg",
+   "7": "Davidovi psalmi zahvale",
+   "23": "Pjevaj GOSPODU, sva zemljo",
+   "37": "Bogoslužje pred Kovčegom"
+  },
+  "17": {
+   "1": "Božji savez s Davidom",
+   "16": "Davidova molitva zahvale"
+  },
+  "18": {
+   "1": "Davidove pobjede",
+   "14": "Davidovi dostojanstvenici"
+  },
+  "19": {
+   "1": "Davidovi glasnici osramoćeni",
+   "10": "David pobjeđuje Amona i Aram"
+  },
+  "20": {
+   "1": "Zauzeće Rabe",
+   "4": "Bitke protiv Filistejaca"
+  },
+  "21": {
+   "1": "Davidov popis vojske",
+   "7": "Kazna za Davidov grijeh",
+   "14": "Pomor u Izraelu",
+   "18": "David gradi žrtvenik"
+  },
+  "22": {
+   "1": "Priprave za Hram",
+   "6": "Salomon pomazan da sagradi Hram"
+  },
+  "23": {
+   "1": "Redovi levita",
+   "7": "Geršonovci",
+   "12": "Kehatovci",
+   "21": "Merarijevci",
+   "24": "Izmijenjene dužnosti levita"
+  },
+  "24": {
+   "1": "Dvadeset četiri reda svećenika",
+   "20": "Ostali leviti"
+  },
+  "25": {
+   "1": "Dvadeset četiri reda pjevača"
+  },
+  "26": {
+   "1": "Redovi vratara",
+   "20": "Rizničari, službenici i suci"
+  },
+  "27": {
+   "1": "Dvanaest zapovjednika za dvanaest mjeseci",
+   "16": "Poglavari dvanaest plemena",
+   "25": "Davidovi nadglednici",
+   "32": "Savjetnici"
+  },
+  "28": {
+   "1": "David postavlja Salomona",
+   "11": "Nacrti za Hram"
+  },
+  "29": {
+   "1": "Prinosi za Hram",
+   "10": "Davidova molitva blagoslova",
+   "21": "Salomon pomazan za kralja",
+   "26": "Davidovo kraljevanje i smrt"
+  }
+ },
+ "2CH": {
+  "1": {
+   "1": "Salomonova molitva za mudrost",
+   "14": "Salomonovo bogatstvo"
+  },
+  "2": {
+   "1": "Priprave za Hram",
+   "11": "Hiramov odgovor Salomonu"
+  },
+  "3": {
+   "1": "Počinje gradnja Hrama",
+   "5": "Unutrašnjost Hrama",
+   "10": "Kerubini",
+   "14": "Zastor i stupovi"
+  },
+  "4": {
+   "1": "Mjedeni žrtvenik i liveno more",
+   "6": "Deset umivaonika, svijećnjaka i stolova",
+   "9": "Predvorja",
+   "11": "Dovršenje mjedenih radova",
+   "19": "Dovršenje zlatnog posuđa"
+  },
+  "5": {
+   "1": "Kovčeg ulazi u Hram"
+  },
+  "6": {
+   "1": "Salomon blagoslivlja GOSPODA",
+   "12": "Salomonova molitva posvete"
+  },
+  "7": {
+   "1": "Oganj s neba",
+   "4": "Žrtve posvete",
+   "11": "Odgovor GOSPODNJI Salomonu"
+  },
+  "8": {
+   "1": "Daljnja Salomonova djela"
+  },
+  "9": {
+   "1": "Kraljica od Sabe",
+   "13": "Salomonovo bogatstvo i sjaj",
+   "29": "Salomonova smrt"
+  },
+  "10": {
+   "1": "Pobuna protiv Rehoboama",
+   "16": "Podijeljeno kraljevstvo"
+  },
+  "11": {
+   "1": "Šemajino proroštvo",
+   "5": "Rehoboam utvrđuje Judu",
+   "13": "Jeroboam odbacuje svećenike i levite",
+   "18": "Rehoboamova obitelj"
+  },
+  "12": {
+   "1": "Šišak pljačka Jeruzalem",
+   "13": "Rehoboamovo kraljevanje i smrt"
+  },
+  "13": {
+   "1": "Abija kraljuje u Judi",
+   "4": "Rat protiv Jeroboama"
+  },
+  "14": {
+   "1": "Asa kraljuje u Judi"
+  },
+  "15": {
+   "1": "Azarijino proroštvo",
+   "8": "Asine reforme"
+  },
+  "16": {
+   "1": "Rat između Ase i Baše",
+   "7": "Hananijeva poruka Asi",
+   "11": "Asina smrt i pokop"
+  },
+  "17": {
+   "1": "Jošafat kraljuje u Judi"
+  },
+  "18": {
+   "1": "Jošafat se udružuje s Ahabom",
+   "12": "Mihej prorokuje protiv Ahaba",
+   "28": "Ahabov poraz i smrt"
+  },
+  "19": {
+   "1": "Jehu kori Jošafata",
+   "4": "Jošafatove reforme"
+  },
+  "20": {
+   "1": "Rat protiv Jošafata",
+   "5": "Jošafatova molitva",
+   "14": "Jahazielovo proroštvo",
+   "20": "Neprijatelji se međusobno uništavaju",
+   "26": "Radostan povratak",
+   "31": "Sažetak Jošafatova kraljevanja",
+   "35": "Jošafatovo brodovlje se razbija"
+  },
+  "21": {
+   "1": "Joram kraljuje u Judi",
+   "8": "Edom i Libna se pobune",
+   "12": "Ilijino pismo Jehoramu",
+   "16": "Joramova bolest i smrt"
+  },
+  "22": {
+   "1": "Ahazija kraljuje u Judi",
+   "8": "Jehu ubija knezove Judine",
+   "10": "Atalija i Joaš"
+  },
+  "23": {
+   "1": "Joaš pomazan za kralja Judina",
+   "12": "Atalijina smrt",
+   "16": "Jojada obnavlja štovanje GOSPODA"
+  },
+  "24": {
+   "1": "Joaš popravlja Hram",
+   "15": "Jojadina smrt i pokop",
+   "17": "Joaševa opakost",
+   "23": "Joaševa smrt"
+  },
+  "25": {
+   "1": "Amazija kraljuje u Judi",
+   "5": "Amazijine pobjede",
+   "14": "Amazija ukoren zbog idolopoklonstva",
+   "17": "Jehoaš pobjeđuje Amaziju",
+   "25": "Amazijina smrt"
+  },
+  "26": {
+   "1": "Uzija kraljuje u Judi"
+  },
+  "27": {
+   "1": "Jotam kraljuje u Judi"
+  },
+  "28": {
+   "1": "Ahaz kraljuje u Judi",
+   "5": "Aram pobjeđuje Judu",
+   "16": "Ahazovo idolopoklonstvo"
+  },
+  "29": {
+   "1": "Ezekija čisti Hram",
+   "20": "Ezekija obnavlja bogoslužje u Hramu"
+  },
+  "30": {
+   "1": "Ezekija proglašava Pashu",
+   "13": "Ezekija slavi Pashu"
+  },
+  "31": {
+   "1": "Uništenje kumira",
+   "3": "Prilozi za bogoslužje",
+   "11": "Ezekija ustrojava svećenike"
+  },
+  "32": {
+   "1": "Sanherib napada Judu",
+   "9": "Sanherib prijeti Jeruzalemu",
+   "20": "Jeruzalem izbavljen od Asiraca",
+   "24": "Ezekijina bolest i ozdravljenje",
+   "32": "Ezekijina smrt"
+  },
+  "33": {
+   "1": "Manaše kraljuje u Judi",
+   "10": "Manašeovo pokajanje i obnova",
+   "21": "Amon kraljuje u Judi"
+  },
+  "34": {
+   "1": "Jošija kraljuje u Judi",
+   "3": "Jošija uništava idolopoklonstvo",
+   "8": "Jošija popravlja Hram",
+   "14": "Hilkija nalazi Knjigu Zakona",
+   "22": "Huldino proroštvo",
+   "29": "Jošija obnavlja savez"
+  },
+  "35": {
+   "1": "Jošija obnavlja Pashu",
+   "20": "Jošijina smrt",
+   "25": "Tužaljke za Jošijom"
+  },
+  "36": {
+   "1": "Jehoahaz nasljeđuje Jošiju",
+   "5": "Jojakim kraljuje u Judi",
+   "9": "Jehojakin kraljuje u Judi",
+   "11": "Zedekija kraljuje u Judi",
+   "15": "Pad Jeruzalema",
+   "22": "Kirov proglas"
+  }
+ },
+ "EZR": {
+  "1": {
+   "1": "Kirov proglas",
+   "7": "Kir vraća sveto posuđe"
+  },
+  "2": {
+   "1": "Popis povratnika iz sužanjstva",
+   "68": "Prinosi povratnika iz sužanjstva"
+  },
+  "3": {
+   "1": "Obnovljene žrtve",
+   "8": "Počinje obnova Hrama"
+  },
+  "4": {
+   "1": "Protivnici ometaju gradnju",
+   "6": "Protivljenje za Ahasvera i Artakserksa",
+   "17": "Artakserksov proglas"
+  },
+  "5": {
+   "1": "Nastavlja se obnova Hrama",
+   "6": "Tatnajevo pismo Dariju"
+  },
+  "6": {
+   "1": "Darijev proglas",
+   "13": "Dovršeni Hram",
+   "16": "Posveta Hrama",
+   "19": "Povratnici slave Pashu"
+  },
+  "7": {
+   "1": "Ezra dolazi u Jeruzalem",
+   "11": "Artakserksovo pismo Ezri",
+   "27": "Ezra blagoslivlja Boga"
+  },
+  "8": {
+   "1": "Povratnici koji su došli s Ezrom",
+   "15": "Ezra šalje po levite",
+   "21": "Post za zaštitu",
+   "24": "Svećenici neka čuvaju prinose",
+   "32": "Dolazak u Jeruzalem"
+  },
+  "9": {
+   "1": "Brakovi sa susjednim narodima",
+   "5": "Ezrina molitva ispovijedanja"
+  },
+  "10": {
+   "1": "Šekanijino ohrabrenje",
+   "6": "Narodno ispovijedanje grijeha",
+   "18": "Krivci za mješovite brakove"
+  }
+ },
+ "NEH": {
+  "1": {
+   "1": "Nehemijina molitva"
+  },
+  "2": {
+   "1": "Nehemija poslan u Jeruzalem",
+   "11": "Nehemija razgleda zidine"
+  },
+  "3": {
+   "1": "Graditelji zidina"
+  },
+  "4": {
+   "1": "Ismijana gradnja",
+   "9": "Nadvladana malodušnost"
+  },
+  "5": {
+   "1": "Nehemija brani potlačene",
+   "14": "Nehemijina darežljivost"
+  },
+  "6": {
+   "1": "Sanbalatova urota",
+   "15": "Dovršenje zida"
+  },
+  "7": {
+   "1": "Osiguranje grada",
+   "4": "Popis povratnika iz sužanjstva",
+   "70": "Prinosi povratnika iz sužanjstva"
+  },
+  "8": {
+   "1": "Ezra čita Zakon",
+   "13": "Blagdan sjenica"
+  },
+  "9": {
+   "1": "Narod ispovijeda svoje grijehe"
+  },
+  "10": {
+   "1": "Potpisnici saveza",
+   "28": "Zavjeti saveza"
+  },
+  "11": {
+   "1": "Novi stanovnici Jeruzalema",
+   "20": "Stanovnici izvan Jeruzalema"
+  },
+  "12": {
+   "1": "Svećenici i leviti koji su se vratili",
+   "27": "Posveta zida",
+   "44": "Odredbe za bogoslužje u Hramu"
+  },
+  "13": {
+   "1": "Isključeni tuđinci",
+   "4": "Očišćeni Hram",
+   "10": "Obnovljene desetine",
+   "15": "Obnovljena subota",
+   "23": "Zabranjeni mješoviti brakovi"
+  }
+ },
+ "EST": {
+  "1": {
+   "1": "Ahasverova kraljevska gozba",
+   "9": "Odbijanje kraljice Vašti",
+   "13": "Kraljica Vašti svrgnuta"
+  },
+  "2": {
+   "1": "Traži se nasljednica Vašti",
+   "5": "Estera nalazi milost",
+   "17": "Estera postaje kraljicom",
+   "21": "Mordokaj otkriva urotu"
+  },
+  "3": {
+   "1": "Hamanova urota protiv Židova"
+  },
+  "4": {
+   "1": "Mordokaj se obraća Esteri"
+  },
+  "5": {
+   "1": "Estera pristupa kralju",
+   "9": "Hamanova urota protiv Mordokaja"
+  },
+  "6": {
+   "1": "Mordokaj počašćen"
+  },
+  "7": {
+   "1": "Estera moli za svoj narod",
+   "7": "Vješanje Hamana"
+  },
+  "8": {
+   "1": "Estera se zauzima za Židove",
+   "7": "Ahasverov proglas"
+  },
+  "9": {
+   "1": "Židovi uništavaju svoje neprijatelje",
+   "11": "Obješeni Hamanovi sinovi",
+   "18": "Ustanovljen blagdan Purim"
+  },
+  "10": {
+   "1": "Danak Ahasveru i Mordokaju"
+  }
+ },
+ "JOB": {
+  "1": {
+   "1": "Jobova čestitost i bogatstvo",
+   "6": "Prvi Sotonin napad",
+   "13": "Job gubi djecu i imanje"
+  },
+  "2": {
+   "1": "Job gubi zdravlje",
+   "11": "Jobova tri prijatelja"
+  },
+  "3": {
+   "1": "Job kune dan svojega rođenja"
+  },
+  "4": {
+   "1": "Elifaz: Nedužni napreduju"
+  },
+  "5": {
+   "1": "Elifaz nastavlja: Bog blagoslivlja one koji ga traže"
+  },
+  "6": {
+   "1": "Job odgovara: Tužba je moja pravedna"
+  },
+  "7": {
+   "1": "Job nastavlja: Život se čini ispraznim"
+  },
+  "8": {
+   "1": "Bildad: Job se treba pokajati"
+  },
+  "9": {
+   "1": "Job: Kako da se prem s Bogom?"
+  },
+  "10": {
+   "1": "Jobova molba Bogu"
+  },
+  "11": {
+   "1": "Sofar kori Joba"
+  },
+  "12": {
+   "1": "Job iznosi svoju parnicu"
+  },
+  "13": {
+   "1": "Job priprema svoju parnicu"
+  },
+  "14": {
+   "1": "Job tuguje nad konačnošću smrti"
+  },
+  "15": {
+   "1": "Elifaz: Job se ne boji Boga"
+  },
+  "16": {
+   "1": "Job kudi svoje tješitelje"
+  },
+  "17": {
+   "1": "Job se sprema na smrt"
+  },
+  "18": {
+   "1": "Bildad: Bog kažnjava opake"
+  },
+  "19": {
+   "1": "Job: Otkupitelj moj živi"
+  },
+  "20": {
+   "1": "Sofar: Opake čeka propast"
+  },
+  "21": {
+   "1": "Job: Bog će kazniti opake"
+  },
+  "22": {
+   "1": "Elifaz: Može li čovjek koristiti Bogu?"
+  },
+  "23": {
+   "1": "Job čezne za Bogom"
+  },
+  "24": {
+   "1": "Job: Sud nad opakima"
+  },
+  "25": {
+   "1": "Bildad: Čovjek ne može biti pravedan"
+  },
+  "26": {
+   "1": "Job: Tko može shvatiti veličanstvo Božje?"
+  },
+  "27": {
+   "1": "Job potvrđuje svoju čestitost",
+   "7": "Dio opaka čovjeka"
+  },
+  "28": {
+   "1": "Gdje se nalazi mudrost?"
+  },
+  "29": {
+   "1": "Jobovi negdašnji blagoslovi"
+  },
+  "30": {
+   "1": "Jobova čast pretvorena u prezir",
+   "15": "Jobovo blagostanje pretvara se u nesreću"
+  },
+  "31": {
+   "1": "Jobov posljednji zaziv"
+  },
+  "32": {
+   "1": "Elihu kori Jobove prijatelje"
+  },
+  "33": {
+   "1": "Elihu kori Joba"
+  },
+  "34": {
+   "1": "Elihu potvrđuje Božju pravednost"
+  },
+  "35": {
+   "1": "Elihu podsjeća na Božju pravednost"
+  },
+  "36": {
+   "1": "Elihu opisuje Božju moć"
+  },
+  "37": {
+   "1": "Elihu naviješta Božje veličanstvo"
+  },
+  "38": {
+   "1": "GOSPOD izaziva Joba"
+  },
+  "39": {
+   "1": "GOSPOD govori o svojem stvorenju"
+  },
+  "40": {
+   "1": "Job se ponizuje pred GOSPODOM",
+   "6": "GOSPOD ponovno izaziva Joba"
+  },
+  "41": {
+   "1": "Moć GOSPODNJA očitovana u Levijatanu"
+  },
+  "42": {
+   "1": "Job se podlaže GOSPODU",
+   "7": "GOSPOD kori Jobove prijatelje",
+   "10": "GOSPOD blagoslivlja Joba"
+  }
+ },
+ "PSA": {
+  "1": {
+   "1": "Dva puta"
+  },
+  "2": {
+   "1": "Pobjedonosni Mesija"
+  },
+  "3": {
+   "1": "Izbavi me, GOSPODE!"
+  },
+  "4": {
+   "1": "Usliši me kad zazovem!"
+  },
+  "5": {
+   "1": "Prikloni uho riječima mojim"
+  },
+  "6": {
+   "1": "Ne kori me u gnjevu svojem"
+  },
+  "7": {
+   "1": "K tebi se utječem"
+  },
+  "8": {
+   "1": "Kako je veličanstveno ime tvoje!"
+  },
+  "9": {
+   "1": "Zahvaljivat ću GOSPODU"
+  },
+  "10": {
+   "1": "Pogibelji hodočasnika"
+  },
+  "11": {
+   "1": "U GOSPODA se uzdam"
+  },
+  "12": {
+   "1": "Nestalo je pobožnih"
+  },
+  "13": {
+   "1": "Dokle, GOSPODE?"
+  },
+  "14": {
+   "1": "Bezumnik govori: Nema Boga"
+  },
+  "15": {
+   "1": "Tko smije prebivati na svetoj gori tvojoj?"
+  },
+  "16": {
+   "1": "Prisutnost GOSPODNJA"
+  },
+  "17": {
+   "1": "Čuj pravednu molbu moju"
+  },
+  "18": {
+   "1": "GOSPOD je hrid moja"
+  },
+  "19": {
+   "1": "Nebesa kazuju slavu Božju"
+  },
+  "20": {
+   "1": "Dan nevolje"
+  },
+  "21": {
+   "1": "Nakon bitke"
+  },
+  "22": {
+   "1": "Psalam križa"
+  },
+  "23": {
+   "1": "GOSPOD je pastir moj"
+  },
+  "24": {
+   "1": "GOSPODNJA je zemlja"
+  },
+  "25": {
+   "1": "K tebi uzdižem dušu svoju"
+  },
+  "26": {
+   "1": "Dosudi mi pravdu, GOSPODE"
+  },
+  "27": {
+   "1": "GOSPOD je spasenje moje"
+  },
+  "28": {
+   "1": "GOSPOD je snaga moja"
+  },
+  "29": {
+   "1": "Dajte slavu GOSPODU"
+  },
+  "30": {
+   "1": "Pretvorio si tugu moju u ples"
+  },
+  "31": {
+   "1": "U ruke tvoje predajem duh svoj"
+  },
+  "32": {
+   "1": "Radost oproštenja"
+  },
+  "33": {
+   "1": "Hvala Stvoritelju"
+  },
+  "34": {
+   "1": "Kušajte i vidite kako je dobar GOSPOD"
+  },
+  "35": {
+   "1": "Bori se s protivnicima mojim, GOSPODE"
+  },
+  "36": {
+   "1": "Prijestup opakih"
+  },
+  "37": {
+   "1": "Naslađuj se u GOSPODU"
+  },
+  "38": {
+   "1": "Ne kori me u gnjevu svojem"
+  },
+  "39": {
+   "1": "Pazit ću na putove svoje"
+  },
+  "40": {
+   "1": "Strpljivo sam čekao GOSPODA"
+  },
+  "41": {
+   "1": "Pobjeda nad izdajom"
+  },
+  "42": {
+   "1": "Kao što jelen žudi za vodom"
+  },
+  "43": {
+   "1": "Pošalji svjetlo svoje"
+  },
+  "44": {
+   "1": "Otkupi nas, Bože"
+  },
+  "45": {
+   "1": "Srce mi je ganuto lijepom riječju"
+  },
+  "46": {
+   "1": "Bog je naše utočište i snaga"
+  },
+  "47": {
+   "1": "Plješćite rukama, svi narodi"
+  },
+  "48": {
+   "1": "Slomljeni jaram"
+  },
+  "49": {
+   "1": "Prolaznost bogatstva"
+  },
+  "50": {
+   "1": "Silni zove"
+  },
+  "51": {
+   "1": "Čisto srce stvori u meni, Bože"
+  },
+  "52": {
+   "1": "Zašto se hvališ zlom?"
+  },
+  "53": {
+   "1": "Bezumnik govori: Nema Boga"
+  },
+  "54": {
+   "1": "Spasi me imenom svojim"
+  },
+  "55": {
+   "1": "Baci brigu svoju na GOSPODA"
+  },
+  "56": {
+   "1": "Smiluj mi se, Bože"
+  },
+  "57": {
+   "1": "U tebi se duša moja sklanja"
+  },
+  "58": {
+   "1": "Bog sudi zemlji"
+  },
+  "59": {
+   "1": "Izbavi me od neprijatelja mojih"
+  },
+  "60": {
+   "1": "Pobjeda s Bogom"
+  },
+  "61": {
+   "1": "Čuo si zavjete moje"
+  },
+  "62": {
+   "1": "Čekanje na Boga"
+  },
+  "63": {
+   "1": "Žeđ za Bogom"
+  },
+  "64": {
+   "1": "Jezik koji ranjava"
+  },
+  "65": {
+   "1": "Tebi pripada hvala, Bože, na Sionu"
+  },
+  "66": {
+   "1": "Kličite od radosti"
+  },
+  "67": {
+   "1": "Neka Bog razvedri lice svoje nad nama"
+  },
+  "68": {
+   "1": "Božji se neprijatelji raspršuju"
+  },
+  "69": {
+   "1": "Vode mi dopriješe do grla"
+  },
+  "70": {
+   "1": "Pohitaj mi u pomoć, GOSPODE!"
+  },
+  "71": {
+   "1": "Budi mi hrid utočišta"
+  },
+  "72": {
+   "1": "Daj kralju pravednost svoju"
+  },
+  "73": {
+   "1": "Zaista je Bog dobar Izraelu"
+  },
+  "74": {
+   "1": "Zašto si nas zauvijek odbacio?"
+  },
+  "75": {
+   "1": "Božji pravedni sud"
+  },
+  "76": {
+   "1": "Veliko je ime Božje u Izraelu"
+  },
+  "77": {
+   "1": "U dan nevolje tražih GOSPODA"
+  },
+  "78": {
+   "1": "Otvorit ću usta svoja u prispodobama"
+  },
+  "79": {
+   "1": "Molitva za izbavljenje"
+  },
+  "80": {
+   "1": "Čuj nas, Pastiru Izraelov"
+  },
+  "81": {
+   "1": "Kličite Bogu, snazi našoj"
+  },
+  "82": {
+   "1": "Bog predsjeda u zboru božanskom"
+  },
+  "83": {
+   "1": "Bože, ne šuti"
+  },
+  "84": {
+   "1": "Bolji je jedan dan u tvojim dvorima"
+  },
+  "85": {
+   "1": "Omilje ti, GOSPODE, zemlja tvoja"
+  },
+  "86": {
+   "1": "Kušan, ali pouzdan"
+  },
+  "87": {
+   "1": "GOSPOD ljubi vrata sionska"
+  },
+  "88": {
+   "1": "Vapim pred tobom"
+  },
+  "89": {
+   "1": "Vječno ću pjevati o ljubavi njegovoj"
+  },
+  "90": {
+   "1": "Od vijeka do vijeka"
+  },
+  "91": {
+   "1": "Ti si utočište moje i tvrđava moja"
+  },
+  "92": {
+   "1": "Kako su velika djela tvoja!"
+  },
+  "93": {
+   "1": "GOSPOD kraljuje!"
+  },
+  "94": {
+   "1": "GOSPOD neće zaboraviti svoj narod"
+  },
+  "95": {
+   "1": "Ne otvrdnite srca svoja"
+  },
+  "96": {
+   "1": "Pjevaj GOSPODU, sva zemljo"
+  },
+  "97": {
+   "1": "Neka se raduje zemlja"
+  },
+  "98": {
+   "1": "Pjevajte GOSPODU pjesmu novu"
+  },
+  "99": {
+   "1": "GOSPOD kraljuje!"
+  },
+  "100": {
+   "1": "Kličite od radosti"
+  },
+  "101": {
+   "1": "Ništa opako neću staviti pred oči svoje"
+  },
+  "102": {
+   "1": "Molitva nevoljnika"
+  },
+  "103": {
+   "1": "Blagoslivljaj GOSPODA, dušo moja"
+  },
+  "104": {
+   "1": "Kako su mnoga djela tvoja, GOSPODE!"
+  },
+  "105": {
+   "1": "Pripovijedajte čudesa njegova"
+  },
+  "106": {
+   "1": "Hvalite GOSPODA jer je dobar"
+  },
+  "107": {
+   "1": "Zahvala za izbavljenje"
+  },
+  "108": {
+   "1": "Blagoslov kraljevstva Izraelova"
+  },
+  "109": {
+   "1": "Pjesma oklevetanoga"
+  },
+  "110": {
+   "1": "Božji vjerni Mesija"
+  },
+  "111": {
+   "1": "Veličanstveno je djelo njegovo"
+  },
+  "112": {
+   "1": "Blažen strah GOSPODNJI"
+  },
+  "113": {
+   "1": "GOSPOD uzvisuje ponizne"
+  },
+  "114": {
+   "1": "Psalam izlaska"
+  },
+  "115": {
+   "1": "Tvojemu imenu neka je slava"
+  },
+  "116": {
+   "1": "GOSPOD je čuo glas moj"
+  },
+  "117": {
+   "1": "Slavite ga, svi narodi"
+  },
+  "118": {
+   "1": "GOSPOD je na mojoj strani"
+  },
+  "119": {
+   "1": "Riječ je tvoja svjetiljka nozi mojoj"
+  },
+  "120": {
+   "1": "U nevolji svojoj zazvah GOSPODA"
+  },
+  "121": {
+   "1": "Podižem oči svoje k gorama"
+  },
+  "122": {
+   "1": "Molite za mir Jeruzalema"
+  },
+  "123": {
+   "1": "K tebi podižem oči svoje"
+  },
+  "124": {
+   "1": "Pomoć je naša u imenu GOSPODNJEM"
+  },
+  "125": {
+   "1": "GOSPOD okružuje svoj narod"
+  },
+  "126": {
+   "1": "Vraćeni sužnji sionski"
+  },
+  "127": {
+   "1": "Djeca su baština od GOSPODA"
+  },
+  "128": {
+   "1": "Blažen strah GOSPODNJI"
+  },
+  "129": {
+   "1": "Uzice opakih"
+  },
+  "130": {
+   "1": "Iz dubine"
+  },
+  "131": {
+   "1": "Smirio sam dušu svoju"
+  },
+  "132": {
+   "1": "GOSPOD je izabrao Sion"
+  },
+  "133": {
+   "1": "Kako je milo živjeti u slozi!"
+  },
+  "134": {
+   "1": "Blagoslivljajte GOSPODA, sve sluge"
+  },
+  "135": {
+   "1": "Hvalite, sluge GOSPODNJE"
+  },
+  "136": {
+   "1": "Ljubav njegova vječno traje"
+  },
+  "137": {
+   "1": "Na rijekama babilonskim"
+  },
+  "138": {
+   "1": "Zahvalno srce"
+  },
+  "139": {
+   "1": "Pronikao si me i poznaješ me"
+  },
+  "140": {
+   "1": "Izbavi me od zlih ljudi"
+  },
+  "141": {
+   "1": "Pohitaj k meni"
+  },
+  "142": {
+   "1": "Glas svoj podižem GOSPODU"
+  },
+  "143": {
+   "1": "K tebi pružam ruke svoje"
+  },
+  "144": {
+   "1": "Blagoslovljen GOSPOD, hrid moja"
+  },
+  "145": {
+   "1": "Uzvisivat ću te, Bože moj i Kralju"
+  },
+  "146": {
+   "1": "Hvali GOSPODA, dušo moja"
+  },
+  "147": {
+   "1": "Dobro je pjevati hvale"
+  },
+  "148": {
+   "1": "Hvalite GOSPODA s nebesa"
+  },
+  "149": {
+   "1": "Pjevajte GOSPODU pjesmu novu"
+  },
+  "150": {
+   "1": "Sve što diše neka hvali GOSPODA"
+  }
+ },
+ "PRO": {
+  "1": {
+   "1": "Početak spoznaje",
+   "8": "Zamamljivost grijeha",
+   "20": "Mudrost glasno zove"
+  },
+  "2": {
+   "1": "Koristi mudrosti"
+  },
+  "3": {
+   "1": "Uzdaj se u GOSPODA svim srcem svojim",
+   "13": "Blagoslovi mudrosti"
+  },
+  "4": {
+   "1": "Očeva pouka"
+  },
+  "5": {
+   "1": "Kloniti se bluda"
+  },
+  "6": {
+   "1": "Opomene protiv ludosti",
+   "20": "Opomene protiv preljuba"
+  },
+  "7": {
+   "1": "Opomene o preljubnici"
+  },
+  "8": {
+   "1": "Izvrsnost mudrosti"
+  },
+  "9": {
+   "1": "Put mudrosti",
+   "13": "Put ludosti"
+  },
+  "10": {
+   "1": "Salomonove izreke: Mudar sin"
+  },
+  "11": {
+   "1": "Nepoštena mjerila"
+  },
+  "12": {
+   "1": "Ljubav prema stezi i spoznaji"
+  },
+  "13": {
+   "1": "Očinska stega"
+  },
+  "14": {
+   "1": "Mudra žena"
+  },
+  "15": {
+   "1": "Blag odgovor odvraća gnjev"
+  },
+  "16": {
+   "1": "Odgovor jezika je od GOSPODA"
+  },
+  "17": {
+   "1": "Bolji suh zalogaj u miru"
+  },
+  "18": {
+   "1": "Sebičnost neprijazna čovjeka"
+  },
+  "19": {
+   "1": "Čestit čovjek"
+  },
+  "20": {
+   "1": "Vino je podsmjevač"
+  },
+  "21": {
+   "1": "Kraljevo srce"
+  },
+  "22": {
+   "1": "Dobro ime",
+   "17": "Trideset izreka mudrih · Izreka 1",
+   "22": "Izreka 2",
+   "24": "Izreka 3",
+   "26": "Izreka 4",
+   "28": "Izreka 5",
+   "29": "Izreka 6"
+  },
+  "23": {
+   "1": "Pravo bogatstvo · Izreka 7",
+   "4": "Izreka 8",
+   "6": "Izreka 9",
+   "9": "Izreka 10",
+   "10": "Izreka 11",
+   "12": "Izreka 12",
+   "13": "Izreka 13",
+   "15": "Izreka 14",
+   "17": "Izreka 15",
+   "19": "Izreka 16",
+   "22": "Izreka 17",
+   "26": "Izreka 18",
+   "29": "Izreka 19"
+  },
+  "24": {
+   "1": "Ne zavidi · Izreka 20",
+   "3": "Izreka 21",
+   "5": "Izreka 22",
+   "7": "Izreka 23",
+   "8": "Izreka 24",
+   "10": "Izreka 25",
+   "13": "Izreka 26",
+   "15": "Izreka 27",
+   "17": "Izreka 28",
+   "19": "Izreka 29",
+   "21": "Izreka 30",
+   "23": "Daljnje izreke mudrih"
+  },
+  "25": {
+   "1": "Daljnje Salomonove izreke"
+  },
+  "26": {
+   "1": "Usporedbe i upute"
+  },
+  "27": {
+   "1": "Ne hvali se sutrašnjim danom"
+  },
+  "28": {
+   "1": "Smjelost pravednika"
+  },
+  "29": {
+   "1": "Napredovanje pravednika"
+  },
+  "30": {
+   "1": "Agurove riječi"
+  },
+  "31": {
+   "1": "Izreke kralju Lemuelu",
+   "10": "Vrline čestite žene"
+  }
+ },
+ "ECC": {
+  "1": {
+   "1": "Sve je ispraznost",
+   "12": "S mudrošću dolazi i žalost"
+  },
+  "2": {
+   "1": "Ispraznost užitka",
+   "12": "Mudri i bezumni",
+   "18": "Ispraznost rada"
+  },
+  "3": {
+   "1": "Svemu ima svoje vrijeme",
+   "9": "Božja djela ostaju zauvijek",
+   "16": "Iz praha u prah"
+  },
+  "4": {
+   "1": "Zlo tlačenja",
+   "13": "Ispraznost moći"
+  },
+  "5": {
+   "1": "Pristupanje Bogu sa strahopoštovanjem",
+   "8": "Ispraznost bogatstva"
+  },
+  "6": {
+   "1": "Ispraznost života"
+  },
+  "7": {
+   "1": "Vrijednost mudrosti",
+   "15": "Granice ljudske mudrosti"
+  },
+  "8": {
+   "1": "Pokoravaj se kralju",
+   "10": "Boj se Boga",
+   "14": "Božji su putovi nedokučivi"
+  },
+  "9": {
+   "1": "Smrt stiže i dobre i zle",
+   "7": "Uživaj svoj dio u ovom životu",
+   "13": "Mudrost je bolja od snage"
+  },
+  "10": {
+   "1": "Mudrost i ludost"
+  },
+  "11": {
+   "1": "Baci kruh svoj na vodu",
+   "7": "Uživaj godine svoje"
+  },
+  "12": {
+   "1": "Sjeti se Stvoritelja svojega",
+   "9": "Sva dužnost čovjekova"
+  }
+ },
+ "SNG": {
+  "1": {
+   "1": "Zaručnica priznaje svoju ljubav",
+   "2": "Zaručnica",
+   "5": "Prijateljice · Zaručnica",
+   "8": "Prijateljice",
+   "9": "Zaručnik",
+   "11": "Prijateljice",
+   "12": "Zaručnica",
+   "15": "Zaručnik",
+   "16": "Zaručnica",
+   "17": "Zaručnik"
+  },
+  "2": {
+   "1": "Divljenje zaručnice · Zaručnica",
+   "2": "Zaručnik",
+   "3": "Zaručnica",
+   "14": "Zaručnik",
+   "15": "Prijateljice",
+   "16": "Zaručnica"
+  },
+  "3": {
+   "1": "San zaručnice",
+   "6": "Salomon dolazi na dan svojega vjenčanja"
+  },
+  "4": {
+   "1": "Salomon se divi svojoj zaručnici · Zaručnik",
+   "16": "Zaručnica"
+  },
+  "5": {
+   "1": "Zaručnica i njezin ljubljeni · Zaručnik",
+   "2": "Prijateljice · Zaručnica",
+   "9": "Prijateljice",
+   "10": "Zaručnica"
+  },
+  "6": {
+   "1": "Zajedno u vrtu · Prijateljice",
+   "2": "Zaručnica",
+   "4": "Zaručnik",
+   "10": "Prijateljice",
+   "11": "Zaručnik",
+   "13": "Prijateljice"
+  },
+  "7": {
+   "1": "Zaručnikovo divljenje",
+   "10": "Zaručnica"
+  },
+  "8": {
+   "1": "Čežnja za ljubljenim",
+   "5": "Prijateljice",
+   "6": "Zaručnica",
+   "8": "Prijateljice",
+   "10": "Zaručnica",
+   "13": "Zaručnik",
+   "14": "Zaručnica"
+  }
+ },
+ "ISA": {
+  "1": {
+   "1": "Judina pobuna",
+   "10": "Isprazni prinosi",
+   "21": "Pokvarenost Siona"
+  },
+  "2": {
+   "1": "Gora doma GOSPODNJEGA",
+   "5": "Dan obračuna"
+  },
+  "3": {
+   "1": "Sud nad Jeruzalemom i Judom",
+   "16": "Opomena kćerima sionskim"
+  },
+  "4": {
+   "1": "Ostatak na Sionu"
+  },
+  "5": {
+   "1": "Pjesma o vinogradu",
+   "8": "Jao opakima"
+  },
+  "6": {
+   "1": "Izaijin poziv"
+  },
+  "7": {
+   "1": "Poruka Ahazu",
+   "10": "Znak Emanuela",
+   "17": "Sud koji dolazi"
+  },
+  "8": {
+   "1": "Proreknuta asirska najezda",
+   "11": "Poziv na strah Božji",
+   "19": "Tama i svjetlo"
+  },
+  "9": {
+   "1": "Dijete nam se rodilo",
+   "8": "Sud nad ohološću Izraela",
+   "13": "Sud nad licemjerjem Izraela",
+   "18": "Sud nad nepokajanošću Izraela"
+  },
+  "10": {
+   "1": "Jao silnicima",
+   "5": "Sud nad Asirijom",
+   "20": "Ostatak će se vratiti"
+  },
+  "11": {
+   "1": "Korijen Jišajev"
+  },
+  "12": {
+   "1": "Radosna zahvala"
+  },
+  "13": {
+   "1": "Breme protiv Babilona"
+  },
+  "14": {
+   "1": "Obnova Izraela",
+   "3": "Pad kralja babilonskog",
+   "24": "Božja nakana protiv Asirije",
+   "28": "Filisteja će biti uništena"
+  },
+  "15": {
+   "1": "Breme protiv Moaba"
+  },
+  "16": {
+   "1": "Propast Moaba"
+  },
+  "17": {
+   "1": "Breme protiv Damaska"
+  },
+  "18": {
+   "1": "Poruka Kušu"
+  },
+  "19": {
+   "1": "Breme protiv Egipta",
+   "16": "Blagoslov nad zemljom"
+  },
+  "20": {
+   "1": "Znak protiv Egipta i Kuša"
+  },
+  "21": {
+   "1": "Pao je Babilon",
+   "11": "Breme protiv Edoma",
+   "13": "Breme protiv Arabije"
+  },
+  "22": {
+   "1": "Dolina viđenja",
+   "15": "Poruka Šebni"
+  },
+  "23": {
+   "1": "Breme protiv Tira"
+  },
+  "24": {
+   "1": "Božji sud nad zemljom"
+  },
+  "25": {
+   "1": "Hvala pobjedonosnom Bogu"
+  },
+  "26": {
+   "1": "Pjesma spasenja"
+  },
+  "27": {
+   "1": "Vinograd GOSPODNJI"
+  },
+  "28": {
+   "1": "Sužanjstvo Efrajimovo",
+   "14": "Ugaoni kamen na Sionu",
+   "23": "Slušajte i čujte"
+  },
+  "29": {
+   "1": "Jao gradu Davidovu",
+   "17": "Posvećenje pobožnih"
+  },
+  "30": {
+   "1": "Bezvrijedan savez s Egiptom",
+   "18": "Bog će biti milostiv"
+  },
+  "31": {
+   "1": "Jao onima koji se uzdaju u Egipat"
+  },
+  "32": {
+   "1": "Pravedan kralj",
+   "9": "Žene jeruzalemske"
+  },
+  "33": {
+   "1": "GOSPOD je uzvišen"
+  },
+  "34": {
+   "1": "Sud nad narodima",
+   "5": "Sud nad Edomom"
+  },
+  "35": {
+   "1": "Slava Siona"
+  },
+  "36": {
+   "1": "Sanherib prijeti Jeruzalemu"
+  },
+  "37": {
+   "1": "Izaijina poruka o izbavljenju",
+   "8": "Sanheribovo hulno pismo",
+   "14": "Ezekijina molitva",
+   "21": "Naviješten Sanheribov pad",
+   "36": "Jeruzalem izbavljen od Asiraca"
+  },
+  "38": {
+   "1": "Ezekijina bolest i ozdravljenje",
+   "9": "Ezekijina pjesma zahvale"
+  },
+  "39": {
+   "1": "Ezekija pokazuje svoje blago"
+  },
+  "40": {
+   "1": "Pripravite put GOSPODU",
+   "6": "Riječ koja ostaje",
+   "9": "Evo Boga vašega!"
+  },
+  "41": {
+   "1": "Božja pomoć Izraelu",
+   "21": "Isprazni kumiri"
+  },
+  "42": {
+   "1": "Evo Sluge mojega",
+   "10": "Nova pjesma hvale",
+   "18": "Izrael je gluh i slijep"
+  },
+  "43": {
+   "1": "Jedini Spasitelj Izraelov",
+   "14": "Put u pustinji",
+   "22": "Nevjernost Izraelova"
+  },
+  "44": {
+   "1": "GOSPOD je izabrao Izrael",
+   "21": "Jeruzalem će biti obnovljen"
+  },
+  "45": {
+   "1": "Bog poziva Kira"
+  },
+  "46": {
+   "1": "Babilonski kumiri"
+  },
+  "47": {
+   "1": "Poniženje Babilona"
+  },
+  "48": {
+   "1": "Tvrdokornost Izraelova",
+   "12": "Izbavljenje obećano Izraelu"
+  },
+  "49": {
+   "1": "Sluga i svjetlo poganima"
+  },
+  "50": {
+   "1": "Grijeh Izraelov",
+   "4": "Poslušnost Sluge"
+  },
+  "51": {
+   "1": "Spasenje Sionu",
+   "17": "Uklonjen Božji gnjev"
+  },
+  "52": {
+   "1": "Izbavljenje Jeruzalema",
+   "13": "Uzvišeni Sluga"
+  },
+  "53": {
+   "1": "Sluga koji trpi",
+   "9": "Dodijeljen grob"
+  },
+  "54": {
+   "1": "Budući blagoslovi Sionu"
+  },
+  "55": {
+   "1": "Poziv potrebitima"
+  },
+  "56": {
+   "1": "Spasenje za tuđince",
+   "9": "Grešni vođe Izraelovi"
+  },
+  "57": {
+   "1": "Blažena smrt pravednika",
+   "3": "Bog osuđuje idolopoklonstvo",
+   "14": "Ozdravljenje pokajnicima"
+  },
+  "58": {
+   "1": "Pravi postovi i subote"
+  },
+  "59": {
+   "1": "Grijeh nas dijeli od Boga",
+   "18": "Savez Otkupitelja"
+  },
+  "60": {
+   "1": "Buduća slava Siona"
+  },
+  "61": {
+   "1": "Godina milosti GOSPODNJE"
+  },
+  "62": {
+   "1": "Spasenje Siona i novo ime"
+  },
+  "63": {
+   "1": "Božja osveta narodima",
+   "7": "Spomen na Božja milosrđa",
+   "15": "Molitva za milost"
+  },
+  "64": {
+   "1": "Molitva za Božju moć"
+  },
+  "65": {
+   "1": "Sudovi i obećanja",
+   "17": "Novo nebo i nova zemlja"
+  },
+  "66": {
+   "1": "Nebo je prijestolje moje",
+   "7": "Radujte se s Jeruzalemom",
+   "15": "Konačni sudovi nad opakima"
+  }
+ },
+ "JER": {
+  "1": {
+   "1": "Jeremijin poziv"
+  },
+  "2": {
+   "1": "Izrael je ostavio Boga",
+   "14": "Posljedica grijeha Izraelova",
+   "23": "Nevjernost Izraelova"
+  },
+  "3": {
+   "1": "Bludničina plaća",
+   "6": "Juda slijedi primjer Izraela",
+   "11": "Poziv na obraćenje"
+  },
+  "4": {
+   "1": "Poziv na povratak",
+   "5": "Nesreća sa sjevera",
+   "19": "Tužaljka za Judom"
+  },
+  "5": {
+   "1": "Nema pravednoga",
+   "14": "Naviješten sud"
+  },
+  "6": {
+   "1": "Posljednja opomena Jeruzalemu",
+   "22": "Najezda sa sjevera"
+  },
+  "7": {
+   "1": "Jeremijina poruka na vratima Hrama",
+   "16": "Judino idolopoklonstvo ne prestaje",
+   "30": "Dolina pokolja"
+  },
+  "8": {
+   "1": "Judin grijeh i kazna",
+   "14": "Narod odgovara",
+   "18": "Jeremija plače za svojim narodom"
+  },
+  "9": {
+   "1": "Tužaljka nad Sionom"
+  },
+  "10": {
+   "1": "Božja svevlast",
+   "17": "Nadolazeće sužanjstvo Judino"
+  },
+  "11": {
+   "1": "Prekršeni savez",
+   "18": "Urota protiv Jeremije"
+  },
+  "12": {
+   "1": "Blagostanje opakih",
+   "5": "Božji odgovor Jeremiji",
+   "14": "Poruka susjedima Izraelovim"
+  },
+  "13": {
+   "1": "Laneni pojas",
+   "12": "Mjehovi",
+   "15": "Zaprijećeno sužanjstvo"
+  },
+  "14": {
+   "1": "Suša, glad, mač i pomor",
+   "19": "Molitva za milost"
+  },
+  "15": {
+   "1": "Sud se nastavlja",
+   "10": "Jao Jeremijino",
+   "19": "Obećanje GOSPODNJE"
+  },
+  "16": {
+   "1": "Naviještena nesreća",
+   "14": "Bog će obnoviti Izrael"
+  },
+  "17": {
+   "1": "Grijeh i kazna Judina",
+   "12": "Jeremijina molitva za izbavljenje",
+   "19": "Obnova subote"
+  },
+  "18": {
+   "1": "Lončar i glina",
+   "18": "Nova urota protiv Jeremije"
+  },
+  "19": {
+   "1": "Razbijeni vrč"
+  },
+  "20": {
+   "1": "Pašhur progoni Jeremiju",
+   "7": "Jeremijina tužba"
+  },
+  "21": {
+   "1": "Jeruzalem će pasti u ruke Babilonu",
+   "11": "Poruka domu Davidovu"
+  },
+  "22": {
+   "1": "Opomena kraljevima Judinim",
+   "6": "Opomena o palači",
+   "10": "Opomena o Šalumu",
+   "13": "Opomena o Jojakimu",
+   "24": "Opomena Konjahu"
+  },
+  "23": {
+   "1": "Davidova pravedna Mladica",
+   "9": "Lažljivi proroci",
+   "33": "Lažna proroštva"
+  },
+  "24": {
+   "1": "Dobre i loše smokve"
+  },
+  "25": {
+   "1": "Sedamdeset godina sužanjstva",
+   "15": "Čaša Božjega gnjeva",
+   "34": "Vapaj pastira"
+  },
+  "26": {
+   "1": "Opomena gradovima Judinim",
+   "7": "Jeremiji prijeti smrt",
+   "16": "Jeremija pošteđen smrti",
+   "20": "Prorok Urija"
+  },
+  "27": {
+   "1": "Jaram Nabukodonosorov"
+  },
+  "28": {
+   "1": "Hananijino lažno proroštvo"
+  },
+  "29": {
+   "1": "Jeremijino pismo prognanicima",
+   "24": "Poruka Šemaji"
+  },
+  "30": {
+   "1": "Obnova Izraela i Jude"
+  },
+  "31": {
+   "1": "Tuga pretvorena u radost",
+   "26": "Novi savez"
+  },
+  "32": {
+   "1": "Jeremija kupuje Hanamelovu njivu",
+   "16": "Jeremija moli za razumijevanje",
+   "26": "GOSPOD odgovara Jeremiji",
+   "36": "Obećanje obnove"
+  },
+  "33": {
+   "1": "Izvrsnost obnovljenog naroda",
+   "14": "Savez s Davidom"
+  },
+  "34": {
+   "1": "Proroštvo protiv Zedekije",
+   "8": "Sloboda hebrejskim robovima"
+  },
+  "35": {
+   "1": "Poslušnost Rekabovaca",
+   "12": "Juda ukoren"
+  },
+  "36": {
+   "1": "Jeremijin svitak čitan u Hramu",
+   "11": "Jeremijin svitak čitan u palači",
+   "20": "Jojakim spaljuje svitak",
+   "27": "Jeremija ponovno piše svitak"
+  },
+  "37": {
+   "1": "Jeremija opominje Zedekiju",
+   "11": "Jeremija u tamnici"
+  },
+  "38": {
+   "1": "Jeremija bačen u čatrnju"
+  },
+  "39": {
+   "1": "Pad Jeruzalema",
+   "11": "Jeremija izbavljen"
+  },
+  "40": {
+   "1": "Jeremija ostaje u Judi",
+   "7": "Gedalija upravlja Judom",
+   "13": "Urota protiv Gedalije"
+  },
+  "41": {
+   "1": "Umorstvo Gedalije",
+   "11": "Johanan izbavlja sužnje"
+  },
+  "42": {
+   "1": "Opomena protiv odlaska u Egipat"
+  },
+  "43": {
+   "1": "Jeremija odveden u Egipat"
+  },
+  "44": {
+   "1": "Sud nad Židovima u Egiptu",
+   "15": "Tvrdokornost naroda",
+   "20": "Nevolja za Židove"
+  },
+  "45": {
+   "1": "Jeremijina poruka Baruhu"
+  },
+  "46": {
+   "1": "Sud nad Egiptom"
+  },
+  "47": {
+   "1": "Sud nad Filistejcima"
+  },
+  "48": {
+   "1": "Sud nad Moabom"
+  },
+  "49": {
+   "1": "Sud nad Amoncima",
+   "7": "Sud nad Edomom",
+   "23": "Sud nad Damaskom",
+   "28": "Sud nad Kedarom i Hasorom",
+   "34": "Sud nad Elamom"
+  },
+  "50": {
+   "1": "Proroštvo protiv Babilona",
+   "4": "Nada za Izrael i Judu",
+   "11": "Pad Babilona je siguran",
+   "17": "Otkupljenje naroda Božjega",
+   "21": "Razorenje Babilona"
+  },
+  "51": {
+   "1": "Sud nad Babilonom",
+   "15": "Hvala Bogu Jakovljevu",
+   "20": "Kazna Babilonu",
+   "59": "Jeremijina poruka Seraji"
+  },
+  "52": {
+   "1": "Opis pada Jeruzalema",
+   "12": "Razoreni Hram",
+   "24": "Sužnji odvedeni u Babilon",
+   "31": "Jehojakin pušten iz tamnice"
+  }
+ },
+ "LAM": {
+  "1": {
+   "1": "Kako osamljen leži grad!"
+  },
+  "2": {
+   "1": "Božji gnjev nad Jeruzalemom"
+  },
+  "3": {
+   "1": "Prorokove nevolje",
+   "19": "Prorokova nada",
+   "37": "Božja pravednost"
+  },
+  "4": {
+   "1": "Nevolja Siona"
+  },
+  "5": {
+   "1": "Molitva za obnovu"
+  }
+ },
+ "EZK": {
+  "1": {
+   "1": "Ezekielovo viđenje na rijeci Kebaru",
+   "4": "Četiri živa bića",
+   "15": "Četiri kotača",
+   "22": "Božanska slava"
+  },
+  "2": {
+   "1": "Ezekielov poziv"
+  },
+  "3": {
+   "1": "Ezekiel jede svitak",
+   "16": "Stražar Izraelu"
+  },
+  "4": {
+   "1": "Znak opsade Jeruzalema",
+   "9": "Okaljani kruh"
+  },
+  "5": {
+   "1": "Britva suda",
+   "11": "Glad, mač i raspršenje"
+  },
+  "6": {
+   "1": "Sud nad idolopoklonstvom",
+   "8": "Ostatak koji će biti blagoslovljen"
+  },
+  "7": {
+   "1": "Čas propasti",
+   "14": "Pustoš Izraela"
+  },
+  "8": {
+   "1": "Viđenje idolopoklonstva u Hramu"
+  },
+  "9": {
+   "1": "Pogubljenje idolopoklonika"
+  },
+  "10": {
+   "1": "Božja slava napušta Hram"
+  },
+  "11": {
+   "1": "Zlo na visokim mjestima",
+   "13": "Obećanje obnove",
+   "22": "Božja slava odlazi iz Jeruzalema"
+  },
+  "12": {
+   "1": "Znakovi nadolazećeg sužanjstva",
+   "21": "Drska poslovica"
+  },
+  "13": {
+   "1": "Ukor lažnim prorocima",
+   "17": "Ukor lažnim proročicama"
+  },
+  "14": {
+   "1": "Osuđene idolopokloničke starješine",
+   "12": "Četiri teška suda"
+  },
+  "15": {
+   "1": "Jeruzalem, beskorisna loza"
+  },
+  "16": {
+   "1": "Nevjernost Jeruzalema",
+   "35": "Sud nad Jeruzalemom",
+   "59": "Spomen na savez"
+  },
+  "17": {
+   "1": "Prispodoba o dva orla i lozi",
+   "11": "Objašnjena prispodoba"
+  },
+  "18": {
+   "1": "Duša koja griješi umrijet će"
+  },
+  "19": {
+   "1": "Tužaljka nad knezovima Izraelovim"
+  },
+  "20": {
+   "1": "Pobuna Izraelova u Egiptu",
+   "10": "Pobuna Izraelova u pustinji",
+   "27": "Pobuna Izraelova u zemlji",
+   "33": "Sud i obnova",
+   "45": "Proroštvo protiv juga"
+  },
+  "21": {
+   "1": "Božji mač suda"
+  },
+  "22": {
+   "1": "Grijesi Jeruzalema",
+   "17": "Talionička peć",
+   "23": "Opaki vođe Izraelovi"
+  },
+  "23": {
+   "1": "Dvije preljubnice sestre",
+   "22": "Oholiba će biti kažnjena",
+   "36": "Sud nad objema sestrama"
+  },
+  "24": {
+   "1": "Prispodoba o loncu",
+   "15": "Umire Ezekielova žena"
+  },
+  "25": {
+   "1": "Proroštvo protiv Amona",
+   "8": "Proroštvo protiv Moaba",
+   "12": "Proroštvo protiv Edoma",
+   "15": "Proroštvo protiv Filistejaca"
+  },
+  "26": {
+   "1": "Proroštvo protiv Tira"
+  },
+  "27": {
+   "1": "Tužaljka nad Tirom"
+  },
+  "28": {
+   "1": "Proroštvo protiv vladara tirskog",
+   "11": "Tužaljka nad kraljem tirskim",
+   "20": "Proroštvo protiv Sidona",
+   "25": "Obnova Izraela"
+  },
+  "29": {
+   "1": "Proroštvo protiv faraona",
+   "8": "Pustoš Egipta",
+   "17": "Egipat kao plaća Nabukodonozoru"
+  },
+  "30": {
+   "1": "Tužaljka nad Egiptom",
+   "20": "Slomljena faraonova moć"
+  },
+  "31": {
+   "1": "Egipat će pasti kao Asirija"
+  },
+  "32": {
+   "1": "Tužaljka nad faraonom, kraljem egipatskim",
+   "17": "Egipat bačen u jamu"
+  },
+  "33": {
+   "1": "Ezekiel, stražar Izraelu",
+   "10": "Poruka stražareva",
+   "21": "Vijest o padu Jeruzalema"
+  },
+  "34": {
+   "1": "Proroštvo protiv pastira Izraelovih",
+   "11": "Dobri Pastir",
+   "25": "Savez mira"
+  },
+  "35": {
+   "1": "Proroštvo protiv gore Seir"
+  },
+  "36": {
+   "1": "Proroštvo gorama Izraelovim",
+   "16": "Novo srce i novi duh"
+  },
+  "37": {
+   "1": "Dolina suhih kostiju",
+   "15": "Jedan narod s jednim kraljem"
+  },
+  "38": {
+   "1": "Proroštvo protiv Goga"
+  },
+  "39": {
+   "1": "Pokolj Gogovih vojski",
+   "21": "Izrael će biti obnovljen"
+  },
+  "40": {
+   "1": "Čovjek s mjeračkom trskom",
+   "5": "Istočna vrata",
+   "17": "Vanjsko predvorje",
+   "20": "Sjeverna vrata",
+   "24": "Južna vrata",
+   "28": "Vrata unutarnjeg predvorja",
+   "38": "Osam stolova za žrtve",
+   "44": "Prostorije za službu",
+   "47": "Unutarnje predvorje"
+  },
+  "41": {
+   "1": "Unutrašnjost Hrama",
+   "5": "Izvan Hrama",
+   "15": "Unutarnje građevine"
+  },
+  "42": {
+   "1": "Prostorije za svećenike",
+   "15": "Vanjske mjere"
+  },
+  "43": {
+   "1": "Slava GOSPODNJA vraća se u Hram",
+   "13": "Žrtvenik za žrtve"
+  },
+  "44": {
+   "1": "Istočna vrata dodijeljena knezu",
+   "6": "Ukor levitima",
+   "15": "Dužnosti svećenika"
+  },
+  "45": {
+   "1": "Posvećenje zemlje",
+   "7": "Knežev dio",
+   "10": "Poštena mjerila",
+   "13": "Prinosi i blagdani"
+  },
+  "46": {
+   "1": "Knezovi prinosi",
+   "19": "Predvorja za kuhanje i pečenje"
+  },
+  "47": {
+   "1": "Vode ispod Hrama",
+   "13": "Granice zemlje"
+  },
+  "48": {
+   "1": "Dijelovi za plemena",
+   "8": "Dijelovi za svećenike i levite",
+   "15": "Zajednički dio",
+   "21": "Dio za kneza",
+   "23": "Dijelovi za ostala plemena",
+   "30": "Gradska vrata i mjere"
+  }
+ },
+ "DAN": {
+  "1": {
+   "1": "Danijel odveden u Babilon",
+   "8": "Danijelova vjernost",
+   "17": "Danijelova mudrost"
+  },
+  "2": {
+   "1": "Nabukodonosorov mučni san",
+   "14": "San objavljen Danijelu",
+   "24": "Danijel tumači san",
+   "46": "Nabukodonosor uzvisuje Danijela"
+  },
+  "3": {
+   "1": "Nabukodonosorov zlatni kip",
+   "8": "Optuženi Šadrak, Mešak i Abednego",
+   "19": "Užarena peć"
+  },
+  "4": {
+   "1": "Nabukodonosor priznaje Božje kraljevstvo",
+   "4": "Nabukodonosorov san o velikom stablu",
+   "19": "Danijel tumači drugi san",
+   "28": "Ispunjen drugi san",
+   "34": "Nabukodonosor obnovljen"
+  },
+  "5": {
+   "1": "Belšazarova gozba",
+   "5": "Natpis na zidu",
+   "13": "Danijel tumači natpis"
+  },
+  "6": {
+   "1": "Urota protiv Danijela",
+   "10": "Danijel u lavljoj jami",
+   "25": "Darije daje slavu Bogu"
+  },
+  "7": {
+   "1": "Danijelovo viđenje četiriju zvijeri",
+   "9": "Danijelovo viđenje Pradavnoga",
+   "13": "Danijelovo viđenje Sina Čovječjega",
+   "15": "Tumačenje Danijelovih viđenja"
+  },
+  "8": {
+   "1": "Danijelovo viđenje ovna i jarca",
+   "15": "Gabrijel tumači Danijelovo viđenje"
+  },
+  "9": {
+   "1": "Danijelova molitva za svoj narod",
+   "20": "Gabrijelovo proroštvo o sedamdeset tjedana"
+  },
+  "10": {
+   "1": "Danijelovo viđenje kraj Tigrisa"
+  },
+  "11": {
+   "1": "Kraljevi juga i sjevera",
+   "36": "Kralj koji se uzvisuje"
+  },
+  "12": {
+   "1": "Posljednja vremena"
+  }
+ },
+ "HOS": {
+  "1": {
+   "1": "Osijina žena i djeca"
+  },
+  "2": {
+   "1": "Ukoren preljub Izraelov",
+   "14": "Božje milosrđe Izraelu"
+  },
+  "3": {
+   "1": "Osija otkupljuje svoju ženu"
+  },
+  "4": {
+   "1": "Božja parnica s narodom svojim"
+  },
+  "5": {
+   "1": "Sud nad Izraelom i Judom"
+  },
+  "6": {
+   "1": "Nepokajanost Izraela i Jude"
+  },
+  "7": {
+   "1": "Efrajimovo bezakonje"
+  },
+  "8": {
+   "1": "Izrael će žeti vihor"
+  },
+  "9": {
+   "1": "Kažnjavanje Izraela"
+  },
+  "10": {
+   "1": "Odmazda za grijeh Izraelov"
+  },
+  "11": {
+   "1": "Iz Egipta pozvah Sina svojega",
+   "8": "Božja ljubav prema Izraelu"
+  },
+  "12": {
+   "1": "Ukor Efrajimu, Judi i Jakovu"
+  },
+  "13": {
+   "1": "Božji gnjev na Izrael",
+   "9": "Smrt i uskrsnuće",
+   "15": "Sud nad Samarijom"
+  },
+  "14": {
+   "1": "Poziv na obraćenje",
+   "4": "Obećanje Božjeg blagoslova"
+  }
+ },
+ "JOL": {
+  "1": {
+   "1": "Najezda skakavaca",
+   "8": "Poziv na tugovanje",
+   "13": "Poziv na obraćenje"
+  },
+  "2": {
+   "1": "Vojska skakavaca",
+   "12": "Vratite se svim srcem svojim",
+   "18": "Obećana obnova",
+   "28": "Izlit ću Duha svojega"
+  },
+  "3": {
+   "1": "GOSPOD sudi narodima",
+   "17": "Blagoslovi narodu Božjem"
+  }
+ },
+ "AMO": {
+  "1": {
+   "1": "Sud nad susjedima Izraelovim"
+  },
+  "2": {
+   "1": "Sud nad Moabom, Judom i Izraelom"
+  },
+  "3": {
+   "1": "Svjedoci protiv Izraela"
+  },
+  "4": {
+   "1": "Kazna ne donosi pokajanje"
+  },
+  "5": {
+   "1": "Tužaljka protiv Izraela",
+   "4": "Poziv na obraćenje",
+   "16": "Jao buntovnom Izraelu"
+  },
+  "6": {
+   "1": "Jao bezbrižnima na Sionu",
+   "8": "Oholost Izraelova"
+  },
+  "7": {
+   "1": "Skakavci, oganj i visak",
+   "10": "Amazija optužuje Amosa"
+  },
+  "8": {
+   "1": "Košara ljetnog voća"
+  },
+  "9": {
+   "1": "Razorenje Izraela",
+   "11": "Obećanje obnove"
+  }
+ },
+ "OBA": {
+  "1": {
+   "1": "Razorenje Edoma",
+   "15": "Izbavljenje Izraela"
+  }
+ },
+ "JON": {
+  "1": {
+   "1": "Jona bježi od GOSPODA",
+   "4": "Velika oluja",
+   "11": "Jona bačen u more"
+  },
+  "2": {
+   "1": "Jonina molitva"
+  },
+  "3": {
+   "1": "Ninivljani se kaju"
+  },
+  "4": {
+   "1": "Jonin gnjev zbog GOSPODNJEG smilovanja"
+  }
+ },
+ "MIC": {
+  "1": {
+   "1": "Sud koji dolazi",
+   "8": "Plač i naricanje"
+  },
+  "2": {
+   "1": "Jao tlačiteljima",
+   "6": "Ukor lažnim prorocima",
+   "12": "Ostatak Izraelov"
+  },
+  "3": {
+   "1": "Osuđeni vladari i proroci"
+  },
+  "4": {
+   "1": "Gora doma GOSPODNJEGA",
+   "6": "Obnova Siona"
+  },
+  "5": {
+   "1": "Vladar iz Betlehema",
+   "7": "Ostatak Jakovljev"
+  },
+  "6": {
+   "1": "Parnica protiv Izraela",
+   "9": "Kazna Izraelu"
+  },
+  "7": {
+   "1": "Velika bijeda Izraelova",
+   "7": "Izraelovo priznanje i utjeha",
+   "14": "Božje smilovanje Izraelu"
+  }
+ },
+ "NAM": {
+  "1": {
+   "1": "Breme protiv Ninive"
+  },
+  "2": {
+   "1": "Pad Ninive"
+  },
+  "3": {
+   "1": "Sud nad Ninivom"
+  }
+ },
+ "HAB": {
+  "1": {
+   "1": "Habakukova prva tužba",
+   "5": "Odgovor GOSPODNJI",
+   "12": "Habakukova druga tužba"
+  },
+  "2": {
+   "1": "GOSPOD ponovno odgovara",
+   "6": "Jao Kaldejcima"
+  },
+  "3": {
+   "1": "Habakukova molitva",
+   "17": "Habakuk se raduje"
+  }
+ },
+ "ZEP": {
+  "1": {
+   "1": "Sefanija naviješta sud nad Judom",
+   "7": "Dan GOSPODNJI"
+  },
+  "2": {
+   "1": "Poziv na obraćenje",
+   "4": "Sud nad Filistejcima",
+   "8": "Sud nad Moabom i Amonom",
+   "12": "Sud nad Kušom i Asirijom"
+  },
+  "3": {
+   "1": "Sud nad Jeruzalemom",
+   "6": "Očišćenje naroda",
+   "9": "Vjerni ostatak",
+   "14": "Obnova Izraela"
+  }
+ },
+ "HAG": {
+  "1": {
+   "1": "Poziv na obnovu Hrama",
+   "12": "Narod je poslušan"
+  },
+  "2": {
+   "1": "Buduća slava doma Božjega",
+   "10": "Blagoslovi okaljanu narodu",
+   "20": "Zerubabel, pečatnjak GOSPODNJI"
+  }
+ },
+ "ZEC": {
+  "1": {
+   "1": "Poziv na obraćenje",
+   "7": "Viđenje konja",
+   "18": "Viđenje rogova i kovača"
+  },
+  "2": {
+   "1": "Viđenje mjeračkog užeta",
+   "6": "Otkupljenje Siona"
+  },
+  "3": {
+   "1": "Viđenje velikog svećenika Jošue"
+  },
+  "4": {
+   "1": "Viđenje svijećnjaka i maslina"
+  },
+  "5": {
+   "1": "Viđenje letećeg svitka",
+   "5": "Viđenje žene u efi"
+  },
+  "6": {
+   "1": "Viđenje četiriju bojnih kola",
+   "9": "Kruna i Hram"
+  },
+  "7": {
+   "1": "Poziv na pravdu i milosrđe"
+  },
+  "8": {
+   "1": "Obnova Jeruzalema"
+  },
+  "9": {
+   "1": "Breme protiv neprijatelja Izraelovih",
+   "9": "Kralj koji dolazi na Sion",
+   "14": "GOSPOD će spasiti svoj narod"
+  },
+  "10": {
+   "1": "Juda i Izrael bit će obnovljeni"
+  },
+  "11": {
+   "1": "Stado osuđeno na propast",
+   "10": "Trideset srebrnjaka"
+  },
+  "12": {
+   "1": "Nadolazeće izbavljenje Jeruzalema",
+   "10": "Oplakivanje Probodenoga"
+  },
+  "13": {
+   "1": "Kraj idolopoklonstvu",
+   "7": "Pastir udaren, ovce raspršene"
+  },
+  "14": {
+   "1": "Uništeni razoritelji Jeruzalema",
+   "16": "Svi će narodi štovati Kralja"
+  }
+ },
+ "MAL": {
+  "1": {
+   "1": "Ljubav GOSPODNJA prema Izraelu",
+   "6": "Okaljani prinosi"
+  },
+  "2": {
+   "1": "Opomena svećenicima",
+   "10": "Judina nevjernost"
+  },
+  "3": {
+   "1": "Poslat ću glasnika svojega",
+   "6": "Zakidanje Boga",
+   "13": "Knjiga spomena"
+  },
+  "4": {
+   "1": "Dan GOSPODNJI"
+  }
+ },
+ "MAT": {
+  "1": {
+   "1": "Isusovo rodoslovlje",
+   "18": "Rođenje Isusovo"
+  },
+  "2": {
+   "1": "Put mudraca",
+   "13": "Bijeg u Egipat",
+   "16": "Plač i veliko naricanje",
+   "19": "Povratak u Nazaret"
+  },
+  "3": {
+   "1": "Poslanje Ivana Krstitelja",
+   "13": "Isusovo krštenje"
+  },
+  "4": {
+   "1": "Isusova kušnja",
+   "12": "Isus započinje svoju službu",
+   "18": "Prvi učenici",
+   "23": "Isus ozdravlja mnoštva"
+  },
+  "5": {
+   "1": "Govor na gori",
+   "3": "Blaženstva",
+   "13": "Sol i svjetlo",
+   "17": "Ispunjenje Zakona",
+   "21": "Gnjev i pomirenje",
+   "27": "Preljub",
+   "31": "Rastava",
+   "33": "Zakletve i zavjeti",
+   "38": "Ljubite neprijatelje svoje"
+  },
+  "6": {
+   "1": "Davanje potrebitima",
+   "5": "Očenaš",
+   "16": "Ispravan post",
+   "19": "Blago na nebu",
+   "22": "Svjetiljka tijela",
+   "25": "Ne budite zabrinuti"
+  },
+  "7": {
+   "1": "Suđenje drugima",
+   "7": "Ištite, tražite, kucajte",
+   "13": "Uska vrata",
+   "15": "Stablo i njegov plod",
+   "24": "Kuća na stijeni",
+   "28": "Isusova vlast"
+  },
+  "8": {
+   "1": "Molitva gubavca",
+   "5": "Vjera satnikova",
+   "14": "Isus ozdravlja u Petrovoj kući",
+   "18": "Cijena učeništva",
+   "23": "Isus stišava oluju",
+   "28": "Zlodusi i svinje"
+  },
+  "9": {
+   "1": "Isus ozdravlja uzetoga",
+   "9": "Isus poziva Mateja",
+   "14": "Pitanja o postu",
+   "16": "Zakrpe i mjehovi",
+   "18": "Isusov ozdravljujući dodir",
+   "27": "Isus ozdravlja slijepe i nijeme",
+   "35": "Gospodar žetve"
+  },
+  "10": {
+   "1": "Dvanaest apostola",
+   "5": "Služba dvanaestorice",
+   "16": "Ovce među vukovima",
+   "26": "Boj se samo Boga",
+   "32": "Ispovijedanje Krista",
+   "34": "Ne mir, nego mač",
+   "40": "Plaća za službu"
+  },
+  "11": {
+   "1": "Ivanovo pitanje",
+   "7": "Isus svjedoči o Ivanu",
+   "20": "Jao nepokajanima",
+   "25": "Počinak umornima"
+  },
+  "12": {
+   "1": "Gospodar subote",
+   "9": "Isus ozdravlja u subotu",
+   "15": "Božji izabrani Sluga",
+   "22": "Podijeljena kuća",
+   "31": "Neoprostivi grijeh",
+   "33": "Dobar i loš plod",
+   "38": "Znak Jonin",
+   "43": "Nečisti duh se vraća",
+   "46": "Isusova majka i braća"
+  },
+  "13": {
+   "1": "Prispodoba o sijaču",
+   "10": "Svrha Isusovih prispodoba",
+   "18": "Objašnjena prispodoba o sijaču",
+   "24": "Prispodoba o kukolju",
+   "31": "Prispodoba o gorušičinu zrnu",
+   "33": "Prispodoba o kvascu",
+   "34": "Otvorit ću usta svoja u prispodobama",
+   "36": "Objašnjena prispodoba o kukolju",
+   "44": "Prispodobe o blagu i biseru",
+   "47": "Prispodoba o mreži",
+   "53": "Odbacivanje u Nazaretu"
+  },
+  "14": {
+   "1": "Ivanovo smaknuće",
+   "13": "Nahranjenje pet tisuća",
+   "22": "Isus hoda po vodi",
+   "34": "Isus ozdravlja u Genezaretu"
+  },
+  "15": {
+   "1": "Predaja starih",
+   "10": "Što onečišćuje čovjeka",
+   "21": "Vjera Kanaanke",
+   "29": "Nahranjenje četiri tisuće"
+  },
+  "16": {
+   "1": "Traženje znaka",
+   "5": "Kvasac farizejski i saducejski",
+   "13": "Petrovo priznanje Krista",
+   "21": "Naviještena Kristova muka",
+   "24": "Uzmi križ svoj"
+  },
+  "17": {
+   "1": "Preobraženje",
+   "14": "Dječak opsjednut zloduhom",
+   "19": "Moć vjere",
+   "22": "Drugo navještenje muke",
+   "24": "Hramski porez"
+  },
+  "18": {
+   "1": "Najveći u kraljevstvu",
+   "6": "Napasti i prijestupi",
+   "10": "Prispodoba o izgubljenoj ovci",
+   "15": "Brat koji sagriješi",
+   "19": "Molite u moje ime",
+   "21": "Sluga koji ne oprašta"
+  },
+  "19": {
+   "1": "Nauk o rastavi",
+   "13": "Isus blagoslivlja djecu",
+   "16": "Bogati mladić"
+  },
+  "20": {
+   "1": "Prispodoba o radnicima",
+   "17": "Treće navještenje muke",
+   "20": "Majčina molba",
+   "29": "Slijepci kraj puta"
+  },
+  "21": {
+   "1": "Svečani ulazak",
+   "12": "Isus čisti Hram",
+   "18": "Neplodna smokva",
+   "23": "Osporena Isusova vlast",
+   "28": "Prispodoba o dva sina",
+   "33": "Prispodoba o zlim vinogradarima"
+  },
+  "22": {
+   "1": "Prispodoba o gozbi",
+   "15": "Plaćanje poreza caru",
+   "23": "Saduceji i uskrsnuće",
+   "34": "Najveća zapovijed",
+   "41": "Čiji je sin Krist?"
+  },
+  "23": {
+   "1": "Jao pismoznancima i farizejima",
+   "37": "Tužaljka nad Jeruzalemom"
+  },
+  "24": {
+   "1": "Razorenje Hrama i drugi znakovi",
+   "9": "Svjedočenje svim narodima",
+   "15": "Gnusoba pustoši",
+   "26": "Dolazak Sina Čovječjega",
+   "32": "Pouka o smokvi",
+   "36": "Pripravnost u svaki čas"
+  },
+  "25": {
+   "1": "Prispodoba o deset djevica",
+   "14": "Prispodoba o talentima",
+   "31": "Ovce i jarci"
+  },
+  "26": {
+   "1": "Urota da se ubije Isus",
+   "6": "Isus pomazan u Betaniji",
+   "14": "Juda pristaje izdati Isusa",
+   "17": "Priprava Pashe",
+   "20": "Posljednja večera",
+   "31": "Isus naviješta Petrovo zatajenje",
+   "36": "Isus moli u Getsemaniju",
+   "47": "Izdaja Isusova",
+   "57": "Isus pred Vijećem",
+   "69": "Petar zatajuje Isusa"
+  },
+  "27": {
+   "1": "Isus predan Pilatu",
+   "3": "Juda se objesi",
+   "11": "Isus pred Pilatom",
+   "15": "Mnoštvo bira Barabu",
+   "24": "Pilat pere ruke",
+   "27": "Vojnici ismijavaju Isusa",
+   "32": "Raspeće",
+   "45": "Isusova smrt",
+   "57": "Isusov pokop",
+   "62": "Stražari na grobu"
+  },
+  "28": {
+   "1": "Uskrsnuće",
+   "11": "Izvještaj stražara",
+   "16": "Veliko poslanje"
+  }
+ },
+ "MRK": {
+  "1": {
+   "1": "Poslanje Ivana Krstitelja",
+   "12": "Isusova kušnja i propovijedanje",
+   "16": "Prvi učenici",
+   "21": "Isus izgoni nečistoga duha",
+   "29": "Isus ozdravlja u Petrovoj kući",
+   "35": "Isus moli i propovijeda",
+   "40": "Molitva gubavca"
+  },
+  "2": {
+   "1": "Isus ozdravlja uzetoga",
+   "13": "Isus poziva Levija",
+   "18": "Pitanja o postu",
+   "21": "Zakrpe i mjehovi",
+   "23": "Gospodar subote"
+  },
+  "3": {
+   "1": "Isus ozdravlja u subotu",
+   "7": "Isus ozdravlja mnoštva",
+   "13": "Dvanaest apostola",
+   "20": "Podijeljena kuća",
+   "28": "Neoprostivi grijeh",
+   "31": "Isusova majka i braća"
+  },
+  "4": {
+   "1": "Prispodoba o sijaču",
+   "10": "Svrha Isusovih prispodoba",
+   "13": "Objašnjena prispodoba o sijaču",
+   "21": "Pouka o svjetiljci",
+   "26": "Sjeme koje raste samo od sebe",
+   "30": "Prispodoba o gorušičinu zrnu",
+   "35": "Isus stišava oluju"
+  },
+  "5": {
+   "1": "Zlodusi i svinje",
+   "21": "Isusov ozdravljujući dodir"
+  },
+  "6": {
+   "1": "Odbacivanje u Nazaretu",
+   "7": "Služba dvanaestorice",
+   "14": "Ivanovo smaknuće",
+   "30": "Nahranjenje pet tisuća",
+   "45": "Isus hoda po vodi",
+   "53": "Isus ozdravlja u Genezaretu"
+  },
+  "7": {
+   "1": "Predaja starih",
+   "14": "Što onečišćuje čovjeka",
+   "24": "Vjera poganke",
+   "31": "Gluh i nijem čovjek"
+  },
+  "8": {
+   "1": "Nahranjenje četiri tisuće",
+   "11": "Traženje znaka",
+   "14": "Kvasac farizejski i Herodov",
+   "22": "Slijepac u Betsaidi",
+   "27": "Petrovo priznanje Krista",
+   "31": "Naviještena Kristova muka",
+   "34": "Uzmi križ svoj"
+  },
+  "9": {
+   "1": "Preobraženje",
+   "14": "Dječak sa zlim duhom",
+   "30": "Drugo navještenje muke",
+   "33": "Najveći u kraljevstvu",
+   "42": "Napasti i prijestupi",
+   "49": "Dobra sol"
+  },
+  "10": {
+   "1": "Nauk o rastavi",
+   "13": "Isus blagoslivlja djecu",
+   "17": "Bogati mladić",
+   "32": "Treće navještenje muke",
+   "35": "Molba Jakova i Ivana",
+   "46": "Isus ozdravlja Bartimeja"
+  },
+  "11": {
+   "1": "Svečani ulazak",
+   "12": "Isus proklinje smokvu",
+   "15": "Isus čisti Hram",
+   "20": "Usahla smokva",
+   "27": "Osporena Isusova vlast"
+  },
+  "12": {
+   "1": "Prispodoba o zlim vinogradarima",
+   "13": "Plaćanje poreza caru",
+   "18": "Saduceji i uskrsnuće",
+   "28": "Najveća zapovijed",
+   "35": "Čiji je sin Krist?",
+   "38": "Čuvajte se pismoznanaca",
+   "41": "Udovičin prinos"
+  },
+  "13": {
+   "1": "Razorenje Hrama i drugi znakovi",
+   "9": "Svjedočenje svim narodima",
+   "14": "Gnusoba pustoši",
+   "24": "Dolazak Sina Čovječjega",
+   "28": "Pouka o smokvi",
+   "32": "Pripravnost u svaki čas"
+  },
+  "14": {
+   "1": "Urota da se ubije Isus",
+   "3": "Isus pomazan u Betaniji",
+   "10": "Juda pristaje izdati Isusa",
+   "12": "Priprava Pashe",
+   "17": "Posljednja večera",
+   "27": "Isus naviješta Petrovo zatajenje",
+   "32": "Isus moli u Getsemaniju",
+   "43": "Izdaja Isusova",
+   "53": "Isus pred Vijećem",
+   "66": "Petar zatajuje Isusa"
+  },
+  "15": {
+   "1": "Isus predan Pilatu",
+   "6": "Mnoštvo bira Barabu",
+   "12": "Pilat predaje Isusa",
+   "16": "Vojnici ismijavaju Isusa",
+   "21": "Raspeće",
+   "33": "Isusova smrt",
+   "42": "Isusov pokop"
+  },
+  "16": {
+   "1": "Uskrsnuće",
+   "9": "Isus se ukazuje Mariji Magdaleni",
+   "12": "Isus se ukazuje dvojici učenika",
+   "14": "Veliko poslanje",
+   "19": "Uzašašće"
+  }
+ },
+ "LUK": {
+  "1": {
+   "1": "Posveta Teofilu",
+   "5": "Gabrijel naviješta Ivanovo rođenje",
+   "26": "Gabrijel naviješta Isusovo rođenje",
+   "39": "Marija pohodi Elizabetu",
+   "46": "Marijina pjesma",
+   "57": "Rođenje Ivana Krstitelja",
+   "67": "Zaharijina pjesma"
+  },
+  "2": {
+   "1": "Rođenje Isusovo",
+   "8": "Pastiri i anđeli",
+   "21": "Isus prikazan u Hramu",
+   "25": "Šimunovo proroštvo",
+   "36": "Anino proroštvo",
+   "39": "Povratak u Nazaret",
+   "41": "Dječak Isus u Hramu"
+  },
+  "3": {
+   "1": "Poslanje Ivana Krstitelja",
+   "21": "Isusovo krštenje",
+   "23": "Isusovo rodoslovlje"
+  },
+  "4": {
+   "1": "Isusova kušnja",
+   "14": "Isus započinje svoju službu",
+   "16": "Odbacivanje u Nazaretu",
+   "31": "Isus izgoni nečistoga duha",
+   "38": "Isus ozdravlja u Petrovoj kući",
+   "42": "Isus propovijeda u Judeji"
+  },
+  "5": {
+   "1": "Prvi učenici",
+   "12": "Molitva gubavca",
+   "17": "Isus ozdravlja uzetoga",
+   "27": "Isus poziva Levija",
+   "33": "Pitanja o postu",
+   "36": "Zakrpe i mjehovi"
+  },
+  "6": {
+   "1": "Gospodar subote",
+   "6": "Isus ozdravlja u subotu",
+   "12": "Dvanaest apostola",
+   "17": "Isus ozdravlja mnoštva",
+   "20": "Blaženstva",
+   "24": "Jao sitima",
+   "27": "Ljubite neprijatelje svoje",
+   "37": "Suđenje drugima",
+   "43": "Stablo i njegov plod",
+   "46": "Kuća na stijeni"
+  },
+  "7": {
+   "1": "Vjera satnikova",
+   "11": "Isus uskrisuje udovičina sina",
+   "18": "Ivanovo pitanje",
+   "24": "Isus svjedoči o Ivanu",
+   "36": "Grešnica pomazuje Isusa"
+  },
+  "8": {
+   "1": "Žene poslužuju Isusa",
+   "4": "Prispodoba o sijaču",
+   "16": "Pouka o svjetiljci",
+   "19": "Isusova majka i braća",
+   "22": "Isus stišava oluju",
+   "26": "Zlodusi i svinje",
+   "40": "Isusov ozdravljujući dodir"
+  },
+  "9": {
+   "1": "Služba dvanaestorice",
+   "7": "Herod želi vidjeti Isusa",
+   "10": "Nahranjenje pet tisuća",
+   "18": "Petrovo priznanje Krista",
+   "21": "Naviještena Kristova muka",
+   "23": "Uzmi križ svoj",
+   "28": "Preobraženje",
+   "37": "Dječak sa zlim duhom",
+   "43": "Drugo navještenje muke",
+   "46": "Najveći u kraljevstvu",
+   "51": "Samarijanci odbacuju Isusa",
+   "57": "Cijena učeništva"
+  },
+  "10": {
+   "1": "Isus šalje sedamdeset dvojicu",
+   "13": "Jao nepokajanima",
+   "17": "Radostan povratak",
+   "21": "Isusova molitva zahvale",
+   "25": "Prispodoba o milosrdnom Samarijancu",
+   "38": "Marta i Marija"
+  },
+  "11": {
+   "1": "Očenaš",
+   "5": "Ištite, tražite, kucajte",
+   "14": "Podijeljena kuća",
+   "24": "Nečisti duh se vraća",
+   "27": "Pravo blaženstvo",
+   "29": "Znak Jonin",
+   "33": "Svjetiljka tijela",
+   "37": "Jao farizejima i zakonoznancima"
+  },
+  "12": {
+   "1": "Kvasac farizejski",
+   "4": "Boj se samo Boga",
+   "8": "Ispovijedanje Krista",
+   "13": "Prispodoba o bogatom bezumniku",
+   "22": "Ne budite zabrinuti",
+   "32": "Blago na nebu",
+   "35": "Pripravnost u svaki čas",
+   "49": "Ne mir, nego razdor",
+   "54": "Prosuđivanje sadašnjeg vremena",
+   "57": "Pomirenje s protivnikom"
+  },
+  "13": {
+   "1": "Poziv na obraćenje",
+   "6": "Prispodoba o neplodnoj smokvi",
+   "10": "Isus ozdravlja zgrbljenu ženu",
+   "18": "Prispodoba o gorušičinu zrnu",
+   "20": "Prispodoba o kvascu",
+   "22": "Uska vrata",
+   "31": "Tužaljka nad Jeruzalemom"
+  },
+  "14": {
+   "1": "Isus ozdravlja vodenog bolesnika",
+   "7": "Prispodoba o uzvanicima",
+   "15": "Prispodoba o gozbi",
+   "25": "Cijena učeništva",
+   "34": "Dobra sol"
+  },
+  "15": {
+   "1": "Prispodoba o izgubljenoj ovci",
+   "8": "Prispodoba o izgubljenoj drahmi",
+   "11": "Prispodoba o rasipnom sinu"
+  },
+  "16": {
+   "1": "Prispodoba o nepoštenom upravitelju",
+   "14": "Zakon i proroci",
+   "19": "Bogataš i Lazar"
+  },
+  "17": {
+   "1": "Napasti i prijestupi",
+   "5": "Moć vjere",
+   "11": "Deset gubavaca",
+   "20": "Dolazak kraljevstva"
+  },
+  "18": {
+   "1": "Prispodoba o ustrajnoj udovici",
+   "9": "Farizej i carinik",
+   "15": "Isus blagoslivlja djecu",
+   "18": "Bogati mladi glavar",
+   "31": "Treće navještenje muke",
+   "35": "Isus ozdravlja slijepog prosjaka"
+  },
+  "19": {
+   "1": "Isus i Zakej",
+   "11": "Prispodoba o deset mina",
+   "28": "Svečani ulazak",
+   "41": "Isus plače nad Jeruzalemom",
+   "45": "Isus čisti Hram"
+  },
+  "20": {
+   "1": "Osporena Isusova vlast",
+   "9": "Prispodoba o zlim vinogradarima",
+   "19": "Plaćanje poreza caru",
+   "27": "Saduceji i uskrsnuće",
+   "41": "Čiji je sin Krist?",
+   "45": "Čuvajte se pismoznanaca"
+  },
+  "21": {
+   "1": "Prinos siromašne udovice",
+   "5": "Razorenje Hrama i drugi znakovi",
+   "10": "Svjedočenje svim narodima",
+   "20": "Razorenje Jeruzalema",
+   "25": "Dolazak Sina Čovječjega",
+   "29": "Pouka o smokvi",
+   "34": "Bdijte za onaj Dan"
+  },
+  "22": {
+   "1": "Urota da se ubije Isus",
+   "3": "Juda pristaje izdati Isusa",
+   "7": "Priprava Pashe",
+   "14": "Posljednja večera",
+   "24": "Tko je najveći?",
+   "31": "Isus naviješta Petrovo zatajenje",
+   "39": "Isus moli na Maslinskoj gori",
+   "47": "Izdaja Isusova",
+   "54": "Petar zatajuje Isusa",
+   "63": "Vojnici ismijavaju Isusa",
+   "66": "Isus pred Vijećem"
+  },
+  "23": {
+   "1": "Isus pred Pilatom",
+   "6": "Isus pred Herodom",
+   "13": "Mnoštvo bira Barabu",
+   "26": "Raspeće",
+   "44": "Isusova smrt",
+   "50": "Isusov pokop"
+  },
+  "24": {
+   "1": "Uskrsnuće",
+   "13": "Put u Emaus",
+   "36": "Isus se ukazuje učenicima",
+   "50": "Uzašašće"
+  }
+ },
+ "JHN": {
+  "1": {
+   "1": "Početak",
+   "6": "Ivanovo svjedočanstvo",
+   "14": "Riječ je postala tijelom",
+   "19": "Poslanje Ivana Krstitelja",
+   "29": "Isus, Jaganjac Božji",
+   "35": "Prvi učenici",
+   "43": "Isus poziva Filipa i Natanaela"
+  },
+  "2": {
+   "1": "Svadba u Kani",
+   "12": "Isus čisti Hram"
+  },
+  "3": {
+   "1": "Isus i Nikodem",
+   "22": "Ivanovo svjedočanstvo o Isusu"
+  },
+  "4": {
+   "1": "Isus i Samarijanka",
+   "27": "Učenici se vraćaju i čude",
+   "39": "Mnogi Samarijanci vjeruju",
+   "43": "Isus ozdravlja sina kraljevskog službenika"
+  },
+  "5": {
+   "1": "Ribnjak Betezda",
+   "16": "Otac i Sin",
+   "31": "Svjedočanstva o Isusu",
+   "39": "Svjedočanstvo Pisma"
+  },
+  "6": {
+   "1": "Nahranjenje pet tisuća",
+   "16": "Isus hoda po vodi",
+   "22": "Isus, kruh života",
+   "59": "Mnogi učenici odlaze",
+   "67": "Petrovo priznanje vjere"
+  },
+  "7": {
+   "1": "Isus poučava na blagdanu",
+   "25": "Je li Isus Krist?",
+   "37": "Živa voda",
+   "40": "Razdor zbog Isusa",
+   "45": "Nevjera židovskih poglavara"
+  },
+  "8": {
+   "1": "Žena uhvaćena u preljubu",
+   "12": "Isus, svjetlo svijeta",
+   "30": "Istina će vas osloboditi",
+   "48": "Prije nego se Abraham rodio, Ja jesam"
+  },
+  "9": {
+   "1": "Isus ozdravlja slijepca od rođenja",
+   "13": "Farizeji ispituju ozdravljenje",
+   "35": "Duhovna sljepoća"
+  },
+  "10": {
+   "1": "Isus, dobri Pastir",
+   "22": "Isus na blagdanu Posvećenja",
+   "40": "Potvrđeno Ivanovo svjedočanstvo"
+  },
+  "11": {
+   "1": "Lazarova smrt",
+   "17": "Isus tješi Martu i Mariju",
+   "38": "Isus uskrisuje Lazara",
+   "45": "Urota da se ubije Isus"
+  },
+  "12": {
+   "1": "Marija pomazuje Isusa",
+   "9": "Urota da se ubije Lazar",
+   "12": "Svečani ulazak",
+   "20": "Isus naviješta svoju smrt",
+   "37": "Vjera i nevjera"
+  },
+  "13": {
+   "1": "Isus pere noge svojim učenicima",
+   "18": "Isus naviješta svoje izdanje",
+   "31": "Ljubite jedni druge",
+   "36": "Isus naviješta Petrovo zatajenje"
+  },
+  "14": {
+   "1": "U kući Oca mojega ima mnogo stanova",
+   "5": "Put, istina i život",
+   "15": "Isus obećava Duha Svetoga",
+   "27": "Mir vam ostavljam"
+  },
+  "15": {
+   "1": "Isus, pravi Trs",
+   "9": "Nema veće ljubavi",
+   "18": "Mržnja svijeta"
+  },
+  "16": {
+   "1": "Naviješteno progonstvo",
+   "5": "Obećanje Duha Svetoga",
+   "17": "Žalost će se pretvoriti u radost",
+   "23": "Molite u moje ime"
+  },
+  "17": {
+   "1": "Molitva za Sina",
+   "6": "Molitva za učenike",
+   "20": "Molitva za sve vjernike"
+  },
+  "18": {
+   "1": "Izdaja Isusova",
+   "15": "Petrovo prvo zatajenje",
+   "19": "Isus pred velikim svećenikom",
+   "25": "Petrovo drugo i treće zatajenje",
+   "28": "Isus pred Pilatom"
+  },
+  "19": {
+   "1": "Vojnici ismijavaju Isusa",
+   "16": "Raspeće",
+   "28": "Isusova smrt",
+   "31": "Isusu probodena strana",
+   "38": "Isusov pokop"
+  },
+  "20": {
+   "1": "Uskrsnuće",
+   "10": "Isus se ukazuje Mariji Magdaleni",
+   "19": "Isus se ukazuje učenicima",
+   "24": "Isus se ukazuje Tomi",
+   "30": "Svrha Ivanove knjige"
+  },
+  "21": {
+   "1": "Isus se ukazuje kraj Tiberijadskog mora",
+   "15": "Isus i Petar",
+   "20": "Isus i ljubljeni učenik"
+  }
+ },
+ "ACT": {
+  "1": {
+   "1": "Proslov",
+   "6": "Uzašašće",
+   "12": "Matija zamjenjuje Judu"
+  },
+  "2": {
+   "1": "Duh Sveti na Pedesetnicu",
+   "14": "Petar govori mnoštvu",
+   "37": "Tri tisuće povjerovalo",
+   "42": "Zajedništvo vjernika"
+  },
+  "3": {
+   "1": "Hromi prohodao",
+   "11": "Petar govori u Salomonovu trijemu"
+  },
+  "4": {
+   "1": "Petar i Ivan pred Vijećem",
+   "13": "Zabranjeno ime",
+   "23": "Molitva vjernika",
+   "32": "Zajedništvo dobara među vjernicima"
+  },
+  "5": {
+   "1": "Ananija i Safira",
+   "12": "Apostoli ozdravljaju mnoge",
+   "17": "Apostoli uhićeni i oslobođeni",
+   "24": "Apostoli pred Vijećem",
+   "33": "Gamalielov savjet"
+  },
+  "6": {
+   "1": "Izbor sedmorice",
+   "8": "Uhićenje Stjepana"
+  },
+  "7": {
+   "1": "Stjepanov govor: Abrahamov poziv",
+   "9": "Josip prodan u Egipat",
+   "15": "Izrael tlačen u Egiptu",
+   "20": "Rođenje i posvojenje Mojsija",
+   "23": "Mojsije odbačen i u bijegu",
+   "30": "Mojsijev poziv",
+   "39": "Pobuna Izraela",
+   "44": "Šator svjedočanstva",
+   "54": "Kamenovanje Stjepana"
+  },
+  "8": {
+   "1": "Savao progoni Crkvu",
+   "4": "Filip u Samariji",
+   "9": "Šimun čarobnjak",
+   "26": "Filip i Etiopljanin"
+  },
+  "9": {
+   "1": "Put u Damask",
+   "10": "Ananija krsti Savla",
+   "20": "Savao propovijeda u Damasku",
+   "23": "Bijeg iz Damaska",
+   "26": "Savao u Jeruzalemu",
+   "31": "Ozdravljenje Eneje",
+   "36": "Uskrisenje Tabite"
+  },
+  "10": {
+   "1": "Kornelije šalje po Petra",
+   "9": "Petrovo viđenje",
+   "17": "Petar pozvan u Cezareju",
+   "24": "Petar pohodi Kornelija",
+   "34": "Radosna vijest poganima",
+   "44": "Pogani primaju Duha Svetoga"
+  },
+  "11": {
+   "1": "Petrov izvještaj u Jeruzalemu",
+   "19": "Crkva u Antiohiji"
+  },
+  "12": {
+   "1": "Jakov ubijen, Petar bačen u tamnicu",
+   "5": "Petrovo izbavljenje",
+   "20": "Herodova smrt"
+  },
+  "13": {
+   "1": "Počinje prvo Pavlovo misijsko putovanje",
+   "4": "Na Cipru",
+   "13": "U pizidijskoj Antiohiji",
+   "42": "Svjetlo poganima"
+  },
+  "14": {
+   "1": "Pavao i Barnaba u Ikoniju",
+   "8": "Pohod Listri i Derbi",
+   "21": "Utvrđivanje učenika"
+  },
+  "15": {
+   "1": "Prijepor oko obrezanja",
+   "5": "Sabor u Jeruzalemu",
+   "22": "Pismo vjernicima iz poganstva",
+   "30": "Vjernici u Antiohiji se raduju",
+   "36": "Počinje drugo Pavlovo misijsko putovanje"
+  },
+  "16": {
+   "1": "Timotej se pridružuje Pavlu i Sili",
+   "6": "Pavlovo viđenje Makedonca",
+   "11": "Lidijino obraćenje u Filipima",
+   "16": "Pavao i Sila u tamnici",
+   "25": "Obraćenje tamničara",
+   "35": "Službena isprika"
+  },
+  "17": {
+   "1": "Nemir u Solunu",
+   "10": "Značaj Berejaca",
+   "16": "Pavao u Ateni",
+   "22": "Pavlov govor na Areopagu"
+  },
+  "18": {
+   "1": "Pavao djeluje u Korintu",
+   "12": "Pavao pred Galionom",
+   "18": "Pavao se vraća u Antiohiju",
+   "23": "Počinje treće Pavlovo misijsko putovanje"
+  },
+  "19": {
+   "1": "Primanje Duha Svetoga u Efezu",
+   "8": "Pavao djeluje u Efezu",
+   "13": "Sedam Skevinih sinova",
+   "21": "Pobuna u Efezu"
+  },
+  "20": {
+   "1": "Pavao u Makedoniji i Grčkoj",
+   "7": "Eutih oživljen u Troadi",
+   "13": "Od Troade do Mileta",
+   "17": "Pavlov oproštaj s Efežanima"
+  },
+  "21": {
+   "1": "Pavlov put u Jeruzalem",
+   "8": "Pavao pohodi Filipa evanđelista",
+   "17": "Pavlov dolazak u Jeruzalem",
+   "27": "Pavao uhvaćen u Hramu",
+   "37": "Pavao govori mnoštvu"
+  },
+  "22": {
+   "1": "Pavlova obrana pred mnoštvom",
+   "22": "Pavao, rimski građanin"
+  },
+  "23": {
+   "1": "Pavao pred Vijećem",
+   "12": "Urota da se ubije Pavao",
+   "23": "Pavao poslan Feliksu"
+  },
+  "24": {
+   "1": "Tertul optužuje Pavla",
+   "10": "Pavlova obrana pred Feliksom",
+   "22": "Odgođena presuda"
+  },
+  "25": {
+   "1": "Pavlovo suđenje pred Festom",
+   "10": "Pavao se poziva na cara",
+   "13": "Fest se savjetuje s Agripom",
+   "23": "Pavao pred Agripom i Berenikom"
+  },
+  "26": {
+   "1": "Pavlovo svjedočanstvo pred Agripom",
+   "24": "Fest prekida Pavlovu obranu"
+  },
+  "27": {
+   "1": "Pavao plovi za Rim",
+   "13": "Oluja na moru",
+   "27": "Brodolom"
+  },
+  "28": {
+   "1": "Na obali Melite",
+   "11": "Pavao stiže u Italiju",
+   "16": "Pavao propovijeda u Rimu"
+  }
+ },
+ "ROM": {
+  "1": {
+   "1": "Pavao pozdravlja svete u Rimu",
+   "8": "Ne stidim se evanđelja",
+   "18": "Božji gnjev na grijeh"
+  },
+  "2": {
+   "1": "Božji pravedni sud",
+   "17": "Židovi i Zakon"
+  },
+  "3": {
+   "1": "Bog ostaje vjeran",
+   "9": "Nema pravednoga ni jednoga",
+   "21": "Pravednost po vjeri u Krista"
+  },
+  "4": {
+   "1": "Abraham opravdan vjerom",
+   "13": "Abraham prima obećanje"
+  },
+  "5": {
+   "1": "Pobjeda vjere",
+   "6": "Kristova žrtva za bezbožne",
+   "12": "Smrt u Adamu, život u Kristu"
+  },
+  "6": {
+   "1": "Mrtvi grijehu, živi Bogu",
+   "15": "Plaća grijeha"
+  },
+  "7": {
+   "1": "Oslobođenje od Zakona",
+   "7": "Božji je Zakon svet",
+   "13": "Borba s grijehom"
+  },
+  "8": {
+   "1": "Život po Duhu",
+   "12": "Subaštinici Kristovi",
+   "18": "Buduća slava",
+   "28": "Bog djeluje u svemu",
+   "35": "Više nego pobjednici"
+  },
+  "9": {
+   "1": "Pavlova skrb za Židove",
+   "6": "Božji suvereni izbor",
+   "30": "Nevjera Izraelova"
+  },
+  "10": {
+   "1": "Riječ donosi spasenje"
+  },
+  "11": {
+   "1": "Ostatak izabran po milosti",
+   "11": "Pricjepljenje pogana",
+   "25": "Sav će se Izrael spasiti",
+   "33": "Hvalospjev"
+  },
+  "12": {
+   "1": "Žive žrtve",
+   "9": "Ljubav, revnost, nada, gostoljubivost",
+   "14": "Oproštenje"
+  },
+  "13": {
+   "1": "Pokornost vlastima",
+   "8": "Ljubav je ispunjenje Zakona",
+   "11": "Dan je blizu"
+  },
+  "14": {
+   "1": "Zakon slobode",
+   "13": "Zakon ljubavi"
+  },
+  "15": {
+   "1": "Prihvaćajte jedni druge",
+   "7": "Krist, sluga Židova i pogana",
+   "14": "Pavao, službenik poganima",
+   "23": "Pavlove putne osnove"
+  },
+  "16": {
+   "1": "Osobni pozdravi i ljubav",
+   "17": "Klonite se razdora",
+   "21": "Pozdravi Pavlovih suradnika",
+   "25": "Slavoslovlje"
+  }
+ },
+ "1CO": {
+  "1": {
+   "1": "Pozdrav Pavla i Sostena",
+   "4": "Zahvala",
+   "10": "Jedinstvo u Crkvi",
+   "18": "Riječ o križu",
+   "26": "Mudrost od Boga"
+  },
+  "2": {
+   "1": "Pavlova poruka u sili Duha",
+   "6": "Duhovna mudrost"
+  },
+  "3": {
+   "1": "Božji suradnici",
+   "10": "Krist, naš temelj",
+   "16": "Božji hram i Božja mudrost"
+  },
+  "4": {
+   "1": "Sluge Kristove",
+   "14": "Pavlova očinska opomena"
+  },
+  "5": {
+   "1": "Ukoreno bludništvo",
+   "9": "Izbacite bludnoga brata"
+  },
+  "6": {
+   "1": "Parnice među vjernicima",
+   "9": "Udovi Kristovi",
+   "18": "Hram Duha Svetoga"
+  },
+  "7": {
+   "1": "Načela braka",
+   "17": "Živite dostojno svojega poziva",
+   "25": "Neoženjeni i udovice"
+  },
+  "8": {
+   "1": "Meso žrtvovano kumirima"
+  },
+  "9": {
+   "1": "Prava apostola",
+   "19": "Pavao, sluga svima",
+   "24": "Trči da pobijediš"
+  },
+  "10": {
+   "1": "Opomene iz prošlosti Izraela",
+   "14": "Bježite od idolopoklonstva",
+   "23": "Sve na slavu Božju"
+  },
+  "11": {
+   "1": "Uloge u bogoslužju",
+   "17": "Sudioništvo u Gospodnjoj večeri"
+  },
+  "12": {
+   "1": "Duhovni darovi",
+   "12": "Tijelo Kristovo",
+   "27": "Veći darovi"
+  },
+  "13": {
+   "1": "Ljubav"
+  },
+  "14": {
+   "1": "Proroštvo i jezici",
+   "26": "Uredno bogoslužje"
+  },
+  "15": {
+   "1": "Kristovo uskrsnuće",
+   "12": "Uskrsnuće mrtvih",
+   "20": "Red uskrsnuća",
+   "35": "Uskrsnulo tijelo",
+   "50": "Gdje je, smrti, pobjeda tvoja?"
+  },
+  "16": {
+   "1": "Sabirka za svete",
+   "5": "Pavlove putne osnove",
+   "10": "Timotej i Apolon",
+   "13": "Završni poticaji",
+   "19": "Potpis i završni pozdravi"
+  }
+ },
+ "2CO": {
+  "1": {
+   "1": "Pavao pozdravlja Korinćane",
+   "3": "Bog svake utjehe",
+   "12": "Pavlova promjena nauma"
+  },
+  "2": {
+   "1": "Potvrdite mu ljubav",
+   "12": "Pobjeda u Kristu"
+  },
+  "3": {
+   "1": "Službenici novoga saveza",
+   "7": "Slava novoga saveza"
+  },
+  "4": {
+   "1": "Svjetlo evanđelja",
+   "7": "Blago u glinenim posudama"
+  },
+  "5": {
+   "1": "Naš vječni stan",
+   "11": "Poslanici Kristovi"
+  },
+  "6": {
+   "1": "Pavlove nevolje i Božja milost",
+   "14": "Ne budite u nejednakom jarmu"
+  },
+  "7": {
+   "1": "Pavlova radost zbog Korinćana"
+  },
+  "8": {
+   "1": "Pohvala darežljivosti",
+   "16": "Pohvala Titu"
+  },
+  "9": {
+   "1": "Bog ljubi vesela darivatelja"
+  },
+  "10": {
+   "1": "Pavlova apostolska vlast"
+  },
+  "11": {
+   "1": "Pavao i lažni apostoli",
+   "16": "Pavlovo trpljenje i služba"
+  },
+  "12": {
+   "1": "Pavlova objava",
+   "5": "Pavlov trn i Božja milost",
+   "11": "Pavlova skrb za Korinćane"
+  },
+  "13": {
+   "1": "Ispitajte sami sebe",
+   "11": "Blagoslov i oproštaj"
+  }
+ },
+ "GAL": {
+  "1": {
+   "1": "Pavlov pozdrav Galaćanima",
+   "6": "Nema drugog evanđelja",
+   "10": "Pavao propovijeda evanđelje"
+  },
+  "2": {
+   "1": "Sabor u Jeruzalemu",
+   "11": "Pavao se suprotstavlja Kefi"
+  },
+  "3": {
+   "1": "Vjera i vjerovanje",
+   "10": "Krist nas je otkupio",
+   "15": "Svrha Zakona",
+   "26": "Sinovi po vjeri u Krista"
+  },
+  "4": {
+   "1": "Sinovi i baštinici",
+   "8": "Pavlova skrb za Galaćane",
+   "21": "Hagara i Sara"
+  },
+  "5": {
+   "1": "Sloboda u Kristu",
+   "16": "Život po Duhu"
+  },
+  "6": {
+   "1": "Nosite bremena jedni drugih",
+   "11": "Završne opomene i blagoslovi"
+  }
+ },
+ "EPH": {
+  "1": {
+   "1": "Pavlov pozdrav Efežanima",
+   "3": "Duhovni blagoslovi",
+   "15": "Duhovna mudrost"
+  },
+  "2": {
+   "1": "Oživljeni s Kristom",
+   "11": "Jedno u Kristu",
+   "19": "Krist, naš ugaoni kamen"
+  },
+  "3": {
+   "1": "Otajstvo evanđelja",
+   "14": "Pavlova molitva za Efežane"
+  },
+  "4": {
+   "1": "Jedinstvo u tijelu",
+   "17": "Novi život u Kristu"
+  },
+  "5": {
+   "1": "Nasljedovatelji Boga",
+   "8": "Djeca svjetla",
+   "21": "Žene i muževi"
+  },
+  "6": {
+   "1": "Djeca i roditelji",
+   "5": "Služenje s čašću",
+   "10": "Sva oprema Božja",
+   "21": "Završni pozdravi"
+  }
+ },
+ "PHP": {
+  "1": {
+   "1": "Pozdrav Pavla i Timoteja",
+   "3": "Zahvala i molitva",
+   "12": "Pavlove nevolje promiču evanđelje",
+   "21": "Živjeti — to je Krist",
+   "27": "Dostojno evanđelja"
+  },
+  "2": {
+   "1": "Jedno u Kristu",
+   "5": "Um Kristov",
+   "12": "Svjetla u svijetu",
+   "19": "Timotej i Epafrodit"
+  },
+  "3": {
+   "1": "Pravednost po vjeri u Krista",
+   "12": "Hrlim prema cilju",
+   "17": "Domovina na nebesima"
+  },
+  "4": {
+   "1": "Radujte se u Gospodinu",
+   "10": "Darežljivost Filipljana",
+   "21": "Završni pozdravi"
+  }
+ },
+ "COL": {
+  "1": {
+   "1": "Pozdrav Pavla i Timoteja",
+   "3": "Zahvala i molitva",
+   "15": "Nadmoć Sina",
+   "24": "Pavlovo trpljenje za Crkvu"
+  },
+  "2": {
+   "1": "Odsutan tijelom, prisutan duhom",
+   "6": "Oživljeni s Kristom"
+  },
+  "3": {
+   "1": "Obucite novoga čovjeka",
+   "18": "Kršćanski domovi",
+   "22": "Služenje s čašću"
+  },
+  "4": {
+   "1": "Molitveni govor i djela",
+   "7": "Pozdravi Pavlovih suradnika",
+   "15": "Potpis i završne upute"
+  }
+ },
+ "1TH": {
+  "1": {
+   "1": "Pozdrav Solunjanima"
+  },
+  "2": {
+   "1": "Pavlova služba",
+   "17": "Pavlova čežnja da ih pohodi"
+  },
+  "3": {
+   "1": "Timotejev posjet",
+   "6": "Timotejev ohrabrujući izvještaj"
+  },
+  "4": {
+   "1": "Život ugodan Bogu",
+   "13": "Dolazak Gospodnji"
+  },
+  "5": {
+   "1": "Dan Gospodnji",
+   "12": "Kršćanski život",
+   "23": "Završni blagoslovi i upute"
+  }
+ },
+ "2TH": {
+  "1": {
+   "1": "Pozdrav Solunjanima",
+   "5": "Kristov dolazak"
+  },
+  "2": {
+   "1": "Čovjek bezakonja",
+   "13": "Stojte čvrsto"
+  },
+  "3": {
+   "1": "Molba za molitvu",
+   "6": "Opomena protiv besposlice",
+   "16": "Potpis i završni pozdravi"
+  }
+ },
+ "1TI": {
+  "1": {
+   "1": "Pavlov pozdrav Timoteju",
+   "3": "Ispravljanje lažnih učitelja",
+   "12": "Božja milost Pavlu"
+  },
+  "2": {
+   "1": "Poziv na molitvu",
+   "9": "Upute ženama"
+  },
+  "3": {
+   "1": "Uvjeti za nadglednike",
+   "8": "Uvjeti za đakone",
+   "14": "Otajstvo pobožnosti"
+  },
+  "4": {
+   "1": "Opomena protiv otpada",
+   "6": "Dobar sluga Isusa Krista"
+  },
+  "5": {
+   "1": "Ukor i poštovanje",
+   "3": "Poštovanje pravih udovica",
+   "17": "Poštovanje starješina",
+   "21": "Zapovijed Timoteju"
+  },
+  "6": {
+   "1": "Služenje s čašću",
+   "3": "Odbacujte lažne nauke",
+   "6": "Pobožnost sa zadovoljstvom",
+   "11": "Bij dobar boj",
+   "17": "Opomena bogatima",
+   "20": "Čuvaj vjeru"
+  }
+ },
+ "2TI": {
+  "1": {
+   "1": "Pavlov pozdrav Timoteju",
+   "3": "Vjernost u progonstvu",
+   "13": "Držanje zdrava nauka"
+  },
+  "2": {
+   "1": "Milost i postojanost",
+   "14": "Prokušani radnik Gospodnji"
+  },
+  "3": {
+   "1": "Zlo u posljednjim danima",
+   "10": "Sve je Pismo od Boga nadahnuto"
+  },
+  "4": {
+   "1": "Propovijedaj Riječ",
+   "9": "Osobne brige",
+   "16": "Gospodin ostaje vjeran",
+   "19": "Završni pozdravi"
+  }
+ },
+ "TIT": {
+  "1": {
+   "1": "Pavlov pozdrav Titu",
+   "5": "Postavljanje starješina na Kreti",
+   "10": "Ispravljanje lažnih učitelja"
+  },
+  "2": {
+   "1": "Poučavanje zdravog nauka",
+   "11": "Božja milost donosi spasenje"
+  },
+  "3": {
+   "1": "Baštinici milosti",
+   "9": "Klonite se razdora",
+   "12": "Završne riječi i pozdravi"
+  }
+ },
+ "PHM": {
+  "1": {
+   "1": "Pozdrav Pavla i Timoteja",
+   "4": "Filemonova vjera i ljubav",
+   "8": "Pavlov zagovor za Onezima",
+   "23": "Daljnji pozdravi"
+  }
+ },
+ "HEB": {
+  "1": {
+   "1": "Nadmoć Sina"
+  },
+  "2": {
+   "1": "Potvrđeno spasenje",
+   "5": "Isus poput svoje braće"
+  },
+  "3": {
+   "1": "Isus, naš Apostol i Veliki svećenik",
+   "7": "Ne otvrdnite srca svoja",
+   "12": "Pogibelj nevjere"
+  },
+  "4": {
+   "1": "Subotnji počinak",
+   "12": "Živa Riječ"
+  },
+  "5": {
+   "1": "Savršeni Veliki svećenik",
+   "11": "Mlijeko i tvrda hrana"
+  },
+  "6": {
+   "1": "Poziv na zrelost",
+   "13": "Božje nepromjenjivo obećanje"
+  },
+  "7": {
+   "1": "Melkisedek i Abraham",
+   "11": "Uzvišenije svećeništvo"
+  },
+  "8": {
+   "1": "Kristovo vječno svećeništvo",
+   "6": "Novi savez"
+  },
+  "9": {
+   "1": "Zemaljski Šator",
+   "11": "Otkupljenje njegovom krvlju"
+  },
+  "10": {
+   "1": "Kristova savršena žrtva",
+   "19": "Poziv na postojanost"
+  },
+  "11": {
+   "1": "Vjera i pouzdanje",
+   "4": "Vjera Abela, Henoka i Noe",
+   "8": "Vjera Abrahama i Sare",
+   "20": "Vjera Izaka, Jakova i Josipa",
+   "23": "Mojsijeva vjera",
+   "30": "Vjera mnogih · (Jošua–Malahija)"
+  },
+  "12": {
+   "1": "Poziv na ustrajnost",
+   "4": "Bog odgaja svoje sinove",
+   "14": "Poziv na svetost",
+   "18": "Nepokolebljivo kraljevstvo"
+  },
+  "13": {
+   "1": "Bratska ljubav",
+   "5": "Kristova nepromjenjivost",
+   "15": "Žrtva, poslušnost i molitva",
+   "20": "Blagoslov i oproštaj"
+  }
+ },
+ "JAS": {
+  "1": {
+   "1": "Pozdrav Jakovljev",
+   "2": "Radost u kušnjama",
+   "13": "Dobri i savršeni darovi",
+   "19": "Slušanje i vršenje"
+  },
+  "2": {
+   "1": "Opomena protiv pristranosti",
+   "14": "Vjera i djela"
+  },
+  "3": {
+   "1": "Ukroćivanje jezika",
+   "13": "Mudrost odozgo"
+  },
+  "4": {
+   "1": "Opomena protiv oholosti",
+   "7": "Pristupanje Bogu",
+   "13": "Ne hvali se sutrašnjim danom"
+  },
+  "5": {
+   "1": "Opomena bogatima",
+   "7": "Strpljivost u trpljenju",
+   "13": "Molitva vjere",
+   "19": "Podizanje grešnika"
+  }
+ },
+ "1PE": {
+  "1": {
+   "1": "Pozdrav Petrov",
+   "3": "Živa nada",
+   "13": "Poziv na svetost",
+   "22": "Riječ koja ostaje"
+  },
+  "2": {
+   "1": "Živi kamen i izabrani narod",
+   "13": "Pokornost vlastima",
+   "21": "Kristov primjer trpljenja"
+  },
+  "3": {
+   "1": "Žene i muževi",
+   "8": "Odvraćanje od zla",
+   "14": "Trpljenje zbog pravednosti"
+  },
+  "4": {
+   "1": "Život na slavu Božju",
+   "12": "Trpljenje kao kršćani"
+  },
+  "5": {
+   "1": "Upute starješinama",
+   "5": "Svu svoju brigu bacite na njega",
+   "10": "Blagoslov i oproštaj"
+  }
+ },
+ "2PE": {
+  "1": {
+   "1": "Pozdrav Petrov",
+   "3": "Dionici božanske naravi",
+   "16": "Očevici njegova veličanstva"
+  },
+  "2": {
+   "1": "Izbavljenje od lažnih proroka"
+  },
+  "3": {
+   "1": "Sud koji dolazi",
+   "8": "Dan Gospodnji",
+   "14": "Završni poticaji"
+  }
+ },
+ "1JN": {
+  "1": {
+   "1": "Riječ života",
+   "5": "Hod u svjetlu"
+  },
+  "2": {
+   "1": "Isus, naš Zagovornik",
+   "7": "Nova zapovijed",
+   "15": "Ne ljubite svijeta",
+   "18": "Čuvajte se antikrista",
+   "24": "Ostanite u Kristu"
+  },
+  "3": {
+   "1": "Djeca Božja",
+   "11": "Ljubite jedni druge"
+  },
+  "4": {
+   "1": "Ispitivanje duhova",
+   "7": "Ljubav dolazi od Boga"
+  },
+  "5": {
+   "1": "Pobjeda nad svijetom",
+   "9": "Božje svjedočanstvo o Sinu njegovu",
+   "13": "Djelotvorna molitva",
+   "18": "Pravi Bog"
+  }
+ },
+ "2JN": {
+  "1": {
+   "1": "Pozdrav starješine",
+   "4": "Hod u istini",
+   "7": "Čuvajte se zavodnika",
+   "12": "Zaključak"
+  }
+ },
+ "3JN": {
+  "1": {
+   "1": "Pozdrav starješine",
+   "5": "Pohvala Gaju za gostoljubivost",
+   "9": "Diotref i Demetrije",
+   "13": "Zaključak"
+  }
+ },
+ "JUD": {
+  "1": {
+   "1": "Pozdrav Judin",
+   "3": "Božji sud nad bezbožnima",
+   "17": "Poziv na postojanost",
+   "24": "Slavoslovlje"
+  }
+ },
+ "REV": {
+  "1": {
+   "1": "Proslov",
+   "4": "Ivan pozdravlja sedam crkava",
+   "9": "Ivanovo viđenje na Patmosu"
+  },
+  "2": {
+   "1": "Crkvi u Efezu",
+   "8": "Crkvi u Smirni",
+   "12": "Crkvi u Pergamu",
+   "18": "Crkvi u Tijatiri"
+  },
+  "3": {
+   "1": "Crkvi u Sardu",
+   "7": "Crkvi u Filadelfiji",
+   "14": "Crkvi u Laodiceji"
+  },
+  "4": {
+   "1": "Prijestolje na nebu",
+   "5": "Štovanje Stvoritelja"
+  },
+  "5": {
+   "1": "Jaganjac uzima svitak",
+   "11": "Uzvišeni Jaganjac"
+  },
+  "6": {
+   "1": "Prvi pečat: bijeli konj",
+   "3": "Drugi pečat: rat",
+   "5": "Treći pečat: glad",
+   "7": "Četvrti pečat: smrt",
+   "9": "Peti pečat: mučenici",
+   "12": "Šesti pečat: užas"
+  },
+  "7": {
+   "1": "Zapečaćenih 144.000",
+   "9": "Hvala velikoga mnoštva"
+  },
+  "8": {
+   "1": "Sedmi pečat",
+   "6": "Prve četiri trube"
+  },
+  "9": {
+   "1": "Peta truba",
+   "13": "Šesta truba"
+  },
+  "10": {
+   "1": "Anđeo i mali svitak"
+  },
+  "11": {
+   "1": "Dva svjedoka",
+   "7": "Svjedoci ubijeni i uskrsnuli",
+   "15": "Sedma truba"
+  },
+  "12": {
+   "1": "Žena i Zmaj",
+   "7": "Rat na nebu",
+   "13": "Progonjena žena"
+  },
+  "13": {
+   "1": "Zvijer iz mora",
+   "11": "Zvijer iz zemlje",
+   "16": "Žig Zvijeri"
+  },
+  "14": {
+   "1": "Jaganjac i 144.000",
+   "6": "Tri anđela i pad Babilona",
+   "14": "Žetva zemlje"
+  },
+  "15": {
+   "1": "Pjesma Mojsijeva i Jaganjčeva",
+   "5": "Priprava za sud"
+  },
+  "16": {
+   "1": "Prvih šest čaša gnjeva",
+   "17": "Sedma čaša gnjeva"
+  },
+  "17": {
+   "1": "Žena na Zvijeri",
+   "6": "Objašnjeno otajstvo",
+   "14": "Pobjeda Jaganjčeva"
+  },
+  "18": {
+   "1": "Pao je Babilon",
+   "9": "Tužaljka nad Babilonom",
+   "21": "Propast Babilona"
+  },
+  "19": {
+   "1": "Radost na nebu",
+   "6": "Svadba Jaganjčeva",
+   "11": "Jahač na bijelom konju",
+   "17": "Poraz Zvijeri i lažnog proroka"
+  },
+  "20": {
+   "1": "Sotona svezan",
+   "7": "Sotona bačen u ognjeno jezero",
+   "11": "Sud pred velikim bijelim prijestoljem"
+  },
+  "21": {
+   "1": "Novo nebo i nova zemlja",
+   "9": "Novi Jeruzalem"
+  },
+  "22": {
+   "1": "Rijeka života",
+   "6": "Isus dolazi",
+   "18": "Ništa se ne smije dodati ni oduzeti"
+  }
+ }
+}

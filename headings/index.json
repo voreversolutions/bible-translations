@@ -11,6 +11,11 @@
       "code": "en",
       "anchors": 3086,
       "translated": false
+    },
+    {
+      "code": "hr",
+      "anchors": 3086,
+      "translated": true
     }
   ]
 }
