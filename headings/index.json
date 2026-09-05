@@ -1,0 +1,16 @@
+{
+  "source": {
+    "id": "bsb",
+    "name": "Berean Standard Bible",
+    "license": "public-domain",
+    "url": "https://ebible.org/Scriptures/engbsb_usfm.zip",
+    "note": "Headings only. None of the BSB's verse text is used here or shipped anywhere in the app."
+  },
+  "languages": [
+    {
+      "code": "en",
+      "anchors": 3086,
+      "translated": false
+    }
+  ]
+}

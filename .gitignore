@@ -4,3 +4,8 @@
 node_modules/
 .idea
 .claude/
+
+# Raw source USFM (download locally to run the heading extractor, don't commit)
+*.usfm
+*_usfm.zip
+*_usfx.zip
