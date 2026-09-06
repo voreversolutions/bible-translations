@@ -15,6 +15,12 @@ its versification. Keeping them out of the book files has three consequences tha
 - **Nobody re-downloads a Bible for a heading fix.** The app treats a moved tag as "every local
   book is untrustworthy" and re-fetches the whole translation, so a heading typo shipped in a book
   file would cost every user 10–40 MB. Headings carry their own tag; the text tag never moves.
+
+  The shipped tag is **`headings-1.0`** — all seven languages in one snapshot. A tag here is a
+  snapshot and not a delta: whatever the app asks for, that tag has to hold every language. Never
+  move a tag that has been served; jsDelivr caches by tag, so a fix ships as a new tag and the
+  app's `bibleHeadingsTag` moves with it. `headings-v1`…`v7` are the per-language tags this was
+  built up under and nothing reads them.
 - **The app degrades to today's behaviour** when a heading file is missing, so a language ships
   when its translation is ready rather than all seven at once.
 - One file, ~126 KB, serves KJV, BBE and DRA together.
