@@ -75,9 +75,10 @@ Hebrew way, and those anchors land on a verse that does not exist there:
 
 | Edition | Resolves | Misses |
 |---|---|---|
-| kjv, bbe, bkj | 100% | — |
+| kjv, bbe, bkj, arasvd, bes, almeida | 100% | — |
 | dra | 99.94% | 2 (Song of Songs) |
-| luther1912 | 99.68% | 10 (Joel 2:28, Malachi 4, Zechariah 1:18, …) |
+| ostervald | 99.97% | 1 (Ezekiel 20:45) |
+| elb1905, luther1912 | 99.68% | 10 (Joel 2:28, Malachi 4, Zechariah 1:18, …) |
 
 **No mapping table exists and none is needed.** The app looks a heading up by verse, so an anchor
 matching no verse renders nothing — the reader loses one heading out of three thousand and sees no
