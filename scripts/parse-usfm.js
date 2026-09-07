@@ -57,12 +57,14 @@ function cleanVerseText(raw) {
   let text = raw;
   text = text.replace(NOTES, ' ');
   text = text.replace(UNTERMINATED_NOTE, ' ');
-  // Word attributes: `\w word|strong="H1234"\w*` — keep the word, lose the payload.
-  text = text.replace(/\\w\s+([^|\\]*)(?:\|[^\\]*)?\\w\*/g, '$1');
+  // Word attributes: `\w word|strong="H1234"\w*` — keep the word, lose the payload. The `+` form
+  // is the same marker nested inside another character style (`\+w Selah\+w*`), which the ASV
+  // Byzantine Text uses for every "Selah"; without it the backslashes reach the reader.
+  text = text.replace(/\\\+?w\s+([^|\\]*)(?:\|[^\\]*)?\\\+?w\*/g, '$1');
   text = text.replace(/\|[a-z0-9]+="[^"]*"/gi, '');
   // Character styles unwrap: closing `\xx*` and opening `\xx` both go, the text between stays.
-  text = text.replace(/\\[a-z0-9]+\*/gi, ' ');
-  text = text.replace(/\\[a-z0-9]+\b/gi, ' ');
+  text = text.replace(/\\\+?[a-z0-9]+\*/gi, ' ');
+  text = text.replace(/\\\+?[a-z0-9]+\b/gi, ' ');
   // Paragraph-level pilcrows the CPDV prints inside verses, and USFM's optional-break marker.
   text = text.replace(/[¶//]/g, ' ');
   return text.replace(/\s+/g, ' ').trim();
