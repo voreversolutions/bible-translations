@@ -2,6 +2,10 @@
 /**
  * validate-headings.js — Check that every heading anchor points at a verse that actually exists.
  *
+ * A file named after an edition (`dra.json`) is checked against that edition alone, and an edition
+ * with its own file is not checked against its language's file — that is the rule the app uses to
+ * pick one, so checking any other pairing would report on a combination nothing loads.
+ *
  * A heading file is keyed by reference, so it is only correct relative to a versification. Most
  * of our editions agree with the English one; a few split a handful of chapters the Hebrew way
  * (Joel 2:28 is Joel 3:1 in Luther, Malachi 4 does not exist there at all). An anchor that lands
@@ -88,13 +92,18 @@ const files =
 
 let failed = false;
 
+const hasOwnFile = (id) => fs.existsSync(path.join(HEADINGS_DIR, `${id}.json`));
+
 for (const file of files) {
-  const language = path.basename(file, ".json");
-  const targets = translations().filter((t) => t.language === language);
-  console.log(`\n${path.relative(ROOT, file)} → ${targets.length} translation(s) in "${language}"`);
+  const setId = path.basename(file, ".json");
+  const all = translations();
+  const own = all.find((t) => t.id === setId);
+  const targets = own ? [own] : all.filter((t) => t.language === setId && !hasOwnFile(t.id));
+  const what = own ? `the ${setId} edition` : `${targets.length} translation(s) in "${setId}"`;
+  console.log(`\n${path.relative(ROOT, file)} → ${what}`);
 
   if (targets.length === 0) {
-    console.log("  (no translation in this language yet — nothing to check against)");
+    console.log("  (nothing loads this file — no translation reads it)");
     continue;
   }
 

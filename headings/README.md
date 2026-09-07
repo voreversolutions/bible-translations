@@ -16,11 +16,11 @@ its versification. Keeping them out of the book files has three consequences tha
   book is untrustworthy" and re-fetches the whole translation, so a heading typo shipped in a book
   file would cost every user 10–40 MB. Headings carry their own tag; the text tag never moves.
 
-  The shipped tag is **`headings-1.1`** — all seven languages in one snapshot. A tag here is a
+  The shipped tag is **`headings-1.2`** — all seven languages in one snapshot. A tag here is a
   snapshot and not a delta: whatever the app asks for, that tag has to hold every language. Never
   move a tag that has been served; jsDelivr caches by tag, so a fix ships as a new tag and the
   app's `bibleHeadingsTag` moves with it. `headings-v1`…`v7` are the per-language tags this was
-  built up under and nothing reads them; `headings-1.0` is the 66-book snapshot 1.1.3 shipped.
+  built up under and nothing reads them; `headings-1.0` is the 66-book snapshot 1.1.3 shipped, and `headings-1.1` added the deuterocanon.
 - **The app degrades to today's behaviour** when a heading file is missing, so a language ships
   when its translation is ready rather than all seven at once.
 - One file, ~127 KB, serves every English edition together.
@@ -44,8 +44,11 @@ its own first verse ("Thirty Sayings of the Wise · Saying 1"). Ten anchors in t
 
 ### Which file the app loads
 
-`headings/<translationId>.json` if it exists, otherwise `headings/<language>.json`. No edition
-needs its own file today; the rule exists so one can be added without a code change.
+`headings/<translationId>.json` if it exists, otherwise `headings/<language>.json`. Four editions
+need their own: **dra, cpdv, brenton and lxx2012** number their Psalms the Vulgate's or the
+Septuagint's way, so the English anchors would sit over the wrong psalm in them from Psalm 10 on.
+`Translation.headingSetFor` names those four by their dataset id and everything else by its
+language.
 
 ## Source and licence
 
@@ -114,6 +117,45 @@ Hebrew way, and those anchors land on a verse that does not exist there:
 A **book** the edition does not carry is counted apart from these and does not move the ratio: one
 English anchor set now spans two canons, so scoring Tobit against the KJV would report a broken
 extraction where the only fact is that the KJV has no Tobit.
+
+## The Vulgate and Septuagint sets
+
+`dra.json` (3,447 anchors), `cpdv.json` (3,439), `brenton.json` (2,503) and `lxx2012.json` (2,577)
+are `en.json` re-anchored onto those editions by `scripts/remap-headings.py`. Before them those
+four showed **no headings at all**, which was the larger of the two gaps this data has had.
+
+It is not a chapter-number remap. From Psalm 10 on the Greek and Latin traditions number the psalms
+one lower, *and* they print the superscription as a numbered verse, so the verses shift too — the
+KJV's 51:1 is the DRA's 50:3. Four psalms are split or merged outright. Outside the Psalms the
+Vulgate's Esther is rearranged wholesale (the KJV's 1:1 is the CPDV's 3:1, but its 4:1 is 7:1 and
+its 5:1 is 9:17), and the Septuagint's Jeremiah is a different book order, with the oracles against
+the nations at chapters 25-32 instead of 46-51.
+
+Four rules make it verifiable rather than clever:
+
+1. **Every anchor is placed by aligning the words of the passage it opens**, five verses of it.
+   Differencing verse counts is what a careless remap does and it is wrong wherever the edition
+   also merges a verse mid-psalm — eleven DRA psalms are exactly that — and the result would be a
+   heading over the wrong text with every anchor still resolving to a verse that exists.
+2. **Evidence moves an anchor; nothing is needed to leave it alone.** The alignment goes quiet on
+   repetitive text (genealogies, temple measurements), so a weak reading leaves the anchor where
+   the chapter mapping put it instead of chasing a coincidence.
+3. **Order is checked, because wording can be faked.** Exodus tells the tabernacle twice, as
+   instruction and as execution, in nearly the same words, and the search happily matched "and he
+   made the ark" onto "thou shalt make the ark" with a better score than the truth. Headings run
+   through a book one way, so a placement that goes backwards relative to its neighbours is
+   refused and re-searched between them.
+4. **Whatever survives is scored again where it landed and dropped under 0.05.** No heading beats
+   a wrong heading.
+
+`scripts/audit-remapped-headings.py` re-scores a finished file from scratch. DRA lands 92.9% of
+its titles above 0.30 and none below 0.05; CPDV 71.8% and none; Brenton 87.0%; LXX2012 84.7%.
+
+```bash
+python3 scripts/remap-headings.py dra headings/dra.json
+python3 scripts/audit-remapped-headings.py dra headings/dra.json
+node scripts/validate-headings.js
+```
 
 **No mapping table exists and none is needed.** The app looks a heading up by verse, so an anchor
 matching no verse renders nothing — the reader loses one heading out of three thousand and sees no

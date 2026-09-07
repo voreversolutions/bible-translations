@@ -51,5 +51,24 @@
       "en"
     ],
     "note": "The BSB has no deuterocanon and no public-domain edition carries both those books and section headings, so these titles are written for this dataset. Anchors for the eleven books a Catholic edition divides follow those divisions, checked verse by verse against the ASV Byzantine Text; for 1ES, 2ES, 3MA, 4MA and PSS both the anchors and the titles are ours. English only: ASV BT is the one edition that carries these books and reads a heading set."
+  },
+  "editions": {
+    "note": "Editions that number their Psalms the Vulgate's or the Septuagint's way read their own file, re-anchored from en.json by scripts/remap-headings.py. Every anchor is placed by aligning the words of the passage it opens, never by differencing verse counts, and one that does not read like its source is dropped rather than guessed.",
+    "dra": {
+      "books": 73,
+      "anchors": 3447
+    },
+    "cpdv": {
+      "books": 73,
+      "anchors": 3439
+    },
+    "brenton": {
+      "books": 51,
+      "anchors": 2503
+    },
+    "lxx2012": {
+      "books": 53,
+      "anchors": 2577
+    }
   }
 }
