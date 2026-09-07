@@ -1,0 +1,279 @@
+{
+  "id": "lxx2012",
+  "name": "Septuagint in American English 2012",
+  "language": "en",
+  "year": 2012,
+  "license": "public-domain",
+  "books": [
+    {
+      "id": "GEN",
+      "name": "Genesis",
+      "chapters": 50
+    },
+    {
+      "id": "EXO",
+      "name": "Exodus",
+      "chapters": 40
+    },
+    {
+      "id": "LEV",
+      "name": "Leviticus",
+      "chapters": 27
+    },
+    {
+      "id": "NUM",
+      "name": "Numbers",
+      "chapters": 36
+    },
+    {
+      "id": "DEU",
+      "name": "Deuteronomy",
+      "chapters": 34
+    },
+    {
+      "id": "JOS",
+      "name": "Joshua",
+      "chapters": 24
+    },
+    {
+      "id": "JDG",
+      "name": "Judges",
+      "chapters": 21
+    },
+    {
+      "id": "RUT",
+      "name": "Ruth",
+      "chapters": 4
+    },
+    {
+      "id": "1SA",
+      "name": "Kings I",
+      "chapters": 31
+    },
+    {
+      "id": "2SA",
+      "name": "Kings II",
+      "chapters": 24
+    },
+    {
+      "id": "1KI",
+      "name": "Kings III",
+      "chapters": 22
+    },
+    {
+      "id": "2KI",
+      "name": "Kings IV",
+      "chapters": 25
+    },
+    {
+      "id": "1CH",
+      "name": "Chronicles I",
+      "chapters": 29
+    },
+    {
+      "id": "2CH",
+      "name": "Chronicles II",
+      "chapters": 36
+    },
+    {
+      "id": "EZR",
+      "name": "Ezra",
+      "chapters": 10
+    },
+    {
+      "id": "NEH",
+      "name": "Nehemiah",
+      "chapters": 13
+    },
+    {
+      "id": "EST",
+      "name": "Esther",
+      "chapters": 10
+    },
+    {
+      "id": "JOB",
+      "name": "Job",
+      "chapters": 42
+    },
+    {
+      "id": "PSA",
+      "name": "Psalms",
+      "chapters": 151
+    },
+    {
+      "id": "PRO",
+      "name": "Proverbs",
+      "chapters": 31
+    },
+    {
+      "id": "ECC",
+      "name": "Ecclesiastes",
+      "chapters": 12
+    },
+    {
+      "id": "SNG",
+      "name": "Song of Songs",
+      "chapters": 8
+    },
+    {
+      "id": "ISA",
+      "name": "Esias",
+      "chapters": 66
+    },
+    {
+      "id": "JER",
+      "name": "Jeremias",
+      "chapters": 52
+    },
+    {
+      "id": "LAM",
+      "name": "Lamentations",
+      "chapters": 5
+    },
+    {
+      "id": "EZK",
+      "name": "Jezekiel",
+      "chapters": 48
+    },
+    {
+      "id": "DAN",
+      "name": "Daniel",
+      "chapters": 12
+    },
+    {
+      "id": "HOS",
+      "name": "Osee",
+      "chapters": 14
+    },
+    {
+      "id": "JOL",
+      "name": "Joel",
+      "chapters": 3
+    },
+    {
+      "id": "AMO",
+      "name": "Amos",
+      "chapters": 9
+    },
+    {
+      "id": "OBA",
+      "name": "Obdias",
+      "chapters": 1
+    },
+    {
+      "id": "JON",
+      "name": "Jonas",
+      "chapters": 4
+    },
+    {
+      "id": "MIC",
+      "name": "Michaeas",
+      "chapters": 7
+    },
+    {
+      "id": "NAM",
+      "name": "Naum",
+      "chapters": 3
+    },
+    {
+      "id": "HAB",
+      "name": "Ambacum",
+      "chapters": 3
+    },
+    {
+      "id": "ZEP",
+      "name": "Sophonias",
+      "chapters": 3
+    },
+    {
+      "id": "HAG",
+      "name": "Aggaeus",
+      "chapters": 2
+    },
+    {
+      "id": "ZEC",
+      "name": "Zacharias",
+      "chapters": 14
+    },
+    {
+      "id": "MAL",
+      "name": "Malachias",
+      "chapters": 4
+    },
+    {
+      "id": "TOB",
+      "name": "Tobit",
+      "chapters": 14
+    },
+    {
+      "id": "JDT",
+      "name": "Judith",
+      "chapters": 16
+    },
+    {
+      "id": "WIS",
+      "name": "Wisdom",
+      "chapters": 19
+    },
+    {
+      "id": "SIR",
+      "name": "Sirach",
+      "chapters": 51
+    },
+    {
+      "id": "BAR",
+      "name": "Baruch",
+      "chapters": 5
+    },
+    {
+      "id": "LJE",
+      "name": "Epistle of Jeremy",
+      "chapters": 1
+    },
+    {
+      "id": "S3Y",
+      "name": "Prayer of Azarias",
+      "chapters": 1
+    },
+    {
+      "id": "SUS",
+      "name": "Susanna",
+      "chapters": 1
+    },
+    {
+      "id": "BEL",
+      "name": "Bel and the Dragon",
+      "chapters": 1
+    },
+    {
+      "id": "1MA",
+      "name": "1 Maccabees",
+      "chapters": 16
+    },
+    {
+      "id": "2MA",
+      "name": "2 Maccabees",
+      "chapters": 15
+    },
+    {
+      "id": "1ES",
+      "name": "I Esdras",
+      "chapters": 9
+    },
+    {
+      "id": "MAN",
+      "name": "Prayer of Manasses",
+      "chapters": 1
+    },
+    {
+      "id": "3MA",
+      "name": "3 Maccabees",
+      "chapters": 7
+    },
+    {
+      "id": "4MA",
+      "name": "4 Maccabees",
+      "chapters": 18
+    }
+  ]
+}

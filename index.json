@@ -5,7 +5,8 @@
       "name": "Bible in Basic English",
       "language": "en",
       "year": 1949,
-      "license": "public-domain"
+      "license": "public-domain",
+      "versification": "hebrew"
     },
     {
       "id": "bes",
@@ -14,35 +15,40 @@
       "year": 2018,
       "license": "CC BY 4.0",
       "attribution": "© 2018 AudioBiblia.org / Irma Flores",
-      "attributionUrl": "http://creativecommons.org/licenses/by/4.0"
+      "attributionUrl": "http://creativecommons.org/licenses/by/4.0",
+      "versification": "hebrew"
     },
     {
       "id": "ostervald",
       "name": "Bible Ostervald 1996",
       "language": "fr",
       "year": 1996,
-      "license": "public-domain"
+      "license": "public-domain",
+      "versification": "hebrew"
     },
     {
       "id": "almeida",
       "name": "Almeida Recebida",
       "language": "pt",
       "year": 1681,
-      "license": "public-domain"
+      "license": "public-domain",
+      "versification": "hebrew"
     },
     {
       "id": "luther1912",
       "name": "Luther Bibel 1912",
       "language": "de",
       "year": 1912,
-      "license": "public-domain"
+      "license": "public-domain",
+      "versification": "hebrew"
     },
     {
       "id": "kjv",
       "name": "King James Version",
       "language": "en",
       "year": 1611,
-      "license": "public-domain"
+      "license": "public-domain",
+      "versification": "hebrew"
     },
     {
       "id": "bkj",
@@ -51,28 +57,59 @@
       "year": 2005,
       "license": "free-noncommercial",
       "attribution": "UDRUGA STABLO ŽIVOTA",
-      "attributionUrl": "https://hrbiblija.cc"
+      "attributionUrl": "https://hrbiblija.cc",
+      "versification": "hebrew"
     },
     {
       "id": "dra",
       "name": "Douay-Rheims Bible",
       "language": "en",
       "year": 1899,
-      "license": "public-domain"
+      "license": "public-domain",
+      "versification": "vulgate"
     },
     {
       "id": "arasvd",
       "name": "الكتاب المقدس (ترجمة فان دايك)",
       "language": "ar",
       "year": 1865,
-      "license": "public-domain"
+      "license": "public-domain",
+      "versification": "hebrew"
     },
     {
       "id": "elb1905",
       "name": "Elberfelder Bibel 1905",
       "language": "de",
       "year": 1905,
-      "license": "public-domain"
+      "license": "public-domain",
+      "versification": "hebrew"
+    },
+    {
+      "id": "cpdv",
+      "name": "Catholic Public Domain Version",
+      "language": "en",
+      "year": 2009,
+      "license": "public-domain",
+      "attribution": "Ronald L. Conte Jr., sacredbible.org",
+      "versification": "vulgate"
+    },
+    {
+      "id": "brenton",
+      "name": "Brenton Septuagint Translation",
+      "language": "en",
+      "year": 1851,
+      "license": "public-domain",
+      "attribution": "Sir Lancelot C. L. Brenton, via eBible.org",
+      "versification": "septuagint"
+    },
+    {
+      "id": "lxx2012",
+      "name": "Septuagint in American English 2012",
+      "language": "en",
+      "year": 2012,
+      "license": "public-domain",
+      "attribution": "Michael Paul Johnson, via eBible.org",
+      "versification": "septuagint"
     }
   ]
 }
