@@ -16,11 +16,11 @@ its versification. Keeping them out of the book files has three consequences tha
   book is untrustworthy" and re-fetches the whole translation, so a heading typo shipped in a book
   file would cost every user 10–40 MB. Headings carry their own tag; the text tag never moves.
 
-  The shipped tag is **`headings-1.3`** — all seven languages in one snapshot. A tag here is a
+  The shipped tag is **`headings-1.4`** — all seven languages in one snapshot. A tag here is a
   snapshot and not a delta: whatever the app asks for, that tag has to hold every language. Never
   move a tag that has been served; jsDelivr caches by tag, so a fix ships as a new tag and the
   app's `bibleHeadingsTag` moves with it. `headings-v1`…`v7` are the per-language tags this was
-  built up under and nothing reads them; `headings-1.0` is the 66-book snapshot 1.1.3 shipped, `headings-1.1` added the deuterocanon and `headings-1.2` the first four re-anchored editions.
+  built up under and nothing reads them; `headings-1.0` is the 66-book snapshot 1.1.3 shipped, `headings-1.1` added the deuterocanon `headings-1.2` the first four re-anchored editions and `headings-1.3` the rest.
 - **The app degrades to today's behaviour** when a heading file is missing, so a language ships
   when its translation is ready rather than all seven at once.
 - One file, ~127 KB, serves every English edition together.
@@ -185,9 +185,15 @@ because the mapping was asked for.
 
 - a chapter both editions cut the same way keeps its anchors;
 - a psalm with one or two verses more has them at the front, as the superscription;
-- **two or three adjacent chapters holding the same verses between them** are a moved boundary and
-  nothing else, so position within the span identifies the verse exactly. Joel needs three: the
-  KJV's chapters 2 and 3 are Luther's 2, 3 and 4.
+- **two or three adjacent chapters holding the same verses between them, whose differing chapters
+  are contiguous**, are a moved boundary and nothing else, so position within the span identifies
+  the verse exactly. Joel needs three: the KJV's chapters 2 and 3 are Luther's 2, 3 and 4.
+
+  Contiguity is load-bearing. Luther's 1 Samuel 21 and 23 both differ from the KJV's while 22 does
+  not, so 21 to 23 balances to the verse without being one moved boundary — it is two, opposed,
+  with an untouched chapter between them. Counting across it slides 23:7 back to 23:6, and
+  Luther's 23:7 is word for word the KJV's. The Elberfelder's Deuteronomy 22 and 23 are
+  contiguous and the same arithmetic is right there (the KJV's 23:15 is its 23:16).
 
 Anything wider is left alone. A ten-chapter span whose totals agree proves nothing — the DRA's
 Numbers 11-20 balances to the verse and still differs verse by verse inside, dropping one in 11

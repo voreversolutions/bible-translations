@@ -25,6 +25,17 @@ So this only claims what the numbers alone can force, and says so where they can
    a moved boundary and nothing else: the verse stream is identical across the span, so a verse's
    position within it identifies the verse exactly. This is the Malachi 3/4, Zechariah 1/2 and
    Numbers 16/17 class, and Joel needs three — the KJV's chapters 2 and 3 are Luther's 2, 3 and 4.
+   Conservation alone is not enough, and 1 Samuel is why: Luther's chapters 21 and 23 each differ
+   from the KJV's while 22 does not, so 21 to 23 balances to the verse without being one moved
+   boundary at all — it is two, in opposite directions, with an untouched chapter between them.
+   Counting across that says 23:7 slides back to 23:6, while Luther's 23:7 is word for word the
+   KJV's ("Da ward Saul angesagt, daß David gen Kegila gekommen wäre").
+
+   So the chapters that differ inside the span must also be **contiguous**. A gap in them means
+   more than one boundary moved and the arithmetic no longer pins anything down. Deuteronomy 22
+   and 23 in the Elberfelder are contiguous and the move is right (the KJV's 23:15 is its 23:16);
+   1 Samuel 21 and 23 are not, and it is wrong.
+
 4. **Anything wider is left alone and reported.** A span of ten chapters whose totals happen to
    agree proves nothing: the DRA's Numbers 11-20 balances to the verse and still differs verse by
    verse inside — it drops one in 11, one in 12, and adds one in 13 and one in 20 — which is
@@ -65,9 +76,27 @@ def moved_boundaries(k, t):
             ck += k.get(hi, 0)
             ct += t.get(hi, 0)
             if ck != ct or hi == lo: continue
+            # The chapters that differ have to be contiguous: a gap means two boundaries moved,
+            # not one, and then the totals balancing says nothing about any single verse.
+            differing = [c for c in range(lo, hi + 1) if k.get(c, 0) != t.get(c, 0)]
+            if differing != list(range(differing[0], differing[-1] + 1)): break
             for c in range(lo, hi + 1): out[c] = (lo, hi)
             break
     return out
+
+def length_profile(ch, verse, n=5):
+    return [len(ch[str(verse + i)]) for i in range(n) if str(verse + i) in ch]
+
+def length_fit(a, b):
+    """How well two length profiles agree once scaled to each other. 1.0 identical, 0 disjoint."""
+    n = min(len(a), len(b))
+    if n < 3: return None
+    a, b = a[:n], b[:n]
+    sa, sb = sum(a), sum(b)
+    if not sa or not sb: return None
+    a = [x / sa for x in a]
+    b = [x / sb for x in b]
+    return 1 - sum(abs(x - y) for x, y in zip(a, b)) / 2
 
 def sequence(ch, lo, hi):
     return [(str(c), v) for c in range(lo, hi + 1) if str(c) in ch
@@ -110,7 +139,7 @@ for book, chapters in en.items():
                     notes.append(f"{book} {ch}:{v}: inside the {lo}/{hi} boundary but unplaceable")
                     continue
                 tc, tv = dst[i]
-                why = f"chapters {lo} and {hi} are cut differently; verse #{i + 1} of the pair"
+                why = f"chapters {lo} to {hi} are cut differently; verse #{i + 1} of the span"
                 stats["boundary"] += 1
             else:
                 tc, tv, why = ch, v, None

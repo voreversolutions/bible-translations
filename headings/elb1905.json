@@ -1233,15 +1233,15 @@
   },
   "22": {
    "1": "David flieht nach Adullam und Mizpe",
-   "6": "Saul erschlägt die Priester zu Nob",
-   "23": "David befreit Kegila"
+   "6": "Saul erschlägt die Priester zu Nob"
   },
   "23": {
-   "6": "Saul verfolgt David"
+   "1": "David befreit Kegila",
+   "7": "Saul verfolgt David"
   },
   "24": {
-   "1": "David verschont Saul",
-   "16": "Davids Schwur gegenüber Saul"
+   "2": "David verschont Saul",
+   "17": "Davids Schwur gegenüber Saul"
   },
   "25": {
    "1": "Der Tod Samuels",
