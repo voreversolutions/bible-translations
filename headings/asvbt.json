@@ -107,7 +107,7 @@
   "22": {
    "1": "The Offering of Isaac",
    "11": "The LORD Provides the Sacrifice",
-   "19": "The Sons of Nahor"
+   "20": "The Sons of Nahor"
   },
   "23": {
    "1": "The Death and Burial of Sarah"
@@ -179,10 +179,10 @@
   "36": {
    "1": "The Descendants of Esau",
    "20": "The Descendants of Seir",
-   "31": "The Kings of Edom",
-   "44": "Joseph’s Dreams"
+   "31": "The Kings of Edom"
   },
   "37": {
+   "1": "Joseph’s Dreams",
    "12": "Joseph Sold into Egypt",
    "31": "Jacob Mourns Joseph"
   },
@@ -342,12 +342,12 @@
    "22": "Idolatry Forbidden"
   },
   "21": {
-   "1": "Hebrew Servants"
+   "1": "Hebrew Servants",
+   "12": "Personal Injury Laws"
   },
   "22": {
    "1": "Property Laws",
-   "16": "Laws of Social Responsibility",
-   "19": "Personal Injury Laws"
+   "16": "Laws of Social Responsibility"
   },
   "23": {
    "1": "Justice and Mercy",
@@ -361,7 +361,7 @@
   },
   "25": {
    "1": "Offerings for the Tabernacle",
-   "10": "The Ark of the Covenant · Constructing the Ark · The Altar of Incense",
+   "10": "The Ark of the Covenant",
    "17": "The Mercy Seat",
    "23": "The Table of Showbread",
    "31": "The Lampstand"
@@ -382,7 +382,7 @@
    "1": "Garments for the Priests",
    "6": "The Ephod",
    "15": "The Breastpiece",
-   "27": "Additional Priestly Garments"
+   "31": "Additional Priestly Garments"
   },
   "29": {
    "1": "Consecration of the Priests",
@@ -418,21 +418,36 @@
   "35": {
    "1": "The Sabbath",
    "4": "Offerings for the Tabernacle",
-   "9": "The Skilled Craftsmen",
+   "10": "The Skilled Craftsmen",
    "20": "The People Offer Gifts",
    "30": "Bezalel and Oholiab"
   },
   "36": {
    "1": "The People Bring More than Enough",
-   "30": "Additional Priestly Garments",
-   "32": "The Veil · The Curtain for the Entrance"
+   "8": "The Ten Curtains for the Tabernacle",
+   "14": "The Eleven Curtains of Goat Hair",
+   "20": "The Frames and Bases",
+   "35": "The Veil",
+   "37": "The Curtain for the Entrance"
   },
   "37": {
-   "1": "The Eleven Curtains of Goat Hair",
-   "6": "The Bronze Basin",
-   "7": "The Courtyard",
-   "16": "The Bronze Altar",
-   "19": "An Inventory of Materials"
+   "1": "Constructing the Ark",
+   "6": "The Mercy Seat",
+   "10": "The Table of Showbread",
+   "17": "The Lampstand",
+   "25": "The Altar of Incense"
+  },
+  "38": {
+   "1": "The Bronze Altar",
+   "8": "The Bronze Basin",
+   "9": "The Courtyard",
+   "21": "An Inventory of Materials"
+  },
+  "39": {
+   "1": "The Ephod",
+   "8": "The Breastpiece",
+   "22": "Additional Priestly Garments",
+   "32": "Moses Approves the Work"
   },
   "40": {
    "1": "Setting Up the Tabernacle",
@@ -460,18 +475,19 @@
    "1": "Sins Requiring a Guilt Offering",
    "8": "The Burnt Offering",
    "14": "The Grain Offering",
-   "24": "The Sin Offering",
-   "31": "The Guilt Offering"
+   "24": "The Sin Offering"
   },
   "7": {
-   "1": "The Peace Offering",
-   "12": "Fat and Blood Forbidden",
-   "18": "The Priests’ Portion"
+   "1": "The Guilt Offering",
+   "11": "The Peace Offering",
+   "22": "Fat and Blood Forbidden",
+   "28": "The Priests’ Portion"
   },
   "8": {
    "1": "Moses Consecrates Aaron and His Sons",
-   "14": "The Priests’ Sin Offering · The Priests’ Burnt Offering",
-   "21": "The Ram of Ordination"
+   "14": "The Priests’ Sin Offering",
+   "18": "The Priests’ Burnt Offering",
+   "22": "The Ram of Ordination"
   },
   "9": {
    "1": "Aaron’s First Offerings"
@@ -625,8 +641,8 @@
    "1": "The Complaint of Miriam and Aaron"
   },
   "13": {
-   "2": "The Spies Explore Canaan",
-   "26": "The Reports of the Spies"
+   "1": "The Spies Explore Canaan",
+   "25": "The Reports of the Spies"
   },
   "14": {
    "1": "Israel’s Rebellion",
@@ -668,7 +684,7 @@
    "1": "The Defeat of Arad",
    "4": "The Bronze Serpent",
    "10": "The Journey to Moab",
-   "20": "The Defeat of Sihon",
+   "21": "The Defeat of Sihon",
    "31": "The Defeat of Og"
   },
   "22": {
@@ -693,14 +709,15 @@
    "1": "The Second Census of Israel",
    "5": "The Tribe of Reuben",
    "12": "The Tribe of Simeon",
-   "15": "The Tribe of Gad · The Tribe of Judah",
-   "19": "The Tribe of Issachar",
+   "15": "The Tribe of Gad",
+   "19": "The Tribe of Judah",
+   "23": "The Tribe of Issachar",
    "26": "The Tribe of Zebulun",
-   "32": "The Tribe of Manasseh",
+   "28": "The Tribe of Manasseh",
    "35": "The Tribe of Ephraim",
-   "42": "The Tribe of Benjamin",
+   "38": "The Tribe of Benjamin",
+   "42": "The Tribe of Dan",
    "44": "The Tribe of Asher",
-   "46": "The Tribe of Dan",
    "48": "The Tribe of Naphtali",
    "52": "Inheritance by Lot",
    "57": "The Levites Numbered",
@@ -724,7 +741,7 @@
    "12": "The Feast of Tabernacles"
   },
   "30": {
-   "2": "Laws about Vows"
+   "1": "Laws about Vows"
   },
   "31": {
    "1": "Vengeance on Midian",
@@ -865,8 +882,8 @@
    "15": "Miscellaneous Laws"
   },
   "24": {
-   "3": "Marriage and Divorce Laws",
-   "8": "Additional Laws"
+   "1": "Marriage and Divorce Laws",
+   "6": "Additional Laws"
   },
   "25": {
    "1": "Fairness and Mercy",
@@ -897,11 +914,11 @@
    "1": "Joshua to Succeed Moses",
    "9": "The Reading of the Law",
    "14": "God Commissions Joshua",
-   "24": "The Law Placed in the Ark"
+   "24": "The Law Placed in the Ark",
+   "30": "Moses Begins His Song"
   },
   "32": {
    "1": "The Song of Moses",
-   "44": "Moses Begins His Song",
    "48": "Moses’ Death Foretold"
   },
   "33": {
@@ -988,7 +1005,8 @@
    "1": "Simeon’s Inheritance",
    "10": "Zebulun’s Inheritance",
    "17": "Issachar’s Inheritance",
-   "24": "Asher’s Inheritance · Naphtali’s Inheritance",
+   "24": "Asher’s Inheritance",
+   "32": "Naphtali’s Inheritance",
    "40": "Dan’s Inheritance",
    "49": "Joshua’s Inheritance"
   },
@@ -1224,8 +1242,8 @@
    "7": "Saul Pursues David"
   },
   "24": {
-   "2": "David Spares Saul",
-   "17": "David’s Oath to Saul"
+   "1": "David Spares Saul",
+   "16": "David’s Oath to Saul"
   },
   "25": {
    "1": "The Death of Samuel",
@@ -1380,14 +1398,14 @@
    "11": "Nathan and Bathsheba before David",
    "28": "David Renews His Oath to Bathsheba",
    "32": "Solomon Anointed King",
-   "41": "Adonijah Learns of Solomon’s Kingship",
-   "53": "The Execution of Shimei"
+   "41": "Adonijah Learns of Solomon’s Kingship"
   },
   "2": {
    "1": "David Instructs Solomon",
    "10": "David’s Reign and Death",
    "13": "The Execution of Adonijah",
-   "28": "The Execution of Joab"
+   "28": "The Execution of Joab",
+   "36": "The Execution of Shimei"
   },
   "3": {
    "1": "Solomon’s Prayer for Wisdom",
@@ -1396,23 +1414,25 @@
   "4": {
    "1": "Solomon’s Princes",
    "7": "Solomon’s Twelve Officers",
+   "20": "Solomon’s Prosperity",
    "29": "Solomon’s Wisdom"
   },
   "5": {
    "1": "Preparations for the Temple",
-   "2": "God’s Promise to Solomon",
    "7": "Hiram’s Reply to Solomon",
    "13": "Solomon’s Labor Force"
   },
   "6": {
    "1": "Temple Construction Begins",
    "5": "The Chambers",
-   "9": "The Temple’s Interior",
+   "11": "God’s Promise to Solomon",
+   "14": "The Temple’s Interior",
    "23": "The Cherubim",
    "31": "The Doors",
    "36": "The Courtyard"
   },
   "7": {
+   "1": "Solomon’s Palace Complex",
    "13": "The Pillars and Capitals",
    "23": "The Molten Sea",
    "27": "The Ten Bronze Stands",
@@ -1422,7 +1442,7 @@
   },
   "8": {
    "1": "The Ark Enters the Temple",
-   "14": "Solomon Blesses the LORD",
+   "12": "Solomon Blesses the LORD",
    "22": "Solomon’s Prayer of Dedication",
    "54": "Solomon’s Benediction",
    "62": "Sacrifices of Dedication"
@@ -1454,9 +1474,10 @@
    "11": "The Old Prophet and the Man of God"
   },
   "14": {
+   "1": "Ahijah’s Prophecy against Jeroboam",
+   "19": "Nadab Succeeds Jeroboam",
    "21": "Rehoboam Reigns in Judah",
-   "25": "Shishak Raids Jerusalem",
-   "29": "Nadab Succeeds Jeroboam"
+   "25": "Shishak Raids Jerusalem"
   },
   "15": {
    "1": "Abijam Reigns in Judah",
@@ -1490,24 +1511,24 @@
    "19": "The Call of Elisha"
   },
   "20": {
-   "8": "Jezebel’s Plot",
-   "17": "Elijah Denounces Ahab and Jezebel",
-   "25": "Ahab’s Repentance"
-  },
-  "21": {
    "1": "Ben-hadad Attacks Samaria",
    "13": "Ahab Defeats Ben-hadad",
    "26": "Another War with Ben-hadad",
    "31": "Ahab Spares Ben-hadad",
-   "35": "A Prophet Reproves Ahab",
-   "43": "Naboth’s Vineyard"
+   "35": "A Prophet Reproves Ahab"
+  },
+  "21": {
+   "1": "Naboth’s Vineyard",
+   "8": "Jezebel’s Plot",
+   "17": "Elijah Denounces Ahab and Jezebel",
+   "25": "Ahab’s Repentance"
   },
   "22": {
    "1": "Ahab and the False Prophets",
    "13": "Micaiah Prophesies against Ahab",
    "29": "Ahab’s Defeat and Death",
    "41": "Jehoshaphat Reigns in Judah",
-   "52": "Ahaziah Reigns in Israel"
+   "51": "Ahaziah Reigns in Israel"
   }
  },
  "2KI": {
@@ -1972,8 +1993,9 @@
   },
   "36": {
    "1": "Jehoahaz Succeeds Josiah",
+   "5": "Jehoiakim Reigns in Judah",
    "9": "Jehoiachin Reigns in Judah",
-   "11": "Jehoiakim Reigns in Judah · Zedekiah Reigns in Judah",
+   "11": "Zedekiah Reigns in Judah",
    "15": "The Fall of Jerusalem",
    "22": "The Proclamation of Cyrus"
   }
@@ -2054,8 +2076,7 @@
   "7": {
    "1": "Securing the City",
    "4": "The List of Returning Exiles",
-   "70": "Offerings by the Exiles",
-   "73": "Residents Outside Jerusalem"
+   "70": "Offerings by the Exiles"
   },
   "8": {
    "1": "Ezra Reads the Law",
@@ -2065,10 +2086,12 @@
    "1": "The People Confess Their Sins"
   },
   "10": {
+   "1": "Signers of the Covenant",
    "28": "The Vows of the Covenant"
   },
   "11": {
-   "1": "Jerusalem’s New Settlers"
+   "1": "Jerusalem’s New Settlers",
+   "20": "Residents Outside Jerusalem"
   },
   "12": {
    "1": "The Priests and Levites Who Returned",
@@ -2159,8 +2182,11 @@
   "10": {
    "1": "Job’s Plea to God"
   },
+  "11": {
+   "1": "Zophar Rebukes Job"
+  },
   "12": {
-   "1": "Zophar Rebukes Job · Job Presents His Case"
+   "1": "Job Presents His Case"
   },
   "13": {
    "1": "Job Prepares His Case"
@@ -2177,8 +2203,11 @@
   "17": {
    "1": "Job Prepares for Death"
   },
+  "18": {
+   "1": "Bildad: God Punishes the Wicked"
+  },
   "19": {
-   "1": "Bildad: God Punishes the Wicked · Job: My Redeemer Lives"
+   "1": "Job: My Redeemer Lives"
   },
   "20": {
    "1": "Zophar: Destruction Awaits the Wicked"
@@ -2195,8 +2224,11 @@
   "24": {
    "1": "Job: Judgment for the Wicked"
   },
+  "25": {
+   "1": "Bildad: Man Cannot Be Righteous"
+  },
   "26": {
-   "1": "Bildad: Man Cannot Be Righteous · Job: Who Can Understand God’s Majesty?"
+   "1": "Job: Who Can Understand God’s Majesty?"
   },
   "27": {
    "1": "Job Affirms His Integrity",
@@ -2237,11 +2269,14 @@
    "1": "The LORD Challenges Job"
   },
   "39": {
-   "1": "The LORD Speaks of His Creation",
-   "31": "Job Humbles Himself before the LORD"
+   "1": "The LORD Speaks of His Creation"
   },
   "40": {
-   "20": "The LORD’s Power Shown in Leviathan"
+   "1": "Job Humbles Himself before the LORD",
+   "6": "The LORD Challenges Job Again"
+  },
+  "41": {
+   "1": "The LORD’s Power Shown in Leviathan"
   },
   "42": {
    "1": "Job Submits Himself to the LORD",
@@ -2275,415 +2310,420 @@
    "1": "How Majestic Is Your Name!"
   },
   "9": {
-   "1": "I Will Give Thanks to the LORD",
-   "21": "The Perils of the Pilgrim"
+   "1": "I Will Give Thanks to the LORD"
   },
   "10": {
-   "1": "In the LORD I Take Refuge"
+   "1": "The Perils of the Pilgrim"
   },
   "11": {
-   "1": "The Godly Are No More"
+   "1": "In the LORD I Take Refuge"
   },
   "12": {
-   "1": "How Long, O LORD?"
+   "1": "The Godly Are No More"
   },
   "13": {
-   "1": "The Fool Says There Is No God"
+   "1": "How Long, O LORD?"
   },
   "14": {
-   "1": "Who May Dwell on Your Holy Mountain?"
-  },
-  "15": {
-   "1": "The Presence of the LORD"
-  },
-  "16": {
-   "1": "Hear My Righteous Plea"
-  },
-  "17": {
-   "1": "The LORD Is My Rock"
-  },
-  "18": {
-   "1": "The Heavens Declare the Glory of God"
-  },
-  "19": {
-   "1": "The Day of Trouble"
-  },
-  "20": {
-   "1": "After the Battle"
-  },
-  "21": {
-   "1": "The Psalm of the Cross"
-  },
-  "22": {
-   "1": "The LORD Is My Shepherd"
-  },
-  "23": {
-   "1": "The Earth Is the LORD’s"
-  },
-  "24": {
-   "1": "To You I Lift Up My Soul"
-  },
-  "25": {
-   "1": "Vindicate Me, O LORD"
-  },
-  "26": {
-   "1": "The LORD Is My Salvation"
-  },
-  "27": {
-   "1": "The LORD Is My Strength"
-  },
-  "28": {
-   "1": "Ascribe Glory to the LORD"
-  },
-  "29": {
-   "1": "You Turned My Mourning into Dancing"
-  },
-  "30": {
-   "1": "Into Your Hands I Commit My Spirit"
-  },
-  "31": {
-   "1": "The Joy of Forgiveness"
-  },
-  "32": {
-   "1": "Praise to the Creator"
-  },
-  "33": {
-   "1": "Taste and See That the LORD Is Good"
-  },
-  "34": {
-   "1": "Contend with My Opponents, O LORD"
-  },
-  "35": {
-   "1": "The Transgression of the Wicked"
-  },
-  "36": {
-   "1": "Delight Yourself in the LORD"
-  },
-  "37": {
-   "1": "Do Not Rebuke Me in Your Anger"
-  },
-  "38": {
-   "1": "I Will Watch My Ways"
-  },
-  "39": {
-   "1": "I Waited Patiently for the LORD"
-  },
-  "40": {
-   "1": "Victory over Betrayal"
-  },
-  "41": {
-   "1": "As the Deer Pants for the Water"
-  },
-  "42": {
-   "1": "Send Out Your Light"
-  },
-  "43": {
-   "1": "Redeem Us, O God"
-  },
-  "44": {
-   "1": "My Heart Is Stirred by a Noble Theme"
-  },
-  "45": {
-   "1": "God Is Our Refuge and Strength"
-  },
-  "46": {
-   "1": "Clap Your Hands, All You Peoples"
-  },
-  "47": {
-   "1": "Broken Bondage"
-  },
-  "48": {
-   "1": "The Evanescence of Wealth"
-  },
-  "49": {
-   "1": "The Mighty One Calls"
-  },
-  "50": {
-   "1": "Create in Me a Clean Heart, O God"
-  },
-  "51": {
-   "1": "Why Do You Boast of Evil?"
-  },
-  "52": {
    "1": "The Fool Says There Is No God"
   },
+  "15": {
+   "1": "Who May Dwell on Your Holy Mountain?"
+  },
+  "16": {
+   "1": "The Presence of the LORD"
+  },
+  "17": {
+   "1": "Hear My Righteous Plea"
+  },
+  "18": {
+   "1": "The LORD Is My Rock"
+  },
+  "19": {
+   "1": "The Heavens Declare the Glory of God"
+  },
+  "20": {
+   "1": "The Day of Trouble"
+  },
+  "21": {
+   "1": "After the Battle"
+  },
+  "22": {
+   "1": "The Psalm of the Cross"
+  },
+  "23": {
+   "1": "The LORD Is My Shepherd"
+  },
+  "24": {
+   "1": "The Earth Is the LORD’s"
+  },
+  "25": {
+   "1": "To You I Lift Up My Soul"
+  },
+  "26": {
+   "1": "Vindicate Me, O LORD"
+  },
+  "27": {
+   "1": "The LORD Is My Salvation"
+  },
+  "28": {
+   "1": "The LORD Is My Strength"
+  },
+  "29": {
+   "1": "Ascribe Glory to the LORD"
+  },
+  "30": {
+   "1": "You Turned My Mourning into Dancing"
+  },
+  "31": {
+   "1": "Into Your Hands I Commit My Spirit"
+  },
+  "32": {
+   "1": "The Joy of Forgiveness"
+  },
+  "33": {
+   "1": "Praise to the Creator"
+  },
+  "34": {
+   "1": "Taste and See That the LORD Is Good"
+  },
+  "35": {
+   "1": "Contend with My Opponents, O LORD"
+  },
+  "36": {
+   "1": "The Transgression of the Wicked"
+  },
+  "37": {
+   "1": "Delight Yourself in the LORD"
+  },
+  "38": {
+   "1": "Do Not Rebuke Me in Your Anger"
+  },
+  "39": {
+   "1": "I Will Watch My Ways"
+  },
+  "40": {
+   "1": "I Waited Patiently for the LORD"
+  },
+  "41": {
+   "1": "Victory over Betrayal"
+  },
+  "42": {
+   "1": "As the Deer Pants for the Water"
+  },
+  "43": {
+   "1": "Send Out Your Light"
+  },
+  "44": {
+   "1": "Redeem Us, O God"
+  },
+  "45": {
+   "1": "My Heart Is Stirred by a Noble Theme"
+  },
+  "46": {
+   "1": "God Is Our Refuge and Strength"
+  },
+  "47": {
+   "1": "Clap Your Hands, All You Peoples"
+  },
+  "48": {
+   "1": "Broken Bondage"
+  },
+  "49": {
+   "1": "The Evanescence of Wealth"
+  },
+  "50": {
+   "1": "The Mighty One Calls"
+  },
+  "51": {
+   "1": "Create in Me a Clean Heart, O God"
+  },
+  "52": {
+   "1": "Why Do You Boast of Evil?"
+  },
   "53": {
-   "1": "Save Me by Your Name"
+   "1": "The Fool Says There Is No God"
   },
   "54": {
-   "1": "Cast Your Burden upon the LORD"
+   "1": "Save Me by Your Name"
   },
   "55": {
-   "1": "Be Merciful to Me, O God"
+   "1": "Cast Your Burden upon the LORD"
   },
   "56": {
-   "1": "In You My Soul Takes Refuge"
+   "1": "Be Merciful to Me, O God"
   },
   "57": {
-   "1": "God Judges the Earth"
+   "1": "In You My Soul Takes Refuge"
   },
   "58": {
-   "1": "Deliver Me from My Enemies"
+   "1": "God Judges the Earth"
   },
   "59": {
-   "1": "Victory with God"
+   "1": "Deliver Me from My Enemies"
   },
   "60": {
-   "1": "You Have Heard My Vows"
+   "1": "Victory with God"
   },
   "61": {
-   "1": "Waiting on God"
+   "1": "You Have Heard My Vows"
   },
   "62": {
-   "1": "Thirsting for God"
+   "1": "Waiting on God"
   },
   "63": {
-   "1": "The Hurtful Tongue"
+   "1": "Thirsting for God"
   },
   "64": {
-   "1": "Praise Awaits God in Zion"
+   "1": "The Hurtful Tongue"
   },
   "65": {
-   "1": "Make a Joyful Noise"
+   "1": "Praise Awaits God in Zion"
   },
   "66": {
-   "1": "May God Cause His Face to Shine upon Us"
-  },
-  "67": {
-   "1": "God’s Enemies Are Scattered"
-  },
-  "68": {
-   "1": "The Waters Are up to My Neck"
-  },
-  "69": {
-   "1": "Hurry, O LORD, to Help Me!"
-  },
-  "70": {
-   "1": "Be My Rock of Refuge"
-  },
-  "71": {
-   "1": "Endow the King with Your Justice"
-  },
-  "72": {
-   "1": "Surely God Is Good to Israel"
-  },
-  "73": {
-   "1": "Why Have You Rejected Us Forever?"
-  },
-  "74": {
-   "1": "God’s Righteous Judgment"
-  },
-  "75": {
-   "1": "God’s Name Is Great in Israel"
-  },
-  "76": {
-   "1": "In the Day of Trouble I Sought the LORD"
-  },
-  "77": {
-   "1": "I Will Open My Mouth in Parables"
-  },
-  "78": {
-   "1": "A Prayer for Deliverance"
-  },
-  "79": {
-   "1": "Hear Us, O Shepherd of Israel"
-  },
-  "80": {
-   "1": "Sing for Joy to God Our Strength"
-  },
-  "81": {
-   "1": "God Presides in the Divine Assembly"
-  },
-  "82": {
-   "1": "O God, Be Not Silent"
-  },
-  "83": {
-   "1": "Better Is One Day in Your Courts"
-  },
-  "84": {
-   "1": "You Showed Favor to Your Land"
-  },
-  "85": {
-   "1": "Tried but Trusting"
-  },
-  "86": {
-   "1": "The LORD Loves the Gates of Zion"
-  },
-  "87": {
-   "1": "I Cry Out before You"
-  },
-  "88": {
-   "1": "I Will Sing of His Love Forever"
-  },
-  "89": {
-   "1": "From Everlasting to Everlasting"
-  },
-  "90": {
-   "1": "You Are My Refuge and My Fortress"
-  },
-  "91": {
-   "1": "How Great Are Your Works!"
-  },
-  "92": {
-   "1": "The LORD Reigns!"
-  },
-  "93": {
-   "1": "The LORD Will Not Forget His People"
-  },
-  "94": {
-   "1": "Do Not Harden Your Hearts"
-  },
-  "95": {
-   "1": "Sing to the LORD, All the Earth"
-  },
-  "96": {
-   "1": "Let the Earth Rejoice"
-  },
-  "97": {
-   "1": "Sing to the LORD a New Song"
-  },
-  "98": {
-   "1": "The LORD Reigns!"
-  },
-  "99": {
    "1": "Make a Joyful Noise"
   },
+  "67": {
+   "1": "May God Cause His Face to Shine upon Us"
+  },
+  "68": {
+   "1": "God’s Enemies Are Scattered"
+  },
+  "69": {
+   "1": "The Waters Are up to My Neck"
+  },
+  "70": {
+   "1": "Hurry, O LORD, to Help Me!"
+  },
+  "71": {
+   "1": "Be My Rock of Refuge"
+  },
+  "72": {
+   "1": "Endow the King with Your Justice"
+  },
+  "73": {
+   "1": "Surely God Is Good to Israel"
+  },
+  "74": {
+   "1": "Why Have You Rejected Us Forever?"
+  },
+  "75": {
+   "1": "God’s Righteous Judgment"
+  },
+  "76": {
+   "1": "God’s Name Is Great in Israel"
+  },
+  "77": {
+   "1": "In the Day of Trouble I Sought the LORD"
+  },
+  "78": {
+   "1": "I Will Open My Mouth in Parables"
+  },
+  "79": {
+   "1": "A Prayer for Deliverance"
+  },
+  "80": {
+   "1": "Hear Us, O Shepherd of Israel"
+  },
+  "81": {
+   "1": "Sing for Joy to God Our Strength"
+  },
+  "82": {
+   "1": "God Presides in the Divine Assembly"
+  },
+  "83": {
+   "1": "O God, Be Not Silent"
+  },
+  "84": {
+   "1": "Better Is One Day in Your Courts"
+  },
+  "85": {
+   "1": "You Showed Favor to Your Land"
+  },
+  "86": {
+   "1": "Tried but Trusting"
+  },
+  "87": {
+   "1": "The LORD Loves the Gates of Zion"
+  },
+  "88": {
+   "1": "I Cry Out before You"
+  },
+  "89": {
+   "1": "I Will Sing of His Love Forever"
+  },
+  "90": {
+   "1": "From Everlasting to Everlasting"
+  },
+  "91": {
+   "1": "You Are My Refuge and My Fortress"
+  },
+  "92": {
+   "1": "How Great Are Your Works!"
+  },
+  "93": {
+   "1": "The LORD Reigns!"
+  },
+  "94": {
+   "1": "The LORD Will Not Forget His People"
+  },
+  "95": {
+   "1": "Do Not Harden Your Hearts"
+  },
+  "96": {
+   "1": "Sing to the LORD, All the Earth"
+  },
+  "97": {
+   "1": "Let the Earth Rejoice"
+  },
+  "98": {
+   "1": "Sing to the LORD a New Song"
+  },
+  "99": {
+   "1": "The LORD Reigns!"
+  },
   "100": {
-   "1": "I Will Set No Worthless Thing before My Eyes"
+   "1": "Make a Joyful Noise"
   },
   "101": {
-   "1": "The Prayer of the Afflicted"
+   "1": "I Will Set No Worthless Thing before My Eyes"
   },
   "102": {
-   "1": "Bless the LORD, O My Soul"
+   "1": "The Prayer of the Afflicted"
   },
   "103": {
-   "1": "How Many Are Your Works, O LORD!"
+   "1": "Bless the LORD, O My Soul"
   },
   "104": {
-   "1": "Tell of His Wonders"
+   "1": "How Many Are Your Works, O LORD!"
   },
   "105": {
-   "1": "Give Thanks to the LORD, for He Is Good"
+   "1": "Tell of His Wonders"
   },
   "106": {
-   "1": "Thanksgiving for Deliverance"
+   "1": "Give Thanks to the LORD, for He Is Good"
   },
   "107": {
-   "1": "Israel’s Kingdom Blessing"
+   "1": "Thanksgiving for Deliverance"
   },
   "108": {
-   "1": "The Song of the Slandered"
+   "1": "Israel’s Kingdom Blessing"
   },
   "109": {
-   "1": "God’s Faithful Messiah"
+   "1": "The Song of the Slandered"
   },
   "110": {
-   "1": "Majestic Is His Work"
+   "1": "God’s Faithful Messiah"
   },
   "111": {
-   "1": "The Blessed Fear of the LORD"
+   "1": "Majestic Is His Work"
   },
   "112": {
-   "1": "The LORD Exalts the Humble"
-  },
-  "113": {
-   "1": "A Psalm of Exodus"
-  },
-  "114": {
-   "1": "To Your Name Be the Glory · The LORD Has Heard My Voice"
-  },
-  "116": {
-   "1": "Extol Him, All You Peoples"
-  },
-  "117": {
-   "1": "The LORD Is on My Side"
-  },
-  "118": {
-   "1": "Your Word Is a Lamp to My Feet"
-  },
-  "119": {
-   "1": "In My Distress I Cried to the LORD"
-  },
-  "120": {
-   "1": "I Lift Up My Eyes to the Hills"
-  },
-  "121": {
-   "1": "Pray for the Peace of Jerusalem"
-  },
-  "122": {
-   "1": "I Lift Up My Eyes to You"
-  },
-  "123": {
-   "1": "Our Help Is in the Name of the LORD"
-  },
-  "124": {
-   "1": "The LORD Surrounds His People"
-  },
-  "125": {
-   "1": "Zion’s Captives Restored"
-  },
-  "126": {
-   "1": "Children Are a Heritage from the LORD"
-  },
-  "127": {
    "1": "The Blessed Fear of the LORD"
   },
+  "113": {
+   "1": "The LORD Exalts the Humble"
+  },
+  "114": {
+   "1": "A Psalm of Exodus"
+  },
+  "115": {
+   "1": "To Your Name Be the Glory"
+  },
+  "116": {
+   "1": "The LORD Has Heard My Voice"
+  },
+  "117": {
+   "1": "Extol Him, All You Peoples"
+  },
+  "118": {
+   "1": "The LORD Is on My Side"
+  },
+  "119": {
+   "1": "Your Word Is a Lamp to My Feet"
+  },
+  "120": {
+   "1": "In My Distress I Cried to the LORD"
+  },
+  "121": {
+   "1": "I Lift Up My Eyes to the Hills"
+  },
+  "122": {
+   "1": "Pray for the Peace of Jerusalem"
+  },
+  "123": {
+   "1": "I Lift Up My Eyes to You"
+  },
+  "124": {
+   "1": "Our Help Is in the Name of the LORD"
+  },
+  "125": {
+   "1": "The LORD Surrounds His People"
+  },
+  "126": {
+   "1": "Zion’s Captives Restored"
+  },
+  "127": {
+   "1": "Children Are a Heritage from the LORD"
+  },
   "128": {
-   "1": "The Cords of the Wicked"
+   "1": "The Blessed Fear of the LORD"
   },
   "129": {
-   "1": "Out of the Depths"
+   "1": "The Cords of the Wicked"
   },
   "130": {
-   "1": "I Have Stilled My Soul"
+   "1": "Out of the Depths"
   },
   "131": {
-   "1": "The LORD Has Chosen Zion"
+   "1": "I Have Stilled My Soul"
   },
   "132": {
-   "1": "How Pleasant to Live in Harmony!"
+   "1": "The LORD Has Chosen Zion"
   },
   "133": {
-   "1": "Bless the LORD, All You Servants"
+   "1": "How Pleasant to Live in Harmony!"
   },
   "134": {
-   "1": "Give Praise, O Servants of the LORD"
+   "1": "Bless the LORD, All You Servants"
   },
   "135": {
-   "1": "His Loving Devotion Endures Forever"
+   "1": "Give Praise, O Servants of the LORD"
   },
   "136": {
-   "1": "By the Rivers of Babylon"
+   "1": "His Loving Devotion Endures Forever"
   },
   "137": {
-   "1": "A Thankful Heart"
+   "1": "By the Rivers of Babylon"
   },
   "138": {
-   "1": "You Have Searched Me and Known Me"
+   "1": "A Thankful Heart"
   },
   "139": {
-   "1": "Rescue Me from Evil Men"
+   "1": "You Have Searched Me and Known Me"
   },
   "140": {
-   "1": "Come Quickly to Me"
+   "1": "Rescue Me from Evil Men"
   },
   "141": {
-   "1": "I Lift My Voice to the LORD"
+   "1": "Come Quickly to Me"
   },
   "142": {
-   "1": "I Stretch Out My Hands to You"
+   "1": "I Lift My Voice to the LORD"
   },
   "143": {
-   "1": "Blessed Be the LORD, My Rock"
+   "1": "I Stretch Out My Hands to You"
   },
   "144": {
-   "1": "I Will Exalt You, My God and King"
+   "1": "Blessed Be the LORD, My Rock"
   },
   "145": {
-   "1": "Praise the LORD, O My Soul"
+   "1": "I Will Exalt You, My God and King"
   },
   "146": {
+   "1": "Praise the LORD, O My Soul"
+  },
+  "147": {
    "1": "It Is Good to Sing Praises"
   },
   "148": {
@@ -2747,8 +2787,17 @@
   "15": {
    "1": "A Gentle Answer Turns Away Wrath"
   },
+  "16": {
+   "1": "The Reply of the Tongue Is from the LORD"
+  },
   "17": {
    "1": "Better a Dry Morsel in Quietness"
+  },
+  "18": {
+   "1": "The Selfishness of the Unfriendly"
+  },
+  "19": {
+   "1": "The Man of Integrity"
   },
   "20": {
    "1": "Wine Is a Mocker"
@@ -2768,7 +2817,7 @@
   "23": {
    "1": "True Riches · Saying 7",
    "4": "Saying 8",
-   "6": "Saying 9 · Do Not Envy · Saying 20",
+   "6": "Saying 9",
    "9": "Saying 10",
    "10": "Saying 11",
    "12": "Saying 12",
@@ -2781,6 +2830,7 @@
    "29": "Saying 19"
   },
   "24": {
+   "1": "Do Not Envy · Saying 20",
    "3": "Saying 21",
    "5": "Saying 22",
    "7": "Saying 23",
@@ -2833,18 +2883,18 @@
   },
   "4": {
    "1": "The Evil of Oppression",
-   "13": "The Futility of Power",
-   "17": "Approaching God with Awe"
+   "13": "The Futility of Power"
   },
   "5": {
-   "7": "The Futility of Wealth"
+   "1": "Approaching God with Awe",
+   "8": "The Futility of Wealth"
   },
   "6": {
    "1": "The Futility of Life"
   },
   "7": {
-   "2": "The Value of Wisdom",
-   "16": "The Limits of Human Wisdom"
+   "1": "The Value of Wisdom",
+   "15": "The Limits of Human Wisdom"
   },
   "8": {
    "1": "Obey the King",
@@ -2901,15 +2951,15 @@
    "1": "The Bride and Her Beloved · The Bridegroom",
    "2": "The Friends · The Bride",
    "9": "The Friends",
-   "10": "The Bride",
-   "17": "Together in the Garden · The Friends"
+   "10": "The Bride"
   },
   "6": {
-   "1": "The Bride",
-   "3": "The Bridegroom",
-   "9": "The Friends",
-   "10": "The Bridegroom",
-   "12": "The Friends"
+   "1": "Together in the Garden · The Friends",
+   "2": "The Bride",
+   "4": "The Bridegroom",
+   "10": "The Friends",
+   "11": "The Bridegroom",
+   "13": "The Friends"
   },
   "7": {
    "1": "Admiration by the Bridegroom",
@@ -3181,10 +3231,10 @@
  },
  "JER": {
   "1": {
-   "1": "The Call of Jeremiah",
-   "4": "Israel Has Forsaken God"
+   "1": "The Call of Jeremiah"
   },
   "2": {
+   "1": "Israel Has Forsaken God",
    "14": "The Consequence of Israel’s Sin",
    "23": "Israel’s Unfaithfulness"
   },
@@ -3207,7 +3257,7 @@
    "22": "An Invasion from the North"
   },
   "7": {
-   "2": "Jeremiah’s Message at the Temple Gate",
+   "1": "Jeremiah’s Message at the Temple Gate",
    "16": "Judah’s Idolatry Persists",
    "30": "The Valley of Slaughter"
   },
@@ -3286,103 +3336,119 @@
    "1": "The Good and Bad Figs"
   },
   "25": {
-   "1": "Seventy Years of Captivity"
+   "1": "Seventy Years of Captivity",
+   "15": "The Cup of God’s Wrath",
+   "34": "The Cry of the Shepherds"
+  },
+  "26": {
+   "1": "A Warning to the Cities of Judah",
+   "7": "Jeremiah Threatened with Death",
+   "16": "Jeremiah Spared from Death",
+   "20": "The Prophet Uriah"
   },
   "27": {
+   "1": "The Yoke of Nebuchadnezzar"
+  },
+  "28": {
+   "1": "Hananiah’s False Prophecy"
+  },
+  "29": {
+   "1": "Jeremiah’s Letter to the Exiles",
+   "24": "The Message to Shemaiah"
+  },
+  "30": {
+   "1": "The Restoration of Israel and Judah"
+  },
+  "31": {
+   "1": "Mourning Turned to Joy",
+   "26": "The New Covenant"
+  },
+  "32": {
+   "1": "Jeremiah Buys Hanamel’s Field",
+   "16": "Jeremiah Prays for Understanding",
+   "26": "The LORD Answers Jeremiah",
+   "36": "A Promise of Restoration"
+  },
+  "33": {
+   "1": "The Excellence of the Restored Nation",
+   "14": "The Covenant with David"
+  },
+  "34": {
+   "1": "A Prophecy against Zedekiah",
+   "8": "Freedom for Hebrew Slaves"
+  },
+  "35": {
+   "1": "The Obedience of the Rechabites",
+   "12": "Judah Rebuked"
+  },
+  "36": {
+   "1": "Jeremiah’s Scroll Read in the Temple",
+   "11": "Jeremiah’s Scroll Read in the Palace",
+   "20": "Jehoiakim Burns the Scroll",
+   "27": "Jeremiah Rewrites the Scroll"
+  },
+  "37": {
+   "1": "Jeremiah Warns Zedekiah",
+   "11": "Jeremiah Imprisoned"
+  },
+  "38": {
+   "1": "Jeremiah Cast into the Cistern"
+  },
+  "39": {
+   "1": "The Fall of Jerusalem",
+   "11": "Jeremiah Delivered"
+  },
+  "40": {
+   "1": "Jeremiah Remains in Judah",
+   "7": "Gedaliah Governs in Judah",
+   "13": "The Plot against Gedaliah"
+  },
+  "41": {
+   "1": "The Murder of Gedaliah",
+   "11": "Johanan Rescues the Captives"
+  },
+  "42": {
+   "1": "A Warning against Going to Egypt"
+  },
+  "43": {
+   "1": "Jeremiah Taken to Egypt"
+  },
+  "44": {
+   "1": "Judgment on the Jews in Egypt",
+   "15": "The Stubbornness of the People",
+   "20": "Calamity for the Jews"
+  },
+  "45": {
+   "1": "Jeremiah’s Message to Baruch"
+  },
+  "46": {
+   "1": "Judgment on Egypt"
+  },
+  "47": {
+   "1": "Judgment on the Philistines"
+  },
+  "48": {
+   "1": "Judgment on Moab"
+  },
+  "49": {
+   "1": "Judgment on the Ammonites",
+   "7": "Judgment on Edom",
+   "23": "Judgment on Damascus",
+   "28": "Judgment on Kedar and Hazor",
+   "34": "Judgment on Elam"
+  },
+  "50": {
    "1": "A Prophecy against Babylon",
    "4": "Hope for Israel and Judah",
    "11": "Babylon’s Fall Is Certain",
    "17": "Redemption for God’s People",
    "21": "The Destruction of Babylon"
   },
-  "28": {
-   "15": "Praise to the God of Jacob"
-  },
-  "30": {
-   "1": "Judgment on the Ammonites",
-   "23": "Judgment on Damascus",
-   "28": "Judgment on Kedar and Hazor"
-  },
-  "32": {
-   "15": "The Cup of God’s Wrath",
-   "34": "The Cry of the Shepherds"
-  },
-  "33": {
-   "1": "A Warning to the Cities of Judah · The Yoke of Nebuchadnezzar",
-   "7": "Jeremiah Threatened with Death",
-   "16": "Jeremiah Spared from Death",
-   "20": "The Prophet Uriah"
-  },
-  "35": {
-   "1": "Hananiah’s False Prophecy"
-  },
-  "36": {
-   "1": "Jeremiah’s Letter to the Exiles"
-  },
-  "37": {
-   "1": "The Restoration of Israel and Judah"
-  },
-  "38": {
-   "1": "Mourning Turned to Joy",
-   "26": "The New Covenant"
-  },
-  "39": {
-   "1": "Jeremiah Buys Hanamel’s Field",
-   "16": "Jeremiah Prays for Understanding",
-   "26": "The LORD Answers Jeremiah",
-   "36": "A Promise of Restoration"
-  },
-  "40": {
-   "1": "The Excellence of the Restored Nation"
-  },
-  "41": {
-   "1": "A Prophecy against Zedekiah",
-   "8": "Freedom for Hebrew Slaves"
-  },
-  "42": {
-   "1": "The Obedience of the Rechabites",
-   "12": "Judah Rebuked"
-  },
-  "43": {
-   "1": "Jeremiah’s Scroll Read in the Temple",
-   "11": "Jeremiah’s Scroll Read in the Palace",
-   "20": "Jehoiakim Burns the Scroll",
-   "27": "Jeremiah Rewrites the Scroll"
-  },
-  "44": {
-   "1": "Jeremiah Warns Zedekiah",
-   "11": "Jeremiah Imprisoned",
-   "19": "Jeremiah Delivered"
-  },
-  "45": {
-   "1": "Jeremiah Cast into the Cistern"
-  },
-  "46": {
-   "1": "The Fall of Jerusalem",
-   "15": "Judgment on the Philistines"
-  },
-  "47": {
-   "1": "Jeremiah Remains in Judah",
-   "7": "Gedaliah Governs in Judah",
-   "13": "The Plot against Gedaliah"
-  },
-  "48": {
-   "1": "The Murder of Gedaliah",
-   "11": "Johanan Rescues the Captives"
-  },
-  "49": {
-   "1": "A Warning against Going to Egypt"
-  },
-  "50": {
-   "1": "Jeremiah Taken to Egypt",
-   "13": "Babylon’s Punishment"
-  },
   "51": {
-   "1": "Judgment on the Jews in Egypt",
-   "11": "Judgment on Babylon",
-   "15": "The Stubbornness of the People",
-   "20": "Calamity for the Jews",
-   "31": "Jeremiah’s Message to Baruch"
+   "1": "Judgment on Babylon",
+   "15": "Praise to the God of Jacob",
+   "20": "Babylon’s Punishment",
+   "59": "Jeremiah’s Message to Seraiah"
   },
   "52": {
    "1": "The Fall of Jerusalem Recounted",
@@ -3451,7 +3517,7 @@
   },
   "11": {
    "1": "Evil in High Places",
-   "11": "A Promise of Restoration",
+   "13": "A Promise of Restoration",
    "22": "God’s Glory Leaves Jerusalem"
   },
   "12": {
@@ -3577,7 +3643,7 @@
    "20": "The North Gate",
    "24": "The South Gate",
    "28": "The Gates of the Inner Court",
-   "29": "Eight Tables for Sacrifices",
+   "38": "Eight Tables for Sacrifices",
    "44": "Chambers for Ministry",
    "47": "The Inner Court"
   },
@@ -3637,14 +3703,14 @@
   "3": {
    "1": "Nebuchadnezzar’s Golden Statue",
    "8": "Shadrach, Meshach, and Abednego Accused",
-   "19": "The Fiery Furnace",
-   "31": "Nebuchadnezzar Confesses God’s Kingdom"
+   "19": "The Fiery Furnace"
   },
   "4": {
-   "1": "Nebuchadnezzar’s Dream of a Great Tree",
-   "16": "Daniel Interprets the Second Dream",
-   "25": "The Second Dream Fulfilled",
-   "31": "Nebuchadnezzar Restored"
+   "1": "Nebuchadnezzar Confesses God’s Kingdom",
+   "4": "Nebuchadnezzar’s Dream of a Great Tree",
+   "19": "Daniel Interprets the Second Dream",
+   "28": "The Second Dream Fulfilled",
+   "34": "Nebuchadnezzar Restored"
   },
   "5": {
    "1": "Belshazzar’s Feast",
@@ -3726,8 +3792,8 @@
    "15": "Judgment on Samaria"
   },
   "14": {
-   "2": "A Call to Repentance",
-   "5": "A Promise of God’s Blessing"
+   "1": "A Call to Repentance",
+   "4": "A Promise of God’s Blessing"
   }
  },
  "JOL": {
@@ -3794,7 +3860,7 @@
    "11": "Jonah Cast into the Sea"
   },
   "2": {
-   "2": "Jonah’s Prayer"
+   "1": "Jonah’s Prayer"
   },
   "3": {
    "1": "The Ninevites Repent"
@@ -3884,8 +3950,9 @@
    "12": "The People Obey"
   },
   "2": {
-   "11": "Blessings for a Defiled People",
-   "21": "The Coming Glory of God’s House · Zerubbabel the LORD’s Signet Ring"
+   "1": "The Coming Glory of God’s House",
+   "10": "Blessings for a Defiled People",
+   "20": "Zerubbabel the LORD’s Signet Ring"
   }
  },
  "ZEC": {
@@ -3997,7 +4064,7 @@
   },
   "10": {
    "1": "Tobit and Anna Wait",
-   "11": "Tobias Departs with Sarah"
+   "10": "Tobias Departs with Sarah"
   },
   "11": {
    "1": "The Return to Nineveh",
@@ -4063,6 +4130,26 @@
   "16": {
    "1": "The Song of Judith",
    "21": "The Later Years of Judith"
+  }
+ },
+ "ESG": {
+  "1": {
+   "1": "The Dream of Mordecai"
+  },
+  "3": {
+   "13": "The Edict of Artaxerxes"
+  },
+  "4": {
+   "17": "The Prayers of Mordecai and Esther"
+  },
+  "5": {
+   "1": "Esther Before the King"
+  },
+  "8": {
+   "12": "The Decree of Reversal"
+  },
+  "10": {
+   "3": "The Dream Interpreted"
   }
  },
  "WIS": {
@@ -4373,10 +4460,10 @@
    "16": "Enoch",
    "17": "Noah",
    "19": "Abraham",
-   "22": "Isaac and Jacob",
-   "24": "Moses"
+   "22": "Isaac and Jacob"
   },
   "45": {
+   "1": "Moses",
    "6": "Aaron",
    "23": "Phinehas"
   },
@@ -4431,13 +4518,16 @@
   },
   "4": {
    "5": "Comfort for Jerusalem"
+  },
+  "6": {
+   "1": "The Letter of Jeremiah"
   }
  },
  "S3Y": {
   "1": {
-   "1": "The Prayer of Azariah",
-   "22": "The Angel in the Furnace",
-   "27": "The Song of the Three"
+   "2": "The Prayer of Azariah",
+   "23": "The Angel in the Furnace",
+   "28": "The Song of the Three"
   }
  },
  "SUS": {
@@ -4718,6 +4808,11 @@
    "1": "The Prayer of Manasseh"
   }
  },
+ "PS2": {
+  "1": {
+   "1": "A Psalm of David After Goliath"
+  }
+ },
  "3MA": {
   "1": {
    "1": "Philopator Defeats Antiochus",
@@ -4766,6 +4861,146 @@
    "20": "The Return Home"
   }
  },
+ "2ES": {
+  "1": {
+   "1": "The Word of the Lord to Ezra",
+   "12": "Israel's Ingratitude",
+   "24": "The Lord Forsakes His People",
+   "33": "Your House Is Desolate",
+   "38": "A People Yet to Come"
+  },
+  "2": {
+   "1": "The Mother Forsaken",
+   "10": "The Everlasting Tabernacles",
+   "20": "How My People Must Live",
+   "33": "Ezra Is Sent to the Nations",
+   "42": "The Multitude on Mount Zion"
+  },
+  "3": {
+   "1": "The Complaint of Ezra",
+   "4": "From Adam to the Flood",
+   "12": "From Abraham to David",
+   "20": "The Wicked Heart Remained",
+   "28": "Is Babylon Better Than Zion?"
+  },
+  "4": {
+   "1": "Uriel Answers with Three Riddles",
+   "13": "The Wood and the Waves",
+   "22": "Why Israel Is Given to the Nations",
+   "33": "How Long Until the End?",
+   "44": "The Vision of Fire and Water"
+  },
+  "5": {
+   "1": "The Signs of the End",
+   "14": "Ezra Awakes",
+   "16": "Phaltiel Comes to Ezra",
+   "21": "The Second Vision",
+   "31": "The Angel's Reply",
+   "43": "Why Creation Is Not All at Once"
+  },
+  "6": {
+   "1": "God Alone Was at the Beginning",
+   "7": "The Parting of the Two Ages",
+   "11": "The End of the Signs",
+   "18": "The Days That Are Coming",
+   "29": "Fast Seven Days More",
+   "35": "The Third Vision",
+   "38": "The Six Days of Creation",
+   "55": "The World Was Made for Israel"
+  },
+  "7": {
+   "1": "The Narrow Entrance",
+   "10": "Why This World Is Narrow",
+   "17": "The Fate of the Ungodly",
+   "26": "The Messiah and the Judgment",
+   "45": "Few Are Saved, and Why",
+   "62": "Better Not to Have Been Born",
+   "70": "Man Was Given Understanding",
+   "75": "The Soul After Death",
+   "78": "The Seven Torments of the Wicked",
+   "88": "The Seven Orders of the Just",
+   "100": "None May Intercede on That Day",
+   "116": "O Adam, What Hast Thou Done?",
+   "132": "The Mercies of the Most High"
+  },
+  "8": {
+   "1": "Many Created, Few Saved",
+   "4": "Ezra Pleads for Mankind",
+   "20": "The Prayer of Ezra",
+   "37": "God Rejoices Over the Righteous",
+   "41": "The Seed That Does Not Come Up",
+   "46": "Paradise Is Opened to You"
+  },
+  "9": {
+   "1": "The Signs of the Appointed Time",
+   "14": "The Lost Are More Than the Saved",
+   "23": "Go into the Field of Flowers",
+   "29": "The Law That Does Not Perish",
+   "38": "The Mourning Woman"
+  },
+  "10": {
+   "1": "The Woman's Son Dies",
+   "5": "Ezra Rebukes Her Grief",
+   "25": "The Woman Becomes a City",
+   "29": "Uriel Returns",
+   "38": "The Woman Is Zion",
+   "55": "Enter the City and See"
+  },
+  "11": {
+   "1": "The Vision of the Eagle",
+   "10": "The Reign of the Wings",
+   "22": "The Under Wings",
+   "29": "The Three Heads",
+   "36": "The Lion Rebukes the Eagle"
+  },
+  "12": {
+   "1": "The Eagle Is Consumed",
+   "4": "Ezra Asks for the Meaning",
+   "10": "The Eagle Is the Fourth Kingdom",
+   "22": "The Three Heads Interpreted",
+   "31": "The Lion Is the Anointed One",
+   "37": "Write These Things in a Book",
+   "40": "The People Seek Ezra"
+  },
+  "13": {
+   "1": "The Man from the Sea",
+   "12": "Ezra Asks for the Interpretation",
+   "21": "Those Who Are Left Behind",
+   "25": "The Man Is the Son of God",
+   "39": "The Ten Tribes Beyond the River",
+   "51": "Why the Vision Was Shown to Ezra"
+  },
+  "14": {
+   "1": "The Voice from the Bush",
+   "13": "Set Thy House in Order",
+   "19": "The Law Is Burnt",
+   "23": "Five Scribes and Many Tablets",
+   "27": "Ezra Speaks to the People",
+   "37": "The Cup of Understanding",
+   "44": "Ninety-Four Books Written"
+  },
+  "15": {
+   "1": "Speak the Words of Prophecy",
+   "12": "Woe to the World",
+   "20": "The Kings of the Earth Called Together",
+   "28": "A Vision from the East",
+   "34": "Clouds and Storms Gather",
+   "43": "The Destruction of Babylon",
+   "46": "Woe to Asia"
+  },
+  "16": {
+   "1": "Woe to Babylon and Asia",
+   "12": "None Can Turn Back the Sword",
+   "17": "The Beginning of Sorrows",
+   "21": "Famine and Desolation",
+   "35": "Hear, Ye Servants of the Lord",
+   "40": "Live as Strangers in the World",
+   "52": "Iniquity Shall Be Taken Away",
+   "54": "The Lord Knows All Works",
+   "64": "Your Sins Shall Be Brought Forth",
+   "73": "The Trial of the Elect"
+  }
+ },
  "4MA": {
   "1": {
    "1": "Reason Is Master of the Passions",
@@ -4802,13 +5037,13 @@
   },
   "7": {
    "1": "In Praise of Eleazar",
-   "16": "Only the Devout Master the Passions",
-   "24": "The Seven Brothers Brought In"
+   "16": "Only the Devout Master the Passions"
   },
   "8": {
-   "4": "The Tyrant's Offer",
-   "15": "What a Coward Would Have Said",
-   "26": "The Brothers Were Not Cowards"
+   "1": "The Seven Brothers Brought In",
+   "5": "The Tyrant's Offer",
+   "16": "What a Coward Would Have Said",
+   "27": "The Brothers Were Not Cowards"
   },
   "9": {
    "1": "The Answer of the Brothers",
@@ -4856,6 +5091,1629 @@
    "1": "A Call to Obey the Law",
    "6": "The Mother's Words to Her Sons",
    "20": "The Vengeance of God"
+  }
+ },
+ "PSS": {
+  "1": {
+   "1": "Jerusalem Cries Out"
+  },
+  "2": {
+   "1": "The Sinner Profanes Jerusalem"
+  },
+  "3": {
+   "1": "The Righteous and the Sinner"
+  },
+  "4": {
+   "1": "Against the Men-Pleasers"
+  },
+  "5": {
+   "1": "God Provides for All"
+  },
+  "6": {
+   "1": "Happy the Man Who Calls on the Lord"
+  },
+  "7": {
+   "1": "Chasten Us, but Do Not Forsake Us"
+  },
+  "8": {
+   "1": "The Sins of Jerusalem"
+  },
+  "9": {
+   "1": "Israel in Captivity"
+  },
+  "10": {
+   "1": "Happy the Man the Lord Corrects"
+  },
+  "11": {
+   "1": "The Gathering of the Scattered"
+  },
+  "12": {
+   "1": "Against the Slanderous Tongue"
+  },
+  "13": {
+   "1": "The Lord Spares the Righteous"
+  },
+  "14": {
+   "1": "The Faithful and the Sinners"
+  },
+  "15": {
+   "1": "The Mark of the Righteous"
+  },
+  "16": {
+   "1": "Rescued from the Pit"
+  },
+  "17": {
+   "1": "Our King and His Anointed"
+  },
+  "18": {
+   "1": "The Blessing of the Lord's Anointed"
+  }
+ },
+ "MAT": {
+  "1": {
+   "1": "The Genealogy of Jesus",
+   "18": "The Birth of Jesus"
+  },
+  "2": {
+   "1": "The Pilgrimage of the Magi",
+   "13": "The Flight to Egypt",
+   "16": "Weeping and Great Mourning",
+   "19": "The Return to Nazareth"
+  },
+  "3": {
+   "1": "The Mission of John the Baptist",
+   "13": "The Baptism of Jesus"
+  },
+  "4": {
+   "1": "The Temptation of Jesus",
+   "12": "Jesus Begins His Ministry",
+   "18": "The First Disciples",
+   "23": "Jesus Heals the Multitudes"
+  },
+  "5": {
+   "1": "The Sermon on the Mount",
+   "3": "The Beatitudes",
+   "13": "Salt and Light",
+   "17": "The Fulfillment of the Law",
+   "21": "Anger and Reconciliation",
+   "27": "Adultery",
+   "31": "Divorce",
+   "33": "Oaths and Vows",
+   "38": "Love Your Enemies"
+  },
+  "6": {
+   "1": "Giving to the Needy",
+   "5": "The Lord’s Prayer",
+   "16": "Proper Fasting",
+   "19": "Treasures in Heaven",
+   "22": "The Lamp of the Body",
+   "25": "Do Not Worry"
+  },
+  "7": {
+   "1": "Judging Others",
+   "7": "Ask, Seek, Knock",
+   "13": "The Narrow Gate",
+   "15": "A Tree and Its Fruit",
+   "24": "The House on the Rock",
+   "28": "The Authority of Jesus"
+  },
+  "8": {
+   "1": "The Leper’s Prayer",
+   "5": "The Faith of the Centurion",
+   "14": "Jesus Heals at Peter’s House",
+   "18": "The Cost of Discipleship",
+   "23": "Jesus Calms the Storm",
+   "28": "The Demons and the Pigs"
+  },
+  "9": {
+   "1": "Jesus Heals a Paralytic",
+   "9": "Jesus Calls Matthew",
+   "14": "Questions about Fasting",
+   "16": "The Patches and the Wineskins",
+   "18": "The Healing Touch of Jesus",
+   "27": "Jesus Heals the Blind and Mute",
+   "35": "The Lord of the Harvest"
+  },
+  "10": {
+   "1": "The Twelve Apostles",
+   "5": "The Ministry of the Twelve",
+   "16": "Sheep among Wolves",
+   "26": "Fear God Alone",
+   "32": "Confessing Christ",
+   "34": "Not Peace but a Sword",
+   "40": "The Reward of Service"
+  },
+  "11": {
+   "1": "John’s Inquiry",
+   "7": "Jesus Testifies about John",
+   "20": "Woe to the Unrepentant",
+   "25": "Rest for the Weary"
+  },
+  "12": {
+   "1": "The Lord of the Sabbath",
+   "9": "Jesus Heals on the Sabbath",
+   "15": "God’s Chosen Servant",
+   "22": "A House Divided",
+   "31": "The Unpardonable Sin",
+   "33": "Good and Bad Fruit",
+   "38": "The Sign of Jonah",
+   "43": "An Unclean Spirit Returns",
+   "46": "Jesus’ Mother and Brothers"
+  },
+  "13": {
+   "1": "The Parable of the Sower",
+   "10": "The Purpose of Jesus’ Parables",
+   "18": "The Parable of the Sower Explained",
+   "24": "The Parable of the Weeds",
+   "31": "The Parable of the Mustard Seed",
+   "33": "The Parable of the Leaven",
+   "34": "I Will Open My Mouth in Parables",
+   "36": "The Parable of the Weeds Explained",
+   "44": "The Parables of the Treasure and the Pearl",
+   "47": "The Parable of the Net",
+   "53": "The Rejection at Nazareth"
+  },
+  "14": {
+   "1": "The Beheading of John",
+   "13": "The Feeding of the Five Thousand",
+   "22": "Jesus Walks on Water",
+   "34": "Jesus Heals at Gennesaret"
+  },
+  "15": {
+   "1": "The Tradition of the Elders",
+   "10": "What Defiles a Man",
+   "21": "The Faith of the Canaanite Woman",
+   "29": "The Feeding of the Four Thousand"
+  },
+  "16": {
+   "1": "The Demand for a Sign",
+   "5": "The Leaven of the Pharisees and Sadducees",
+   "13": "Peter’s Confession of Christ",
+   "21": "Christ’s Passion Foretold",
+   "24": "Take Up Your Cross"
+  },
+  "17": {
+   "1": "The Transfiguration",
+   "14": "The Boy with a Demon",
+   "19": "The Power of Faith",
+   "22": "The Second Prediction of the Passion",
+   "24": "The Temple Tax"
+  },
+  "18": {
+   "1": "The Greatest in the Kingdom",
+   "6": "Temptations and Trespasses",
+   "10": "The Parable of the Lost Sheep",
+   "15": "A Brother Who Sins",
+   "19": "Ask in My Name",
+   "21": "The Unforgiving Servant"
+  },
+  "19": {
+   "1": "Teachings about Divorce",
+   "13": "Jesus Blesses the Children",
+   "16": "The Rich Young Man"
+  },
+  "20": {
+   "1": "The Parable of the Workers",
+   "17": "The Third Prediction of the Passion",
+   "20": "A Mother’s Request",
+   "29": "The Blind Men by the Road"
+  },
+  "21": {
+   "1": "The Triumphal Entry",
+   "12": "Jesus Cleanses the Temple",
+   "18": "The Barren Fig Tree",
+   "23": "Jesus’ Authority Challenged",
+   "28": "The Parable of the Two Sons",
+   "33": "The Parable of the Wicked Tenants"
+  },
+  "22": {
+   "1": "The Parable of the Banquet",
+   "15": "Paying Taxes to Caesar",
+   "23": "The Sadducees and the Resurrection",
+   "34": "The Greatest Commandment",
+   "41": "Whose Son Is the Christ?"
+  },
+  "23": {
+   "1": "Woes to Scribes and Pharisees",
+   "37": "Lament over Jerusalem"
+  },
+  "24": {
+   "1": "Temple Destruction and Other Signs",
+   "9": "Witnessing to All Nations",
+   "15": "The Abomination of Desolation",
+   "26": "The Return of the Son of Man",
+   "32": "The Lesson of the Fig Tree",
+   "36": "Readiness at Any Hour"
+  },
+  "25": {
+   "1": "The Parable of the Ten Virgins",
+   "14": "The Parable of the Talents",
+   "31": "The Sheep and the Goats"
+  },
+  "26": {
+   "1": "The Plot to Kill Jesus",
+   "6": "Jesus Anointed at Bethany",
+   "14": "Judas Agrees to Betray Jesus",
+   "17": "Preparing the Passover",
+   "20": "The Last Supper",
+   "31": "Jesus Predicts Peter’s Denial",
+   "36": "Jesus Prays at Gethsemane",
+   "47": "The Betrayal of Jesus",
+   "57": "Jesus before the Sanhedrin",
+   "69": "Peter Denies Jesus"
+  },
+  "27": {
+   "1": "Jesus Delivered to Pilate",
+   "3": "Judas Hangs Himself",
+   "11": "Jesus before Pilate",
+   "15": "The Crowd Chooses Barabbas",
+   "24": "Pilate Washes His Hands",
+   "27": "The Soldiers Mock Jesus",
+   "32": "The Crucifixion",
+   "45": "The Death of Jesus",
+   "57": "The Burial of Jesus",
+   "62": "The Guards at the Tomb"
+  },
+  "28": {
+   "1": "The Resurrection",
+   "11": "The Report of the Guards",
+   "16": "The Great Commission"
+  }
+ },
+ "MRK": {
+  "1": {
+   "1": "The Mission of John the Baptist",
+   "12": "The Temptation and Preaching of Jesus",
+   "16": "The First Disciples",
+   "21": "Jesus Expels an Unclean Spirit",
+   "29": "Jesus Heals at Peter’s House",
+   "35": "Jesus Prays and Preaches",
+   "40": "The Leper’s Prayer"
+  },
+  "2": {
+   "1": "Jesus Heals a Paralytic",
+   "13": "Jesus Calls Levi",
+   "18": "Questions about Fasting",
+   "21": "The Patches and the Wineskins",
+   "23": "The Lord of the Sabbath"
+  },
+  "3": {
+   "1": "Jesus Heals on the Sabbath",
+   "7": "Jesus Heals the Multitudes",
+   "13": "The Twelve Apostles",
+   "20": "A House Divided",
+   "28": "The Unpardonable Sin",
+   "31": "Jesus’ Mother and Brothers"
+  },
+  "4": {
+   "1": "The Parable of the Sower",
+   "10": "The Purpose of Jesus’ Parables",
+   "13": "The Parable of the Sower Explained",
+   "21": "The Lesson of the Lamp",
+   "26": "The Seed Growing Secretly",
+   "30": "The Parable of the Mustard Seed",
+   "35": "Jesus Calms the Storm"
+  },
+  "5": {
+   "1": "The Demons and the Pigs",
+   "21": "The Healing Touch of Jesus"
+  },
+  "6": {
+   "1": "The Rejection at Nazareth",
+   "7": "The Ministry of the Twelve",
+   "14": "The Beheading of John",
+   "30": "The Feeding of the Five Thousand",
+   "45": "Jesus Walks on Water",
+   "53": "Jesus Heals at Gennesaret"
+  },
+  "7": {
+   "1": "The Tradition of the Elders",
+   "14": "What Defiles a Man",
+   "24": "The Faith of the Gentile Woman",
+   "31": "The Deaf and Mute Man"
+  },
+  "8": {
+   "1": "The Feeding of the Four Thousand",
+   "11": "The Demand for a Sign",
+   "14": "The Leaven of the Pharisees and of Herod",
+   "22": "The Blind Man at Bethsaida",
+   "27": "Peter’s Confession of Christ",
+   "31": "Christ’s Passion Foretold",
+   "34": "Take Up Your Cross"
+  },
+  "9": {
+   "1": "The Transfiguration",
+   "14": "The Boy with an Evil Spirit",
+   "30": "The Second Prediction of the Passion",
+   "33": "The Greatest in the Kingdom",
+   "42": "Temptations and Trespasses",
+   "49": "Good Salt"
+  },
+  "10": {
+   "1": "Teachings about Divorce",
+   "13": "Jesus Blesses the Children",
+   "17": "The Rich Young Man",
+   "32": "The Third Prediction of the Passion",
+   "35": "The Request of James and John",
+   "46": "Jesus Heals Bartimaeus"
+  },
+  "11": {
+   "1": "The Triumphal Entry",
+   "12": "Jesus Curses the Fig Tree",
+   "15": "Jesus Cleanses the Temple",
+   "20": "The Withered Fig Tree",
+   "27": "Jesus’ Authority Challenged"
+  },
+  "12": {
+   "1": "The Parable of the Wicked Tenants",
+   "13": "Paying Taxes to Caesar",
+   "18": "The Sadducees and the Resurrection",
+   "28": "The Greatest Commandment",
+   "35": "Whose Son Is the Christ?",
+   "38": "Beware of the Scribes",
+   "41": "The Widow’s Offering"
+  },
+  "13": {
+   "1": "Temple Destruction and Other Signs",
+   "9": "Witnessing to All Nations",
+   "14": "The Abomination of Desolation",
+   "24": "The Return of the Son of Man",
+   "28": "The Lesson of the Fig Tree",
+   "32": "Readiness at Any Hour"
+  },
+  "14": {
+   "1": "The Plot to Kill Jesus",
+   "3": "Jesus Anointed at Bethany",
+   "10": "Judas Agrees to Betray Jesus",
+   "12": "Preparing the Passover",
+   "17": "The Last Supper",
+   "27": "Jesus Predicts Peter’s Denial",
+   "32": "Jesus Prays at Gethsemane",
+   "43": "The Betrayal of Jesus",
+   "53": "Jesus before the Sanhedrin",
+   "66": "Peter Denies Jesus"
+  },
+  "15": {
+   "1": "Jesus Delivered to Pilate",
+   "6": "The Crowd Chooses Barabbas",
+   "12": "Pilate Delivers Up Jesus",
+   "16": "The Soldiers Mock Jesus",
+   "21": "The Crucifixion",
+   "33": "The Death of Jesus",
+   "42": "The Burial of Jesus"
+  },
+  "16": {
+   "1": "The Resurrection",
+   "9": "Jesus Appears to Mary Magdalene",
+   "12": "Jesus Appears to Two Disciples",
+   "14": "The Great Commission",
+   "19": "The Ascension"
+  }
+ },
+ "LUK": {
+  "1": {
+   "1": "Dedication to Theophilus",
+   "5": "Gabriel Foretells John’s Birth",
+   "26": "Gabriel Foretells Jesus’ Birth",
+   "39": "Mary Visits Elizabeth",
+   "46": "Mary’s Song",
+   "57": "The Birth of John the Baptist",
+   "67": "Zechariah’s Song"
+  },
+  "2": {
+   "1": "The Birth of Jesus",
+   "8": "The Shepherds and the Angels",
+   "21": "Jesus Presented at the Temple",
+   "25": "The Prophecy of Simeon",
+   "36": "The Prophecy of Anna",
+   "39": "The Return to Nazareth",
+   "41": "The Boy Jesus at the Temple"
+  },
+  "3": {
+   "1": "The Mission of John the Baptist",
+   "21": "The Baptism of Jesus",
+   "23": "The Genealogy of Jesus"
+  },
+  "4": {
+   "1": "The Temptation of Jesus",
+   "14": "Jesus Begins His Ministry",
+   "16": "The Rejection at Nazareth",
+   "31": "Jesus Expels an Unclean Spirit",
+   "38": "Jesus Heals at Peter’s House",
+   "42": "Jesus Preaches in Judea"
+  },
+  "5": {
+   "1": "The First Disciples",
+   "12": "The Leper’s Prayer",
+   "17": "Jesus Heals a Paralytic",
+   "27": "Jesus Calls Levi",
+   "33": "Questions about Fasting",
+   "36": "The Patches and the Wineskins"
+  },
+  "6": {
+   "1": "The Lord of the Sabbath",
+   "6": "Jesus Heals on the Sabbath",
+   "12": "The Twelve Apostles",
+   "17": "Jesus Heals the Multitudes",
+   "20": "The Beatitudes",
+   "24": "Woes to the Satisfied",
+   "27": "Love Your Enemies",
+   "37": "Judging Others",
+   "43": "A Tree and Its Fruit",
+   "46": "The House on the Rock"
+  },
+  "7": {
+   "1": "The Faith of the Centurion",
+   "11": "Jesus Raises a Widow’s Son",
+   "18": "John’s Inquiry",
+   "24": "Jesus Testifies about John",
+   "36": "A Sinful Woman Anoints Jesus"
+  },
+  "8": {
+   "1": "Women Minister to Jesus",
+   "4": "The Parable of the Sower",
+   "16": "The Lesson of the Lamp",
+   "19": "Jesus’ Mother and Brothers",
+   "22": "Jesus Calms the Storm",
+   "26": "The Demons and the Pigs",
+   "40": "The Healing Touch of Jesus"
+  },
+  "9": {
+   "1": "The Ministry of the Twelve",
+   "7": "Herod Tries to See Jesus",
+   "10": "The Feeding of the Five Thousand",
+   "18": "Peter’s Confession of Christ",
+   "21": "Christ’s Passion Foretold",
+   "23": "Take Up Your Cross",
+   "28": "The Transfiguration",
+   "37": "The Boy with an Evil Spirit",
+   "43": "The Second Prediction of the Passion",
+   "46": "The Greatest in the Kingdom",
+   "51": "The Samaritans Reject Jesus",
+   "57": "The Cost of Discipleship"
+  },
+  "10": {
+   "1": "Jesus Sends the Seventy-Two",
+   "13": "Woe to the Unrepentant",
+   "17": "The Joyful Return",
+   "21": "Jesus’ Prayer of Thanksgiving",
+   "25": "The Parable of the Good Samaritan",
+   "38": "Martha and Mary"
+  },
+  "11": {
+   "1": "The Lord’s Prayer",
+   "5": "Ask, Seek, Knock",
+   "14": "A House Divided",
+   "24": "An Unclean Spirit Returns",
+   "27": "True Blessedness",
+   "29": "The Sign of Jonah",
+   "33": "The Lamp of the Body",
+   "37": "Woes to Pharisees and Experts in the Law"
+  },
+  "12": {
+   "1": "The Leaven of the Pharisees",
+   "4": "Fear God Alone",
+   "8": "Confessing Christ",
+   "13": "The Parable of the Rich Fool",
+   "22": "Do Not Worry",
+   "32": "Treasures in Heaven",
+   "35": "Readiness at Any Hour",
+   "49": "Not Peace but Division",
+   "54": "Interpreting the Present Time",
+   "57": "Reconciling with an Adversary"
+  },
+  "13": {
+   "1": "A Call to Repentance",
+   "6": "The Parable of the Barren Fig Tree",
+   "10": "Jesus Heals a Disabled Woman",
+   "18": "The Parable of the Mustard Seed",
+   "20": "The Parable of the Leaven",
+   "22": "The Narrow Door",
+   "31": "Lament over Jerusalem"
+  },
+  "14": {
+   "1": "Jesus Heals a Man with Dropsy",
+   "7": "The Parable of the Guests",
+   "15": "The Parable of the Banquet",
+   "25": "The Cost of Discipleship",
+   "34": "Good Salt"
+  },
+  "15": {
+   "1": "The Parable of the Lost Sheep",
+   "8": "The Parable of the Lost Coin",
+   "11": "The Parable of the Prodigal Son"
+  },
+  "16": {
+   "1": "The Parable of the Shrewd Manager",
+   "14": "The Law and the Prophets",
+   "19": "The Rich Man and Lazarus"
+  },
+  "17": {
+   "1": "Temptations and Trespasses",
+   "5": "The Power of Faith",
+   "11": "The Ten Lepers",
+   "20": "The Coming of the Kingdom"
+  },
+  "18": {
+   "1": "The Parable of the Persistent Widow",
+   "9": "The Pharisee and the Tax Collector",
+   "15": "Jesus Blesses the Children",
+   "18": "The Rich Young Ruler",
+   "31": "The Third Prediction of the Passion",
+   "35": "Jesus Heals a Blind Beggar"
+  },
+  "19": {
+   "1": "Jesus and Zacchaeus",
+   "11": "The Parable of the Ten Minas",
+   "28": "The Triumphal Entry",
+   "41": "Jesus Weeps over Jerusalem",
+   "45": "Jesus Cleanses the Temple"
+  },
+  "20": {
+   "1": "Jesus’ Authority Challenged",
+   "9": "The Parable of the Wicked Tenants",
+   "19": "Paying Taxes to Caesar",
+   "27": "The Sadducees and the Resurrection",
+   "41": "Whose Son Is the Christ?",
+   "45": "Beware of the Scribes"
+  },
+  "21": {
+   "1": "The Poor Widow’s Offering",
+   "5": "Temple Destruction and Other Signs",
+   "10": "Witnessing to All Nations",
+   "20": "The Destruction of Jerusalem",
+   "25": "The Return of the Son of Man",
+   "29": "The Lesson of the Fig Tree",
+   "34": "Be Watchful for the Day"
+  },
+  "22": {
+   "1": "The Plot to Kill Jesus",
+   "3": "Judas Agrees to Betray Jesus",
+   "7": "Preparing the Passover",
+   "14": "The Last Supper",
+   "24": "Who Is the Greatest?",
+   "31": "Jesus Predicts Peter’s Denial",
+   "39": "Jesus Prays on the Mount of Olives",
+   "47": "The Betrayal of Jesus",
+   "54": "Peter Denies Jesus",
+   "63": "The Soldiers Mock Jesus",
+   "66": "Jesus before the Sanhedrin"
+  },
+  "23": {
+   "1": "Jesus before Pilate",
+   "6": "Jesus before Herod",
+   "13": "The Crowd Chooses Barabbas",
+   "26": "The Crucifixion",
+   "44": "The Death of Jesus",
+   "50": "The Burial of Jesus"
+  },
+  "24": {
+   "1": "The Resurrection",
+   "13": "The Road to Emmaus",
+   "36": "Jesus Appears to the Disciples",
+   "50": "The Ascension"
+  }
+ },
+ "JHN": {
+  "1": {
+   "1": "The Beginning",
+   "6": "The Witness of John",
+   "14": "The Word Became Flesh",
+   "19": "The Mission of John the Baptist",
+   "29": "Jesus the Lamb of God",
+   "35": "The First Disciples",
+   "43": "Jesus Calls Philip and Nathanael"
+  },
+  "2": {
+   "1": "The Wedding at Cana",
+   "12": "Jesus Cleanses the Temple"
+  },
+  "3": {
+   "1": "Jesus and Nicodemus",
+   "22": "John’s Testimony about Jesus"
+  },
+  "4": {
+   "1": "Jesus and the Samaritan Woman",
+   "27": "The Disciples Return and Marvel",
+   "39": "Many Samaritans Believe",
+   "43": "Jesus Heals the Official’s Son"
+  },
+  "5": {
+   "1": "The Pool of Bethesda",
+   "16": "The Father and the Son",
+   "31": "Testimonies about Jesus",
+   "39": "The Witness of Scripture"
+  },
+  "6": {
+   "1": "The Feeding of the Five Thousand",
+   "16": "Jesus Walks on Water",
+   "22": "Jesus the Bread of Life",
+   "59": "Many Disciples Turn Back",
+   "67": "Peter’s Confession of Faith"
+  },
+  "7": {
+   "1": "Jesus Teaches at the Feast",
+   "25": "Is Jesus the Christ?",
+   "37": "Living Water",
+   "40": "Division over Jesus",
+   "45": "The Unbelief of the Jewish Leaders"
+  },
+  "8": {
+   "1": "The Woman Caught in Adultery",
+   "12": "Jesus the Light of the World",
+   "30": "The Truth Will Set You Free",
+   "48": "Before Abraham Was Born, I Am"
+  },
+  "9": {
+   "1": "Jesus Heals the Man Born Blind",
+   "13": "The Pharisees Investigate the Healing",
+   "35": "Spiritual Blindness"
+  },
+  "10": {
+   "1": "Jesus the Good Shepherd",
+   "22": "Jesus at the Feast of Dedication",
+   "40": "John’s Testimony Confirmed"
+  },
+  "11": {
+   "1": "The Death of Lazarus",
+   "17": "Jesus Comforts Martha and Mary",
+   "38": "Jesus Raises Lazarus",
+   "45": "The Plot to Kill Jesus"
+  },
+  "12": {
+   "1": "Mary Anoints Jesus",
+   "9": "The Plot to Kill Lazarus",
+   "12": "The Triumphal Entry",
+   "20": "Jesus Predicts His Death",
+   "37": "Belief and Unbelief"
+  },
+  "13": {
+   "1": "Jesus Washes His Disciples’ Feet",
+   "18": "Jesus Predicts His Betrayal",
+   "31": "Love One Another",
+   "36": "Jesus Predicts Peter’s Denial"
+  },
+  "14": {
+   "1": "In My Father’s House Are Many Rooms",
+   "5": "The Way, the Truth, and the Life",
+   "15": "Jesus Promises the Holy Spirit",
+   "27": "Peace I Leave with You"
+  },
+  "15": {
+   "1": "Jesus the True Vine",
+   "9": "No Greater Love",
+   "18": "The Hatred of the World"
+  },
+  "16": {
+   "1": "Persecution Foretold",
+   "5": "The Promise of the Holy Spirit",
+   "17": "Grief Will Turn to Joy",
+   "23": "Ask in My Name"
+  },
+  "17": {
+   "1": "Prayer for the Son",
+   "6": "Prayer for the Disciples",
+   "20": "Prayer for All Believers"
+  },
+  "18": {
+   "1": "The Betrayal of Jesus",
+   "15": "Peter’s First Denial",
+   "19": "Jesus before the High Priest",
+   "25": "Peter’s Second and Third Denials",
+   "28": "Jesus before Pilate"
+  },
+  "19": {
+   "1": "The Soldiers Mock Jesus",
+   "16": "The Crucifixion",
+   "28": "The Death of Jesus",
+   "31": "Jesus’ Side Is Pierced",
+   "38": "The Burial of Jesus"
+  },
+  "20": {
+   "1": "The Resurrection",
+   "10": "Jesus Appears to Mary Magdalene",
+   "19": "Jesus Appears to the Disciples",
+   "24": "Jesus Appears to Thomas",
+   "30": "The Purpose of John’s Book"
+  },
+  "21": {
+   "1": "Jesus Appears by the Sea of Tiberias",
+   "15": "Jesus and Peter",
+   "20": "Jesus and the Beloved Disciple"
+  }
+ },
+ "ACT": {
+  "1": {
+   "1": "Prologue",
+   "6": "The Ascension",
+   "12": "Matthias Replaces Judas"
+  },
+  "2": {
+   "1": "The Holy Spirit at Pentecost",
+   "14": "Peter Addresses the Crowd",
+   "37": "Three Thousand Believe",
+   "42": "The Fellowship of Believers"
+  },
+  "3": {
+   "1": "A Lame Man Walks",
+   "11": "Peter Speaks in Solomon’s Colonnade"
+  },
+  "4": {
+   "1": "Peter and John before the Sanhedrin",
+   "13": "The Name Forbidden",
+   "23": "The Believers’ Prayer",
+   "32": "Sharing among Believers"
+  },
+  "5": {
+   "1": "Ananias and Sapphira",
+   "12": "The Apostles Heal Many",
+   "17": "The Apostles Arrested and Freed",
+   "24": "The Apostles before the Sanhedrin",
+   "33": "Gamaliel’s Advice"
+  },
+  "6": {
+   "1": "The Choosing of the Seven",
+   "8": "The Arrest of Stephen"
+  },
+  "7": {
+   "1": "Stephen’s Address: The Call of Abraham",
+   "9": "Joseph Sold into Egypt",
+   "15": "Israel Oppressed in Egypt",
+   "20": "The Birth and Adoption of Moses",
+   "23": "The Rejection and Flight of Moses",
+   "30": "The Call of Moses",
+   "39": "The Rebellion of Israel",
+   "44": "The Tabernacle of the Testimony",
+   "54": "The Stoning of Stephen"
+  },
+  "8": {
+   "1": "Saul Persecutes the Church",
+   "4": "Philip in Samaria",
+   "9": "Simon the Sorcerer",
+   "26": "Philip and the Ethiopian"
+  },
+  "9": {
+   "1": "The Road to Damascus",
+   "10": "Ananias Baptizes Saul",
+   "20": "Saul Preaches at Damascus",
+   "23": "The Escape from Damascus",
+   "26": "Saul in Jerusalem",
+   "31": "The Healing of Aeneas",
+   "36": "The Raising of Tabitha"
+  },
+  "10": {
+   "1": "Cornelius Sends for Peter",
+   "9": "Peter’s Vision",
+   "17": "Peter Called to Caesarea",
+   "24": "Peter Visits Cornelius",
+   "34": "Good News for the Gentiles",
+   "44": "The Gentiles Receive the Holy Spirit"
+  },
+  "11": {
+   "1": "Peter’s Report at Jerusalem",
+   "19": "The Church at Antioch"
+  },
+  "12": {
+   "1": "James Killed, Peter Imprisoned",
+   "5": "The Rescue of Peter",
+   "20": "The Death of Herod"
+  },
+  "13": {
+   "1": "Paul’s First Missionary Journey Begins",
+   "4": "On Cyprus",
+   "13": "In Pisidian Antioch",
+   "42": "A Light for the Gentiles"
+  },
+  "14": {
+   "1": "Paul and Barnabas at Iconium",
+   "8": "The Visit to Lystra and Derbe",
+   "21": "Strengthening the Disciples"
+  },
+  "15": {
+   "1": "The Dispute over Circumcision",
+   "5": "The Council at Jerusalem",
+   "22": "The Letter to the Gentile Believers",
+   "30": "The Believers at Antioch Rejoice",
+   "36": "Paul’s Second Missionary Journey Begins"
+  },
+  "16": {
+   "1": "Timothy Joins Paul and Silas",
+   "6": "Paul’s Vision of the Macedonian",
+   "11": "Lydia’s Conversion in Philippi",
+   "16": "Paul and Silas Imprisoned",
+   "25": "The Conversion of the Jailer",
+   "35": "An Official Apology"
+  },
+  "17": {
+   "1": "The Uproar in Thessalonica",
+   "10": "The Character of the Bereans",
+   "16": "Paul in Athens",
+   "22": "Paul’s Address in the Areopagus"
+  },
+  "18": {
+   "1": "Paul Ministers in Corinth",
+   "12": "Paul before Gallio",
+   "18": "Paul Returns to Antioch",
+   "23": "Paul’s Third Missionary Journey Begins"
+  },
+  "19": {
+   "1": "The Holy Spirit Received at Ephesus",
+   "8": "Paul Ministers in Ephesus",
+   "13": "Seven Sons of Sceva",
+   "21": "The Riot in Ephesus"
+  },
+  "20": {
+   "1": "Paul in Macedonia and Greece",
+   "7": "Eutychus Revived at Troas",
+   "13": "From Troas to Miletus",
+   "17": "Paul’s Farewell to the Ephesians"
+  },
+  "21": {
+   "1": "Paul’s Journey to Jerusalem",
+   "8": "Paul Visits Philip the Evangelist",
+   "17": "Paul’s Arrival at Jerusalem",
+   "27": "Paul Seized at the Temple",
+   "37": "Paul Addresses the Crowd"
+  },
+  "22": {
+   "1": "Paul’s Defense to the Crowd",
+   "22": "Paul the Roman Citizen"
+  },
+  "23": {
+   "1": "Paul before the Sanhedrin",
+   "12": "The Plot to Kill Paul",
+   "23": "Paul Sent to Felix"
+  },
+  "24": {
+   "1": "Tertullus Prosecutes Paul",
+   "10": "Paul’s Defense to Felix",
+   "22": "The Verdict Postponed"
+  },
+  "25": {
+   "1": "Paul’s Trial before Festus",
+   "10": "Paul Appeals to Caesar",
+   "13": "Festus Consults Agrippa",
+   "23": "Paul before Agrippa and Bernice"
+  },
+  "26": {
+   "1": "Paul’s Testimony to Agrippa",
+   "24": "Festus Interrupts Paul’s Defense"
+  },
+  "27": {
+   "1": "Paul Sails for Rome",
+   "13": "The Storm at Sea",
+   "27": "The Shipwreck"
+  },
+  "28": {
+   "1": "Ashore on Malta",
+   "11": "Paul Arrives in Italy",
+   "16": "Paul Preaches at Rome"
+  }
+ },
+ "ROM": {
+  "1": {
+   "1": "Paul Greets the Saints in Rome",
+   "8": "Unashamed of the Gospel",
+   "18": "God’s Wrath against Sin"
+  },
+  "2": {
+   "1": "God’s Righteous Judgment",
+   "17": "The Jews and the Law"
+  },
+  "3": {
+   "1": "God Remains Faithful",
+   "9": "There Is No One Righteous",
+   "21": "Righteousness through Faith in Christ"
+  },
+  "4": {
+   "1": "Abraham Justified by Faith",
+   "13": "Abraham Receives the Promise"
+  },
+  "5": {
+   "1": "The Triumph of Faith",
+   "6": "Christ’s Sacrifice for the Ungodly",
+   "12": "Death in Adam, Life in Christ"
+  },
+  "6": {
+   "1": "Dead to Sin, Alive to God",
+   "15": "The Wages of Sin"
+  },
+  "7": {
+   "1": "Release from the Law",
+   "7": "God’s Law Is Holy",
+   "13": "Struggling with Sin"
+  },
+  "8": {
+   "1": "Walking by the Spirit",
+   "12": "Heirs with Christ",
+   "18": "Future Glory",
+   "28": "God Works in All Things",
+   "35": "More than Conquerors"
+  },
+  "9": {
+   "1": "Paul’s Concern for the Jews",
+   "6": "God’s Sovereign Choice",
+   "30": "Israel’s Unbelief"
+  },
+  "10": {
+   "1": "The Word Brings Salvation"
+  },
+  "11": {
+   "1": "A Remnant Chosen by Grace",
+   "11": "The Ingrafting of the Gentiles",
+   "25": "All Israel Will Be Saved",
+   "33": "A Hymn of Praise"
+  },
+  "12": {
+   "1": "Living Sacrifices",
+   "9": "Love, Zeal, Hope, Hospitality",
+   "14": "Forgiveness"
+  },
+  "13": {
+   "1": "Submission to Authorities",
+   "8": "Love Fulfills the Law",
+   "11": "The Day Is Near"
+  },
+  "14": {
+   "1": "The Law of Liberty",
+   "13": "The Law of Love",
+   "24": "Doxology"
+  },
+  "15": {
+   "1": "Accept One Another",
+   "7": "Christ the Servant of Jews and Gentiles",
+   "14": "Paul the Minister to the Gentiles",
+   "23": "Paul’s Travel Plans"
+  },
+  "16": {
+   "1": "Personal Greetings and Love",
+   "17": "Avoid Divisions",
+   "21": "Greetings from Paul’s Fellow Workers"
+  }
+ },
+ "1CO": {
+  "1": {
+   "1": "Greetings from Paul and Sosthenes",
+   "4": "Thanksgiving",
+   "10": "Unity in the Church",
+   "18": "The Message of the Cross",
+   "26": "Wisdom from God"
+  },
+  "2": {
+   "1": "Paul’s Message by the Spirit’s Power",
+   "6": "Spiritual Wisdom"
+  },
+  "3": {
+   "1": "God’s Fellow Workers",
+   "10": "Christ Our Foundation",
+   "16": "God’s Temple and God’s Wisdom"
+  },
+  "4": {
+   "1": "Servants of Christ",
+   "14": "Paul’s Fatherly Warning"
+  },
+  "5": {
+   "1": "Immorality Rebuked",
+   "9": "Expel the Immoral Brother"
+  },
+  "6": {
+   "1": "Lawsuits among Believers",
+   "9": "Members of Christ",
+   "18": "The Temple of the Holy Spirit"
+  },
+  "7": {
+   "1": "Principles of Marriage",
+   "17": "Live Your Calling",
+   "25": "The Unmarried and Widowed"
+  },
+  "8": {
+   "1": "Food Sacrificed to Idols"
+  },
+  "9": {
+   "1": "The Rights of an Apostle",
+   "19": "Paul the Servant to All",
+   "24": "Run Your Race to Win"
+  },
+  "10": {
+   "1": "Warnings from Israel’s Past",
+   "14": "Flee from Idolatry",
+   "23": "All to God’s Glory"
+  },
+  "11": {
+   "1": "Roles in Worship",
+   "17": "Sharing in the Lord’s Supper"
+  },
+  "12": {
+   "1": "Spiritual Gifts",
+   "12": "The Body of Christ",
+   "27": "The Greater Gifts"
+  },
+  "13": {
+   "1": "Love"
+  },
+  "14": {
+   "1": "Prophecy and Tongues",
+   "26": "Orderly Worship"
+  },
+  "15": {
+   "1": "The Resurrection of Christ",
+   "12": "The Resurrection of the Dead",
+   "20": "The Order of Resurrection",
+   "35": "The Resurrection Body",
+   "50": "Where, O Death, Is Your Victory?"
+  },
+  "16": {
+   "1": "The Collection for the Saints",
+   "5": "Paul’s Travel Plans",
+   "10": "Timothy and Apollos",
+   "13": "Concluding Exhortations",
+   "19": "Signature and Final Greetings"
+  }
+ },
+ "2CO": {
+  "1": {
+   "1": "Paul Greets the Corinthians",
+   "3": "The God of All Comfort",
+   "12": "Paul’s Change of Plans"
+  },
+  "2": {
+   "1": "Reaffirm Your Love",
+   "12": "Triumph in Christ"
+  },
+  "3": {
+   "1": "Ministers of a New Covenant",
+   "7": "The Glory of the New Covenant"
+  },
+  "4": {
+   "1": "The Light of the Gospel",
+   "7": "Treasure in Jars of Clay"
+  },
+  "5": {
+   "1": "Our Eternal Dwelling",
+   "11": "Ambassadors for Christ"
+  },
+  "6": {
+   "1": "Paul’s Hardships and God’s Grace",
+   "14": "Do Not Be Unequally Yoked"
+  },
+  "7": {
+   "1": "Paul’s Joy in the Corinthians"
+  },
+  "8": {
+   "1": "Generosity Commended",
+   "16": "Titus Commended"
+  },
+  "9": {
+   "1": "God Loves a Cheerful Giver"
+  },
+  "10": {
+   "1": "Paul’s Apostolic Authority"
+  },
+  "11": {
+   "1": "Paul and the False Apostles",
+   "16": "Paul’s Suffering and Service"
+  },
+  "12": {
+   "1": "Paul’s Revelation",
+   "5": "Paul’s Thorn and God’s Grace",
+   "11": "Paul’s Concern for the Corinthians"
+  },
+  "13": {
+   "1": "Examine Yourselves",
+   "11": "Benediction and Farewell"
+  }
+ },
+ "GAL": {
+  "1": {
+   "1": "Paul’s Greeting to the Galatians",
+   "6": "No Other Gospel",
+   "10": "Paul Preaches the Gospel"
+  },
+  "2": {
+   "1": "The Council at Jerusalem",
+   "11": "Paul Confronts Cephas"
+  },
+  "3": {
+   "1": "Faith and Belief",
+   "10": "Christ Has Redeemed Us",
+   "15": "The Purpose of the Law",
+   "26": "Sons through Faith in Christ"
+  },
+  "4": {
+   "1": "Sons and Heirs",
+   "8": "Paul’s Concern for the Galatians",
+   "21": "Hagar and Sarah"
+  },
+  "5": {
+   "1": "Freedom in Christ",
+   "16": "Walking by the Spirit"
+  },
+  "6": {
+   "1": "Carry One Another’s Burdens",
+   "11": "Final Warnings and Blessings"
+  }
+ },
+ "EPH": {
+  "1": {
+   "1": "Paul’s Greeting to the Ephesians",
+   "3": "Spiritual Blessings",
+   "15": "Spiritual Wisdom"
+  },
+  "2": {
+   "1": "Alive with Christ",
+   "11": "One in Christ",
+   "19": "Christ Our Cornerstone"
+  },
+  "3": {
+   "1": "The Mystery of the Gospel",
+   "14": "Paul’s Prayer for the Ephesians"
+  },
+  "4": {
+   "1": "Unity in the Body",
+   "17": "New Life in Christ"
+  },
+  "5": {
+   "1": "Imitators of God",
+   "8": "Children of Light",
+   "21": "Wives and Husbands"
+  },
+  "6": {
+   "1": "Children and Parents",
+   "5": "Serving with Honor",
+   "10": "The Full Armor of God",
+   "21": "Final Greetings"
+  }
+ },
+ "PHP": {
+  "1": {
+   "1": "Greetings from Paul and Timothy",
+   "3": "Thanksgiving and Prayer",
+   "12": "Paul’s Trials Advance the Gospel",
+   "21": "To Live Is Christ",
+   "27": "Worthy of the Gospel"
+  },
+  "2": {
+   "1": "One in Christ",
+   "5": "The Mind of Christ",
+   "12": "Lights in the World",
+   "19": "Timothy and Epaphroditus"
+  },
+  "3": {
+   "1": "Righteousness through Faith in Christ",
+   "12": "Pressing on toward the Goal",
+   "17": "Citizenship in Heaven"
+  },
+  "4": {
+   "1": "Rejoice in the Lord",
+   "10": "The Generosity of the Philippians",
+   "21": "Final Greetings"
+  }
+ },
+ "COL": {
+  "1": {
+   "1": "Greetings from Paul and Timothy",
+   "3": "Thanksgiving and Prayer",
+   "15": "The Supremacy of the Son",
+   "24": "Paul’s Suffering for the Church"
+  },
+  "2": {
+   "1": "Absent in Body, Present in Spirit",
+   "6": "Alive with Christ"
+  },
+  "3": {
+   "1": "Put On the New Self",
+   "18": "Christian Households",
+   "22": "Serving with Honor"
+  },
+  "4": {
+   "1": "Prayerful Speech and Actions",
+   "7": "Greetings from Paul’s Fellow Workers",
+   "15": "Signature and Final Instructions"
+  }
+ },
+ "1TH": {
+  "1": {
+   "1": "Greetings to the Thessalonians"
+  },
+  "2": {
+   "1": "Paul’s Ministry",
+   "17": "Paul’s Longing to Visit"
+  },
+  "3": {
+   "1": "Timothy’s Visit",
+   "6": "Timothy’s Encouraging Report"
+  },
+  "4": {
+   "1": "Living to Please God",
+   "13": "The Return of the Lord"
+  },
+  "5": {
+   "1": "The Day of the Lord",
+   "12": "Christian Living",
+   "23": "Final Blessings and Instructions"
+  }
+ },
+ "2TH": {
+  "1": {
+   "1": "Greetings to the Thessalonians",
+   "5": "Christ’s Coming"
+  },
+  "2": {
+   "1": "The Man of Lawlessness",
+   "13": "Stand Firm"
+  },
+  "3": {
+   "1": "Request for Prayer",
+   "6": "A Warning against Idleness",
+   "16": "Signature and Final Greetings"
+  }
+ },
+ "1TI": {
+  "1": {
+   "1": "Paul’s Greeting to Timothy",
+   "3": "Correcting False Teachers",
+   "12": "God’s Grace to Paul"
+  },
+  "2": {
+   "1": "A Call to Prayer",
+   "9": "Instructions to Women"
+  },
+  "3": {
+   "1": "Qualifications for Overseers",
+   "8": "Qualifications for Deacons",
+   "14": "The Mystery of Godliness"
+  },
+  "4": {
+   "1": "A Warning against Apostasy",
+   "6": "A Good Servant of Jesus Christ"
+  },
+  "5": {
+   "1": "Reproof and Respect",
+   "3": "Honoring True Widows",
+   "17": "Honoring Elders",
+   "21": "A Charge to Timothy"
+  },
+  "6": {
+   "1": "Serving with Honor",
+   "3": "Reject False Doctrines",
+   "6": "Godliness with Contentment",
+   "11": "Fight the Good Fight",
+   "17": "A Charge to the Rich",
+   "20": "Guard the Faith"
+  }
+ },
+ "2TI": {
+  "1": {
+   "1": "Paul’s Greeting to Timothy",
+   "3": "Faithfulness under Persecution",
+   "13": "Holding to Sound Teaching"
+  },
+  "2": {
+   "1": "Grace and Perseverance",
+   "14": "The Lord’s Approved Workman"
+  },
+  "3": {
+   "1": "Evil in the Last Days",
+   "10": "All Scripture Is God-Breathed"
+  },
+  "4": {
+   "1": "Preach the Word",
+   "9": "Personal Concerns",
+   "16": "The Lord Remains Faithful",
+   "19": "Final Greetings"
+  }
+ },
+ "TIT": {
+  "1": {
+   "1": "Paul’s Greeting to Titus",
+   "5": "Appointing Elders on Crete",
+   "10": "Correcting False Teachers"
+  },
+  "2": {
+   "1": "Teaching Sound Doctrine",
+   "11": "God’s Grace Brings Salvation"
+  },
+  "3": {
+   "1": "Heirs of Grace",
+   "9": "Avoid Divisions",
+   "12": "Final Remarks and Greetings"
+  }
+ },
+ "PHM": {
+  "1": {
+   "1": "Greetings from Paul and Timothy",
+   "4": "Philemon’s Faith and Love",
+   "8": "Paul’s Appeal for Onesimus",
+   "23": "Additional Greetings"
+  }
+ },
+ "HEB": {
+  "1": {
+   "1": "The Supremacy of the Son"
+  },
+  "2": {
+   "1": "Salvation Confirmed",
+   "5": "Jesus like His Brothers"
+  },
+  "3": {
+   "1": "Jesus Our Apostle and High Priest",
+   "7": "Do Not Harden Your Hearts",
+   "12": "The Peril of Unbelief"
+  },
+  "4": {
+   "1": "The Sabbath Rest",
+   "12": "The Living Word"
+  },
+  "5": {
+   "1": "The Perfect High Priest",
+   "11": "Milk and Solid Food"
+  },
+  "6": {
+   "1": "A Call to Maturity",
+   "13": "God’s Unchangeable Promise"
+  },
+  "7": {
+   "1": "Melchizedek and Abraham",
+   "11": "A Superior Priesthood"
+  },
+  "8": {
+   "1": "Christ’s Eternal Priesthood",
+   "6": "The New Covenant"
+  },
+  "9": {
+   "1": "The Earthly Tabernacle",
+   "11": "Redemption through His Blood"
+  },
+  "10": {
+   "1": "Christ’s Perfect Sacrifice",
+   "19": "A Call to Persevere"
+  },
+  "11": {
+   "1": "Faith and Assurance",
+   "4": "The Faith of Abel, Enoch, Noah",
+   "8": "The Faith of Abraham and Sarah",
+   "20": "The Faith of Isaac, Jacob, and Joseph",
+   "23": "The Faith of Moses",
+   "30": "The Faith of Many · (Joshua–Malachi)"
+  },
+  "12": {
+   "1": "A Call to Endurance",
+   "4": "God Disciplines His Sons",
+   "14": "A Call to Holiness",
+   "18": "An Unshakable Kingdom"
+  },
+  "13": {
+   "1": "Brotherly Love",
+   "5": "Christ’s Unchanging Nature",
+   "15": "Sacrifice, Obedience, and Prayer",
+   "20": "Benediction and Farewell"
+  }
+ },
+ "JAS": {
+  "1": {
+   "1": "A Greeting from James",
+   "2": "Rejoicing in Trials",
+   "13": "Good and Perfect Gifts",
+   "19": "Hearing and Doing"
+  },
+  "2": {
+   "1": "A Warning against Favoritism",
+   "14": "Faith and Works"
+  },
+  "3": {
+   "1": "Taming the Tongue",
+   "13": "The Wisdom from Above"
+  },
+  "4": {
+   "1": "A Warning against Pride",
+   "7": "Drawing Near to God",
+   "13": "Do Not Boast about Tomorrow"
+  },
+  "5": {
+   "1": "A Warning to the Rich",
+   "7": "Patience in Suffering",
+   "13": "The Prayer of Faith",
+   "19": "Restoring a Sinner"
+  }
+ },
+ "1PE": {
+  "1": {
+   "1": "A Greeting from Peter",
+   "3": "A Living Hope",
+   "13": "A Call to Holiness",
+   "22": "The Enduring Word"
+  },
+  "2": {
+   "1": "The Living Stone and Chosen People",
+   "13": "Submission to Authorities",
+   "21": "Christ’s Example of Suffering"
+  },
+  "3": {
+   "1": "Wives and Husbands",
+   "8": "Turning from Evil",
+   "14": "Suffering for Righteousness"
+  },
+  "4": {
+   "1": "Living for God’s Glory",
+   "12": "Suffering as Christians"
+  },
+  "5": {
+   "1": "Instructions to Elders",
+   "5": "Cast Your Cares on Him",
+   "10": "Benediction and Farewell"
+  }
+ },
+ "2PE": {
+  "1": {
+   "1": "A Greeting from Peter",
+   "3": "Partakers of the Divine Nature",
+   "16": "Eyewitnesses of His Majesty"
+  },
+  "2": {
+   "1": "Deliverance from False Prophets"
+  },
+  "3": {
+   "1": "The Coming Judgment",
+   "8": "The Day of the Lord",
+   "14": "Final Exhortations"
+  }
+ },
+ "1JN": {
+  "1": {
+   "1": "The Word of Life",
+   "5": "Walking in the Light"
+  },
+  "2": {
+   "1": "Jesus Our Advocate",
+   "7": "A New Commandment",
+   "15": "Do Not Love the World",
+   "18": "Beware of Antichrists",
+   "24": "Remain in Christ"
+  },
+  "3": {
+   "1": "Children of God",
+   "11": "Love One Another"
+  },
+  "4": {
+   "1": "Testing the Spirits",
+   "7": "Love Comes from God"
+  },
+  "5": {
+   "1": "Overcoming the World",
+   "9": "God’s Testimony about His Son",
+   "13": "Effective Prayer",
+   "18": "The True God"
+  }
+ },
+ "2JN": {
+  "1": {
+   "1": "A Greeting from the Elder",
+   "4": "Walking in the Truth",
+   "7": "Beware of Deceivers",
+   "12": "Conclusion"
+  }
+ },
+ "3JN": {
+  "1": {
+   "1": "A Greeting from the Elder",
+   "5": "Gaius Commended for Hospitality",
+   "9": "Diotrephes and Demetrius",
+   "13": "Conclusion"
+  }
+ },
+ "JUD": {
+  "1": {
+   "1": "A Greeting from Jude",
+   "3": "God’s Judgment on the Ungodly",
+   "17": "A Call to Persevere",
+   "24": "Doxology"
+  }
+ },
+ "REV": {
+  "1": {
+   "1": "Prologue",
+   "4": "John Greets the Seven Churches",
+   "9": "John’s Vision on Patmos"
+  },
+  "2": {
+   "1": "To the Church in Ephesus",
+   "8": "To the Church in Smyrna",
+   "12": "To the Church in Pergamum",
+   "18": "To the Church in Thyatira"
+  },
+  "3": {
+   "1": "To the Church in Sardis",
+   "7": "To the Church in Philadelphia",
+   "14": "To the Church in Laodicea"
+  },
+  "4": {
+   "1": "The Throne in Heaven",
+   "5": "Worship of the Creator"
+  },
+  "5": {
+   "1": "The Lamb Takes the Scroll",
+   "11": "The Lamb Exalted"
+  },
+  "6": {
+   "1": "The First Seal: The White Horse",
+   "3": "The Second Seal: War",
+   "5": "The Third Seal: Famine",
+   "7": "The Fourth Seal: Death",
+   "9": "The Fifth Seal: The Martyrs",
+   "12": "The Sixth Seal: Terror"
+  },
+  "7": {
+   "1": "144,000 Sealed",
+   "9": "Praise from the Great Multitude"
+  },
+  "8": {
+   "1": "The Seventh Seal",
+   "6": "The First Four Trumpets"
+  },
+  "9": {
+   "1": "The Fifth Trumpet",
+   "13": "The Sixth Trumpet"
+  },
+  "10": {
+   "1": "The Angel and the Small Scroll"
+  },
+  "11": {
+   "1": "The Two Witnesses",
+   "7": "The Witnesses Killed and Raised",
+   "15": "The Seventh Trumpet"
+  },
+  "12": {
+   "1": "The Woman and the Dragon",
+   "7": "The War in Heaven",
+   "13": "The Woman Persecuted"
+  },
+  "13": {
+   "1": "The Beast from the Sea",
+   "11": "The Beast from the Earth",
+   "16": "The Mark of the Beast"
+  },
+  "14": {
+   "1": "The Lamb and the 144,000",
+   "6": "The Three Angels and Babylon’s Fall",
+   "14": "The Harvest of the Earth"
+  },
+  "15": {
+   "1": "The Song of Moses and the Lamb",
+   "5": "Preparation for Judgment"
+  },
+  "16": {
+   "1": "The First Six Bowls of Wrath",
+   "17": "The Seventh Bowl of Wrath"
+  },
+  "17": {
+   "1": "The Woman on the Beast",
+   "6": "The Mystery Explained",
+   "14": "The Victory of the Lamb"
+  },
+  "18": {
+   "1": "Babylon Is Fallen",
+   "9": "Lament over Babylon",
+   "21": "The Doom of Babylon"
+  },
+  "19": {
+   "1": "Rejoicing in Heaven",
+   "6": "The Marriage of the Lamb",
+   "11": "The Rider on the White Horse",
+   "17": "Defeat of the Beast and False Prophet"
+  },
+  "20": {
+   "1": "Satan Bound",
+   "7": "Satan Cast into the Lake of Fire",
+   "11": "Judgment before the Great White Throne"
+  },
+  "21": {
+   "1": "A New Heaven and a New Earth",
+   "9": "The New Jerusalem"
+  },
+  "22": {
+   "1": "The River of Life",
+   "6": "Jesus Is Coming",
+   "18": "Nothing May Be Added or Removed"
   }
  }
 }

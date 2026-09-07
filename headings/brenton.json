@@ -172,8 +172,7 @@
   },
   "35": {
    "1": "Jacob Returns to Bethel",
-   "16": "Benjamin Born, Rachel Dies",
-   "22": "The Sons of Jacob",
+   "16": "Benjamin Born, Rachel Dies · The Sons of Jacob",
    "27": "The Death of Isaac"
   },
   "36": {
@@ -343,7 +342,8 @@
   },
   "21": {
    "1": "Hebrew Servants",
-   "12": "Personal Injury Laws"
+   "12": "Personal Injury Laws",
+   "37": "Property Laws"
   },
   "22": {
    "15": "Laws of Social Responsibility"
@@ -360,7 +360,7 @@
   },
   "25": {
    "1": "Offerings for the Tabernacle",
-   "10": "The Ark of the Covenant",
+   "10": "The Ark of the Covenant · Constructing the Ark · The Altar of Incense",
    "17": "The Mercy Seat",
    "23": "The Table of Showbread",
    "31": "The Lampstand"
@@ -422,19 +422,17 @@
    "30": "Bezalel and Oholiab"
   },
   "36": {
-   "1": "The People Bring More than Enough"
+   "1": "The People Bring More than Enough",
+   "9": "The Ten Curtains for the Tabernacle",
+   "29": "Additional Priestly Garments",
+   "31": "The Veil · The Curtain for the Entrance"
   },
   "37": {
-   "1": "The Ten Curtains for the Tabernacle · The Eleven Curtains of Goat Hair",
-   "2": "Constructing the Ark",
+   "1": "The Eleven Curtains of Goat Hair",
    "6": "The Bronze Basin",
    "7": "The Courtyard",
    "16": "The Bronze Altar",
-   "19": "An Inventory of Materials",
-   "20": "The Ephod"
-  },
-  "39": {
-   "22": "Moses Approves the Work"
+   "19": "An Inventory of Materials"
   },
   "40": {
    "1": "Setting Up the Tabernacle",
@@ -472,8 +470,7 @@
   },
   "8": {
    "1": "Moses Consecrates Aaron and His Sons",
-   "14": "The Priests’ Sin Offering",
-   "18": "The Priests’ Burnt Offering",
+   "14": "The Priests’ Sin Offering · The Priests’ Burnt Offering",
    "21": "The Ram of Ordination"
   },
   "9": {
@@ -572,7 +569,8 @@
    "1": "The First Census of Israel",
    "5": "The Leaders of the Tribes",
    "17": "The Number of Every Tribe",
-   "47": "The Exemption of the Levites"
+   "47": "The Exemption of the Levites",
+   "54": "Murmuring and Plague"
   },
   "2": {
    "1": "The Order of the Camps"
@@ -669,7 +667,7 @@
    "1": "The Defeat of Arad",
    "4": "The Bronze Serpent",
    "10": "The Journey to Moab",
-   "21": "The Defeat of Sihon",
+   "20": "The Defeat of Sihon",
    "31": "The Defeat of Og"
   },
   "22": {
@@ -696,9 +694,9 @@
    "12": "The Tribe of Simeon",
    "15": "The Tribe of Gad · The Tribe of Judah",
    "19": "The Tribe of Issachar",
-   "30": "The Tribe of Zebulun",
+   "26": "The Tribe of Zebulun",
    "32": "The Tribe of Manasseh",
-   "39": "The Tribe of Ephraim",
+   "35": "The Tribe of Ephraim",
    "42": "The Tribe of Benjamin",
    "44": "The Tribe of Asher",
    "46": "The Tribe of Dan",
@@ -988,8 +986,7 @@
    "1": "Simeon’s Inheritance",
    "10": "Zebulun’s Inheritance",
    "17": "Issachar’s Inheritance",
-   "24": "Asher’s Inheritance",
-   "32": "Naphtali’s Inheritance",
+   "24": "Asher’s Inheritance · Naphtali’s Inheritance",
    "40": "Dan’s Inheritance",
    "49": "Joshua’s Inheritance"
   },
@@ -1399,16 +1396,16 @@
   },
   "5": {
    "15": "Preparations for the Temple",
+   "16": "God’s Promise to Solomon",
    "21": "Hiram’s Reply to Solomon",
    "27": "Solomon’s Labor Force"
   },
   "6": {
    "1": "Temple Construction Begins",
    "5": "The Chambers",
-   "6": "God’s Promise to Solomon",
-   "15": "The Temple’s Interior",
    "23": "The Cherubim",
-   "31": "The Doors"
+   "31": "The Doors",
+   "36": "The Courtyard"
   },
   "7": {
    "1": "The Pillars and Capitals",
@@ -1417,8 +1414,7 @@
    "24": "The Ten Bronze Basins",
    "26": "Completion of the Bronze Works",
    "34": "Completion of the Gold Furnishings",
-   "38": "Solomon’s Palace Complex",
-   "49": "The Courtyard"
+   "50": "The Temple’s Interior · Solomon’s Palace Complex"
   },
   "8": {
    "1": "The Ark Enters the Temple",
@@ -1449,12 +1445,13 @@
    "25": "Jeroboam’s Idolatry"
   },
   "13": {
-   "1": "Jeroboam’s Hand Withers · Ahijah’s Prophecy against Jeroboam",
+   "1": "Jeroboam’s Hand Withers",
    "11": "The Old Prophet and the Man of God"
   },
   "14": {
    "21": "Rehoboam Reigns in Judah",
-   "25": "Shishak Raids Jerusalem"
+   "25": "Shishak Raids Jerusalem",
+   "29": "Nadab Succeeds Jeroboam"
   },
   "15": {
    "1": "Abijam Reigns in Judah",
@@ -1487,21 +1484,25 @@
    "9": "The LORD Speaks to Elijah at Horeb",
    "19": "The Call of Elisha"
   },
+  "20": {
+   "8": "Jezebel’s Plot",
+   "17": "Elijah Denounces Ahab and Jezebel",
+   "25": "Ahab’s Repentance"
+  },
   "21": {
    "1": "Ben-hadad Attacks Samaria",
    "13": "Ahab Defeats Ben-hadad",
    "26": "Another War with Ben-hadad",
    "31": "Ahab Spares Ben-hadad",
    "35": "A Prophet Reproves Ahab",
-   "42": "Elijah Denounces Ahab and Jezebel"
+   "43": "Naboth’s Vineyard"
   },
   "22": {
    "1": "Ahab and the False Prophets",
    "13": "Micaiah Prophesies against Ahab",
    "29": "Ahab’s Defeat and Death",
    "41": "Jehoshaphat Reigns in Judah",
-   "52": "Ahaziah Reigns in Israel",
-   "53": "Ahab’s Repentance"
+   "52": "Ahaziah Reigns in Israel"
   }
  },
  "2KI": {
@@ -1631,7 +1632,8 @@
    "4": "Josiah Destroys Idolatry",
    "21": "Josiah Restores the Passover",
    "28": "The Death of Josiah",
-   "31": "Jehoahaz Succeeds Josiah · Jehoiakim Reigns in Judah"
+   "31": "Jehoahaz Succeeds Josiah",
+   "36": "Jehoiakim Reigns in Judah"
   },
   "24": {
    "1": "Babylon Controls Jehoiakim",
@@ -1795,10 +1797,10 @@
  "2CH": {
   "1": {
    "1": "Solomon’s Prayer for Wisdom",
-   "14": "Solomon’s Riches"
+   "14": "Solomon’s Riches",
+   "18": "Preparations for the Temple"
   },
   "2": {
-   "1": "Preparations for the Temple",
    "10": "Hiram’s Reply to Solomon"
   },
   "3": {
@@ -1850,7 +1852,8 @@
   },
   "13": {
    "1": "Abijah Reigns in Judah",
-   "4": "Civil War against Jeroboam"
+   "4": "Civil War against Jeroboam",
+   "23": "Asa Reigns in Judah"
   },
   "15": {
    "1": "The Prophecy of Azariah",
@@ -1962,9 +1965,8 @@
   },
   "36": {
    "1": "Jehoahaz Succeeds Josiah",
-   "5": "Jehoiakim Reigns in Judah",
    "9": "Jehoiachin Reigns in Judah",
-   "11": "Zedekiah Reigns in Judah",
+   "11": "Jehoiakim Reigns in Judah · Zedekiah Reigns in Judah",
    "15": "The Fall of Jerusalem",
    "22": "The Proclamation of Cyrus"
   }
@@ -2045,7 +2047,8 @@
   "7": {
    "1": "Securing the City",
    "4": "The List of Returning Exiles",
-   "70": "Offerings by the Exiles"
+   "70": "Offerings by the Exiles",
+   "73": "Residents Outside Jerusalem"
   },
   "8": {
    "1": "Ezra Reads the Law",
@@ -2128,11 +2131,8 @@
   "17": {
    "1": "Job Prepares for Death"
   },
-  "18": {
-   "1": "Bildad: God Punishes the Wicked"
-  },
   "19": {
-   "1": "Job: My Redeemer Lives"
+   "1": "Bildad: God Punishes the Wicked · Job: My Redeemer Lives"
   },
   "20": {
    "1": "Zophar: Destruction Awaits the Wicked"
@@ -2149,11 +2149,8 @@
   "24": {
    "1": "Job: Judgment for the Wicked"
   },
-  "25": {
-   "1": "Bildad: Man Cannot Be Righteous"
-  },
   "26": {
-   "1": "Job: Who Can Understand God’s Majesty?"
+   "1": "Bildad: Man Cannot Be Righteous · Job: Who Can Understand God’s Majesty?"
   },
   "27": {
    "1": "Job Affirms His Integrity",
@@ -2215,35 +2212,35 @@
    "1": "The Triumphant Messiah"
   },
   "3": {
-   "2": "Deliver Me, O LORD!"
+   "1": "Deliver Me, O LORD!"
   },
   "4": {
-   "2": "Answer Me When I Call!"
+   "1": "Answer Me When I Call!"
   },
   "5": {
-   "2": "Give Ear to My Words"
+   "1": "Give Ear to My Words"
   },
   "6": {
-   "2": "Do Not Rebuke Me in Your Anger"
+   "1": "Do Not Rebuke Me in Your Anger"
   },
   "7": {
-   "2": "I Take Refuge in You"
+   "1": "I Take Refuge in You"
   },
   "8": {
-   "2": "How Majestic Is Your Name!"
+   "1": "How Majestic Is Your Name!"
   },
   "9": {
-   "2": "I Will Give Thanks to the LORD",
+   "1": "I Will Give Thanks to the LORD",
    "22": "The Perils of the Pilgrim"
   },
   "10": {
    "1": "In the LORD I Take Refuge"
   },
   "11": {
-   "2": "The Godly Are No More"
+   "1": "The Godly Are No More"
   },
   "12": {
-   "2": "How Long, O LORD?"
+   "1": "How Long, O LORD?"
   },
   "13": {
    "1": "The Fool Says There Is No God"
@@ -2258,19 +2255,19 @@
    "1": "Hear My Righteous Plea"
   },
   "17": {
-   "2": "The LORD Is My Rock"
+   "1": "The LORD Is My Rock"
   },
   "18": {
-   "2": "The Heavens Declare the Glory of God"
+   "1": "The Heavens Declare the Glory of God"
   },
   "19": {
-   "2": "The Day of Trouble"
+   "1": "The Day of Trouble"
   },
   "20": {
-   "2": "After the Battle"
+   "1": "After the Battle"
   },
   "21": {
-   "2": "The Psalm of the Cross"
+   "1": "The Psalm of the Cross"
   },
   "22": {
    "1": "The LORD Is My Shepherd"
@@ -2294,10 +2291,10 @@
    "1": "Ascribe Glory to the LORD"
   },
   "29": {
-   "2": "You Turned My Mourning into Dancing"
+   "1": "You Turned My Mourning into Dancing"
   },
   "30": {
-   "2": "Into Your Hands I Commit My Spirit"
+   "1": "Into Your Hands I Commit My Spirit"
   },
   "31": {
    "1": "The Joy of Forgiveness"
@@ -2306,115 +2303,115 @@
    "1": "Praise to the Creator"
   },
   "33": {
-   "2": "Taste and See That the LORD Is Good"
+   "1": "Taste and See That the LORD Is Good"
   },
   "34": {
    "1": "Contend with My Opponents, O LORD"
   },
   "35": {
-   "2": "The Transgression of the Wicked"
+   "1": "The Transgression of the Wicked"
   },
   "36": {
    "1": "Delight Yourself in the LORD"
   },
   "37": {
-   "2": "Do Not Rebuke Me in Your Anger"
+   "1": "Do Not Rebuke Me in Your Anger"
   },
   "38": {
-   "2": "I Will Watch My Ways"
+   "1": "I Will Watch My Ways"
   },
   "39": {
-   "2": "I Waited Patiently for the LORD"
+   "1": "I Waited Patiently for the LORD"
   },
   "40": {
-   "2": "Victory over Betrayal"
+   "1": "Victory over Betrayal"
   },
   "41": {
-   "2": "As the Deer Pants for the Water"
+   "1": "As the Deer Pants for the Water"
   },
   "42": {
    "1": "Send Out Your Light"
   },
   "43": {
-   "2": "Redeem Us, O God"
+   "1": "Redeem Us, O God"
   },
   "44": {
-   "2": "My Heart Is Stirred by a Noble Theme"
+   "1": "My Heart Is Stirred by a Noble Theme"
   },
   "45": {
-   "2": "God Is Our Refuge and Strength"
+   "1": "God Is Our Refuge and Strength"
   },
   "46": {
-   "2": "Clap Your Hands, All You Peoples"
+   "1": "Clap Your Hands, All You Peoples"
   },
   "47": {
-   "2": "Broken Bondage"
+   "1": "Broken Bondage"
   },
   "48": {
-   "2": "The Evanescence of Wealth"
+   "1": "The Evanescence of Wealth"
   },
   "49": {
    "1": "The Mighty One Calls"
   },
   "50": {
-   "3": "Create in Me a Clean Heart, O God"
+   "1": "Create in Me a Clean Heart, O God"
   },
   "51": {
-   "3": "Why Do You Boast of Evil?"
+   "1": "Why Do You Boast of Evil?"
   },
   "52": {
-   "2": "The Fool Says There Is No God"
+   "1": "The Fool Says There Is No God"
   },
   "53": {
-   "3": "Save Me by Your Name"
+   "1": "Save Me by Your Name"
   },
   "54": {
-   "2": "Cast Your Burden upon the LORD"
+   "1": "Cast Your Burden upon the LORD"
   },
   "55": {
-   "2": "Be Merciful to Me, O God"
+   "1": "Be Merciful to Me, O God"
   },
   "56": {
-   "2": "In You My Soul Takes Refuge"
+   "1": "In You My Soul Takes Refuge"
   },
   "57": {
-   "2": "God Judges the Earth"
+   "1": "God Judges the Earth"
   },
   "58": {
-   "2": "Deliver Me from My Enemies"
+   "1": "Deliver Me from My Enemies"
   },
   "59": {
-   "3": "Victory with God"
+   "1": "Victory with God"
   },
   "60": {
-   "2": "You Have Heard My Vows"
+   "1": "You Have Heard My Vows"
   },
   "61": {
-   "2": "Waiting on God"
+   "1": "Waiting on God"
   },
   "62": {
-   "2": "Thirsting for God"
+   "1": "Thirsting for God"
   },
   "63": {
-   "2": "The Hurtful Tongue"
+   "1": "The Hurtful Tongue"
   },
   "64": {
-   "2": "Praise Awaits God in Zion"
+   "1": "Praise Awaits God in Zion"
   },
   "65": {
    "1": "Make a Joyful Noise"
   },
   "66": {
-   "2": "May God Cause His Face to Shine upon Us"
+   "1": "May God Cause His Face to Shine upon Us"
   },
   "67": {
-   "2": "God’s Enemies Are Scattered"
+   "1": "God’s Enemies Are Scattered"
   },
   "68": {
-   "2": "The Waters Are up to My Neck"
+   "1": "The Waters Are up to My Neck"
   },
   "69": {
-   "2": "Hurry, O LORD, to Help Me!"
+   "1": "Hurry, O LORD, to Help Me!"
   },
   "70": {
    "1": "Be My Rock of Refuge"
@@ -2429,13 +2426,13 @@
    "1": "Why Have You Rejected Us Forever?"
   },
   "74": {
-   "2": "God’s Righteous Judgment"
+   "1": "God’s Righteous Judgment"
   },
   "75": {
-   "2": "God’s Name Is Great in Israel"
+   "1": "God’s Name Is Great in Israel"
   },
   "76": {
-   "2": "In the Day of Trouble I Sought the LORD"
+   "1": "In the Day of Trouble I Sought the LORD"
   },
   "77": {
    "1": "I Will Open My Mouth in Parables"
@@ -2444,22 +2441,22 @@
    "1": "A Prayer for Deliverance"
   },
   "79": {
-   "2": "Hear Us, O Shepherd of Israel"
+   "1": "Hear Us, O Shepherd of Israel"
   },
   "80": {
-   "2": "Sing for Joy to God Our Strength"
+   "1": "Sing for Joy to God Our Strength"
   },
   "81": {
    "1": "God Presides in the Divine Assembly"
   },
   "82": {
-   "2": "O God, Be Not Silent"
+   "1": "O God, Be Not Silent"
   },
   "83": {
-   "2": "Better Is One Day in Your Courts"
+   "1": "Better Is One Day in Your Courts"
   },
   "84": {
-   "2": "You Showed Favor to Your Land"
+   "1": "You Showed Favor to Your Land"
   },
   "85": {
    "1": "Tried but Trusting"
@@ -2468,10 +2465,10 @@
    "1": "The LORD Loves the Gates of Zion"
   },
   "87": {
-   "2": "I Cry Out before You"
+   "1": "I Cry Out before You"
   },
   "88": {
-   "2": "I Will Sing of His Love Forever"
+   "1": "I Will Sing of His Love Forever"
   },
   "89": {
    "1": "From Everlasting to Everlasting"
@@ -2480,7 +2477,7 @@
    "1": "You Are My Refuge and My Fortress"
   },
   "91": {
-   "2": "How Great Are Your Works!"
+   "1": "How Great Are Your Works!"
   },
   "92": {
    "1": "The LORD Reigns!"
@@ -2510,7 +2507,7 @@
    "1": "I Will Set No Worthless Thing before My Eyes"
   },
   "101": {
-   "2": "The Prayer of the Afflicted"
+   "1": "The Prayer of the Afflicted"
   },
   "102": {
    "1": "Bless the LORD, O My Soul"
@@ -2528,7 +2525,7 @@
    "1": "Thanksgiving for Deliverance"
   },
   "107": {
-   "2": "Israel’s Kingdom Blessing"
+   "1": "Israel’s Kingdom Blessing"
   },
   "108": {
    "1": "The Song of the Slandered"
@@ -2622,13 +2619,13 @@
    "1": "You Have Searched Me and Known Me"
   },
   "139": {
-   "2": "Rescue Me from Evil Men"
+   "1": "Rescue Me from Evil Men"
   },
   "140": {
    "1": "Come Quickly to Me"
   },
   "141": {
-   "2": "I Lift My Voice to the LORD"
+   "1": "I Lift My Voice to the LORD"
   },
   "142": {
    "1": "I Stretch Out My Hands to You"
@@ -2709,9 +2706,6 @@
   "17": {
    "1": "Better a Dry Morsel in Quietness"
   },
-  "18": {
-   "1": "The Selfishness of the Unfriendly"
-  },
   "20": {
    "1": "Wine Is a Mocker"
   },
@@ -2730,7 +2724,7 @@
   "23": {
    "1": "True Riches · Saying 7",
    "4": "Saying 8",
-   "6": "Saying 9",
+   "6": "Saying 9 · Do Not Envy · Saying 20",
    "9": "Saying 10",
    "10": "Saying 11",
    "12": "Saying 12",
@@ -2743,7 +2737,6 @@
    "29": "Saying 19"
   },
   "24": {
-   "1": "Do Not Envy · Saying 20",
    "3": "Saying 21",
    "5": "Saying 22",
    "7": "Saying 23",
@@ -2754,7 +2747,8 @@
    "17": "Saying 28",
    "19": "Saying 29",
    "21": "Saying 30",
-   "23": "Further Sayings of the Wise"
+   "23": "Further Sayings of the Wise",
+   "54": "The Sayings for King Lemuel"
   },
   "25": {
    "1": "More Proverbs of Solomon"
@@ -2792,7 +2786,8 @@
   },
   "4": {
    "1": "The Evil of Oppression",
-   "13": "The Futility of Power"
+   "13": "The Futility of Power",
+   "17": "Approaching God with Awe"
   },
   "5": {
    "7": "The Futility of Wealth"
@@ -2915,7 +2910,8 @@
   "8": {
    "1": "Assyrian Invasion Prophesied",
    "11": "A Call to Fear God",
-   "19": "Darkness and Light"
+   "19": "Darkness and Light",
+   "23": "Unto Us a Child Is Born"
   },
   "9": {
    "7": "Judgment against Israel’s Pride",
@@ -3135,10 +3131,10 @@
  },
  "JER": {
   "1": {
-   "1": "The Call of Jeremiah"
+   "1": "The Call of Jeremiah",
+   "4": "Israel Has Forsaken God"
   },
   "2": {
-   "2": "Israel Has Forsaken God",
    "14": "The Consequence of Israel’s Sin",
    "23": "Israel’s Unfaithfulness"
   },
@@ -3168,7 +3164,8 @@
   "8": {
    "1": "Judah’s Sin and Punishment",
    "14": "The People Respond",
-   "18": "Jeremiah Weeps for His People"
+   "18": "Jeremiah Weeps for His People",
+   "23": "A Lament over Zion"
   },
   "10": {
    "1": "The Sovereignty of God",
@@ -3236,34 +3233,51 @@
    "1": "The Good and Bad Figs"
   },
   "25": {
-   "1": "Seventy Years of Captivity"
+   "1": "Seventy Years of Captivity",
+   "20": "A Warning to the Cities of Judah · Judgment on Elam"
+  },
+  "27": {
+   "1": "The Yoke of Nebuchadnezzar · A Prophecy against Babylon",
+   "4": "Hope for Israel and Judah",
+   "11": "Babylon’s Fall Is Certain",
+   "17": "Redemption for God’s People",
+   "21": "The Destruction of Babylon"
+  },
+  "28": {
+   "15": "Praise to the God of Jacob",
+   "59": "Hananiah’s False Prophecy",
+   "64": "The Message to Shemaiah"
+  },
+  "30": {
+   "1": "Judgment on Edom",
+   "17": "Mourning Turned to Joy · Judgment on the Ammonites",
+   "29": "Judgment on Damascus"
   },
   "32": {
    "15": "The Cup of God’s Wrath",
    "34": "The Cry of the Shepherds"
   },
   "33": {
-   "1": "A Warning to the Cities of Judah",
+   "1": "Jeremiah Buys Hanamel’s Field",
    "7": "Jeremiah Threatened with Death",
    "16": "Jeremiah Spared from Death",
    "20": "The Prophet Uriah"
   },
-  "35": {
-   "1": "Hananiah’s False Prophecy"
+  "34": {
+   "22": "The Covenant with David"
   },
   "36": {
    "1": "Jeremiah’s Letter to the Exiles",
-   "24": "The Message to Shemaiah"
+   "30": "The Obedience of the Rechabites · Judah Rebuked"
   },
   "37": {
-   "1": "The Restoration of Israel and Judah"
+   "2": "Jeremiah’s Scroll Read in the Palace · Jeremiah Cast into the Cistern"
   },
   "38": {
-   "1": "Mourning Turned to Joy",
    "26": "The New Covenant"
   },
   "39": {
-   "1": "Jeremiah Buys Hanamel’s Field",
+   "1": "The Fall of Jerusalem",
    "16": "Jeremiah Prays for Understanding",
    "26": "The LORD Answers Jeremiah",
    "36": "A Promise of Restoration"
@@ -3275,53 +3289,41 @@
    "1": "A Prophecy against Zedekiah",
    "8": "Freedom for Hebrew Slaves"
   },
-  "42": {
-   "1": "The Obedience of the Rechabites",
-   "12": "Judah Rebuked"
-  },
   "43": {
    "1": "Jeremiah’s Scroll Read in the Temple",
-   "11": "Jeremiah’s Scroll Read in the Palace",
    "20": "Jehoiakim Burns the Scroll",
    "27": "Jeremiah Rewrites the Scroll"
   },
   "44": {
-   "1": "Jeremiah Warns Zedekiah",
+   "6": "Judgment on the Jews in Egypt",
    "11": "Jeremiah Imprisoned"
   },
-  "45": {
-   "1": "Jeremiah Cast into the Cistern"
-  },
   "46": {
-   "1": "The Fall of Jerusalem"
+   "15": "Judgment on Egypt · Judgment on the Philistines"
   },
   "47": {
-   "1": "Jeremiah Remains in Judah",
-   "7": "Gedaliah Governs in Judah",
-   "13": "The Plot against Gedaliah"
+   "1": "Jeremiah Remains in Judah"
   },
   "48": {
-   "1": "The Murder of Gedaliah",
-   "11": "Johanan Rescues the Captives"
+   "1": "The Murder of Gedaliah"
   },
   "49": {
-   "1": "A Warning against Going to Egypt"
+   "9": "Judgment on Babylon",
+   "15": "Judgment on Kedar and Hazor"
   },
   "50": {
-   "1": "Jeremiah Taken to Egypt"
+   "1": "Jeremiah Taken to Egypt",
+   "13": "Babylon’s Punishment"
   },
   "51": {
-   "1": "Judgment on the Jews in Egypt",
    "15": "The Stubbornness of the People",
    "20": "Calamity for the Jews",
-   "31": "Jeremiah’s Message to Baruch",
-   "34": "Judgment on Moab · Judgment on the Ammonites · Judgment on Edom · Judgment on Babylon"
+   "31": "Jeremiah’s Message to Baruch"
   },
   "52": {
    "1": "The Fall of Jerusalem Recounted",
    "12": "The Temple Destroyed",
    "24": "Captives Carried to Babylon",
-   "26": "Redemption for God’s People",
    "31": "Jehoiachin Released from Prison"
   }
  },
@@ -3691,10 +3693,10 @@
   },
   "4": {
    "1": "The Mountain of the House of the LORD",
-   "6": "The Restoration of Zion"
+   "6": "The Restoration of Zion",
+   "14": "A Ruler from Bethlehem"
   },
   "5": {
-   "1": "A Ruler from Bethlehem",
    "6": "The Remnant of Jacob"
   },
   "6": {
@@ -3757,9 +3759,8 @@
    "12": "The People Obey"
   },
   "2": {
-   "1": "The Coming Glory of God’s House",
    "10": "Blessings for a Defiled People",
-   "20": "Zerubbabel the LORD’s Signet Ring"
+   "20": "The Coming Glory of God’s House · Zerubbabel the LORD’s Signet Ring"
   }
  },
  "ZEC": {
@@ -3768,7 +3769,7 @@
    "7": "The Vision of the Horses"
   },
   "2": {
-   "5": "The Vision of the Measuring Line",
+   "5": "The Vision of the Horns and the Craftsmen · The Vision of the Measuring Line",
    "10": "The Redemption of Zion"
   },
   "3": {
@@ -4203,10 +4204,18 @@
    "1": "True Sacrifice",
    "11": "God Hears the Oppressed"
   },
-  "33": {
-   "1": "A Prayer for God's People"
+  "34": {
+   "1": "The Cares of Riches",
+   "12": "Table Manners",
+   "25": "Wine"
+  },
+  "35": {
+   "1": "Behavior at a Feast",
+   "14": "Reverence and the Law"
   },
   "36": {
+   "7": "Why Days Differ",
+   "17": "A Prayer for God's People",
    "23": "Choosing Well",
    "26": "A Good Wife"
   },
@@ -4675,7 +4684,8 @@
   },
   "7": {
    "1": "In Praise of Eleazar",
-   "16": "Only the Devout Master the Passions"
+   "16": "Only the Devout Master the Passions",
+   "24": "The Seven Brothers Brought In"
   },
   "8": {
    "4": "The Tyrant's Offer",
@@ -4726,7 +4736,7 @@
   },
   "18": {
    "1": "A Call to Obey the Law",
-   "6": "The Mother's Words to Her Sons",
+   "7": "The Mother's Words to Her Sons",
    "20": "The Vengeance of God"
   }
  }

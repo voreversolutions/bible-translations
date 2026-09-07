@@ -192,7 +192,7 @@
   },
   "39": {
    "1": "Joseph and Potiphar’s Wife",
-   "13": "Joseph Falsely Imprisoned"
+   "18": "Joseph Falsely Imprisoned"
   },
   "40": {
    "1": "The Cupbearer and the Baker"
@@ -246,7 +246,7 @@
   "50": {
    "1": "Mourning and Burial for Jacob",
    "15": "Joseph Comforts His Brothers",
-   "21": "The Death of Joseph"
+   "22": "The Death of Joseph"
   }
  },
  "EXO": {
@@ -514,7 +514,7 @@
   "15": {
    "1": "The Uncleanness of Men",
    "13": "The Cleansing of Men",
-   "20": "The Uncleanness of Women",
+   "19": "The Uncleanness of Women",
    "28": "The Cleansing of Women"
   },
   "16": {
@@ -697,8 +697,8 @@
   },
   "24": {
    "1": "Balaam’s Third Oracle",
+   "3": "Balaam’s Fourth Oracle",
    "10": "Balak Dismisses Balaam",
-   "15": "Balaam’s Fourth Oracle",
    "20": "Balaam’s Final Three Oracles"
   },
   "25": {
@@ -733,7 +733,7 @@
    "9": "The Sabbath Offerings",
    "11": "The Monthly Offerings",
    "16": "Passover and the Feast of Unleavened Bread",
-   "18": "The Feast of Weeks"
+   "26": "The Feast of Weeks"
   },
   "29": {
    "1": "The Feast of Trumpets",
@@ -1005,9 +1005,8 @@
    "1": "Simeon’s Inheritance",
    "10": "Zebulun’s Inheritance",
    "17": "Issachar’s Inheritance",
-   "24": "Asher’s Inheritance",
    "32": "Naphtali’s Inheritance",
-   "40": "Dan’s Inheritance",
+   "40": "Asher’s Inheritance · Dan’s Inheritance",
    "49": "Joshua’s Inheritance"
   },
   "20": {
@@ -1076,7 +1075,7 @@
    "7": "Jotham’s Parable",
    "22": "Gaal Conspires with the Shechemites",
    "30": "The Fall of Shechem",
-   "50": "Abimelech’s Punishment"
+   "39": "Abimelech’s Punishment"
   },
   "10": {
    "1": "Tola",
@@ -1658,7 +1657,8 @@
    "4": "Josiah Destroys Idolatry",
    "21": "Josiah Restores the Passover",
    "28": "The Death of Josiah",
-   "36": "Jehoahaz Succeeds Josiah · Jehoiakim Reigns in Judah"
+   "31": "Jehoahaz Succeeds Josiah",
+   "36": "Jehoiakim Reigns in Judah"
   },
   "24": {
    "1": "Babylon Controls Jehoiakim",
@@ -2106,7 +2106,7 @@
  },
  "TOB": {
   "1": {
-   "3": "Tobit's Faithfulness in Exile",
+   "2": "Tobit's Faithfulness in Exile",
    "10": "Tobit Buries the Dead"
   },
   "2": {
@@ -2142,8 +2142,7 @@
    "10": "Tobias Departs with Sarah"
   },
   "11": {
-   "1": "The Return to Nineveh",
-   "19": "Tobit Blesses Sarah"
+   "1": "The Return to Nineveh"
   },
   "12": {
    "1": "Raphael Reveals Himself"
@@ -2154,13 +2153,14 @@
  },
  "JDT": {
   "1": {
-   "1": "The Kings of Assyria and Media"
+   "5": "The Kings of Assyria and Media · The Defeat of Arphaxad"
   },
   "2": {
    "1": "Holofernes Sent Against the West"
   },
   "4": {
-   "1": "Israel Prepares for War"
+   "1": "Israel Prepares for War",
+   "8": "Israel Cries Out to God"
   },
   "5": {
    "1": "Achior Recounts Israel's History"
@@ -2185,7 +2185,7 @@
    "1": "Judith Before Holofernes"
   },
   "12": {
-   "9": "The Banquet of Holofernes"
+   "10": "The Banquet of Holofernes"
   },
   "13": {
    "1": "Judith Beheads Holofernes"
@@ -2197,8 +2197,8 @@
    "9": "Israel Honors Judith"
   },
   "16": {
-   "2": "The Song of Judith",
-   "26": "The Later Years of Judith"
+   "1": "The Song of Judith",
+   "25": "The Later Years of Judith"
   }
  },
  "EST": {
@@ -2224,10 +2224,10 @@
    "9": "Haman’s Plot against Mordecai"
   },
   "6": {
-   "1": "Mordecai Is Honored"
+   "1": "Mordecai Is Honored",
+   "14": "Esther Pleads for Her People"
   },
   "7": {
-   "1": "Esther Pleads for Her People",
    "7": "The Hanging of Haman"
   },
   "8": {
@@ -2248,7 +2248,7 @@
    "1": "Alexander and His Successors",
    "11": "Antiochus Epiphanes and the Renegades",
    "17": "Antiochus Plunders the Temple",
-   "31": "Jerusalem Occupied",
+   "30": "Jerusalem Occupied",
    "43": "The Decree Against the Law"
   },
   "2": {
@@ -2358,7 +2358,7 @@
   "2": {
    "1": "Jeremiah and the Tent",
    "13": "The Records of Nehemiah",
-   "17": "An Invitation to the Feast",
+   "16": "An Invitation to the Feast",
    "20": "The Author's Preface"
   },
   "3": {
@@ -2440,11 +2440,10 @@
  "JOB": {
   "1": {
    "1": "Job’s Character and Wealth",
-   "6": "Satan’s First Attack",
+   "6": "Satan’s First Attack · Job Loses His Health",
    "13": "Job Loses His Children and Possessions"
   },
   "2": {
-   "1": "Job Loses His Health",
    "11": "Job’s Three Friends"
   },
   "3": {
@@ -2559,7 +2558,7 @@
   },
   "39": {
    "1": "The LORD Speaks of His Creation",
-   "31": "Job Humbles Himself before the LORD"
+   "33": "Job Humbles Himself before the LORD"
   },
   "40": {
    "1": "The LORD Challenges Job Again",
@@ -2579,35 +2578,35 @@
    "1": "The Triumphant Messiah"
   },
   "3": {
-   "2": "Deliver Me, O LORD!"
+   "1": "Deliver Me, O LORD!"
   },
   "4": {
-   "2": "Answer Me When I Call!"
+   "1": "Answer Me When I Call!"
   },
   "5": {
-   "2": "Give Ear to My Words"
+   "1": "Give Ear to My Words"
   },
   "6": {
-   "2": "Do Not Rebuke Me in Your Anger"
+   "1": "Do Not Rebuke Me in Your Anger"
   },
   "7": {
-   "2": "I Take Refuge in You"
+   "1": "I Take Refuge in You"
   },
   "8": {
-   "2": "How Majestic Is Your Name!"
+   "1": "How Majestic Is Your Name!"
   },
   "9": {
-   "2": "I Will Give Thanks to the LORD",
+   "1": "I Will Give Thanks to the LORD",
    "22": "The Perils of the Pilgrim"
   },
   "10": {
-   "2": "In the LORD I Take Refuge"
+   "1": "In the LORD I Take Refuge"
   },
   "11": {
-   "2": "The Godly Are No More"
+   "1": "The Godly Are No More"
   },
   "12": {
-   "2": "How Long, O LORD?"
+   "1": "How Long, O LORD?"
   },
   "13": {
    "1": "The Fool Says There Is No God"
@@ -2622,19 +2621,19 @@
    "1": "Hear My Righteous Plea"
   },
   "17": {
-   "2": "The LORD Is My Rock"
+   "1": "The LORD Is My Rock"
   },
   "18": {
-   "2": "The Heavens Declare the Glory of God"
+   "1": "The Heavens Declare the Glory of God"
   },
   "19": {
-   "2": "The Day of Trouble"
+   "1": "The Day of Trouble"
   },
   "20": {
-   "2": "After the Battle"
+   "1": "After the Battle"
   },
   "21": {
-   "2": "The Psalm of the Cross"
+   "1": "The Psalm of the Cross"
   },
   "22": {
    "1": "The LORD Is My Shepherd"
@@ -2658,10 +2657,10 @@
    "1": "Ascribe Glory to the LORD"
   },
   "29": {
-   "2": "You Turned My Mourning into Dancing"
+   "1": "You Turned My Mourning into Dancing"
   },
   "30": {
-   "2": "Into Your Hands I Commit My Spirit"
+   "1": "Into Your Hands I Commit My Spirit"
   },
   "31": {
    "1": "The Joy of Forgiveness"
@@ -2670,115 +2669,115 @@
    "1": "Praise to the Creator"
   },
   "33": {
-   "2": "Taste and See That the LORD Is Good"
+   "1": "Taste and See That the LORD Is Good"
   },
   "34": {
    "1": "Contend with My Opponents, O LORD"
   },
   "35": {
-   "2": "The Transgression of the Wicked"
+   "1": "The Transgression of the Wicked"
   },
   "36": {
    "1": "Delight Yourself in the LORD"
   },
   "37": {
-   "2": "Do Not Rebuke Me in Your Anger"
+   "1": "Do Not Rebuke Me in Your Anger"
   },
   "38": {
-   "2": "I Will Watch My Ways"
+   "1": "I Will Watch My Ways"
   },
   "39": {
-   "2": "I Waited Patiently for the LORD"
+   "1": "I Waited Patiently for the LORD"
   },
   "40": {
-   "2": "Victory over Betrayal"
+   "1": "Victory over Betrayal"
   },
   "41": {
-   "2": "As the Deer Pants for the Water"
+   "1": "As the Deer Pants for the Water"
   },
   "42": {
    "1": "Send Out Your Light"
   },
   "43": {
-   "2": "Redeem Us, O God"
+   "1": "Redeem Us, O God"
   },
   "44": {
-   "2": "My Heart Is Stirred by a Noble Theme"
+   "1": "My Heart Is Stirred by a Noble Theme"
   },
   "45": {
-   "2": "God Is Our Refuge and Strength"
+   "1": "God Is Our Refuge and Strength"
   },
   "46": {
-   "2": "Clap Your Hands, All You Peoples"
+   "1": "Clap Your Hands, All You Peoples"
   },
   "47": {
-   "2": "Broken Bondage"
+   "1": "Broken Bondage"
   },
   "48": {
-   "2": "The Evanescence of Wealth"
+   "1": "The Evanescence of Wealth"
   },
   "49": {
    "1": "The Mighty One Calls"
   },
   "50": {
-   "3": "Create in Me a Clean Heart, O God"
+   "1": "Create in Me a Clean Heart, O God"
   },
   "51": {
-   "3": "Why Do You Boast of Evil?"
+   "1": "Why Do You Boast of Evil?"
   },
   "52": {
-   "2": "The Fool Says There Is No God"
+   "1": "The Fool Says There Is No God"
   },
   "53": {
-   "3": "Save Me by Your Name"
+   "1": "Save Me by Your Name"
   },
   "54": {
-   "2": "Cast Your Burden upon the LORD"
+   "1": "Cast Your Burden upon the LORD"
   },
   "55": {
-   "2": "Be Merciful to Me, O God"
+   "1": "Be Merciful to Me, O God"
   },
   "56": {
-   "2": "In You My Soul Takes Refuge"
+   "1": "In You My Soul Takes Refuge"
   },
   "57": {
-   "2": "God Judges the Earth"
+   "1": "God Judges the Earth"
   },
   "58": {
-   "2": "Deliver Me from My Enemies"
+   "1": "Deliver Me from My Enemies"
   },
   "59": {
-   "3": "Victory with God"
+   "1": "Victory with God"
   },
   "60": {
-   "2": "You Have Heard My Vows"
+   "1": "You Have Heard My Vows"
   },
   "61": {
-   "2": "Waiting on God"
+   "1": "Waiting on God"
   },
   "62": {
-   "2": "Thirsting for God"
+   "1": "Thirsting for God"
   },
   "63": {
-   "2": "The Hurtful Tongue"
+   "1": "The Hurtful Tongue"
   },
   "64": {
-   "2": "Praise Awaits God in Zion"
+   "1": "Praise Awaits God in Zion"
   },
   "65": {
    "1": "Make a Joyful Noise"
   },
   "66": {
-   "2": "May God Cause His Face to Shine upon Us"
+   "1": "May God Cause His Face to Shine upon Us"
   },
   "67": {
-   "2": "God’s Enemies Are Scattered"
+   "1": "God’s Enemies Are Scattered"
   },
   "68": {
-   "2": "The Waters Are up to My Neck"
+   "1": "The Waters Are up to My Neck"
   },
   "69": {
-   "2": "Hurry, O LORD, to Help Me!"
+   "1": "Hurry, O LORD, to Help Me!"
   },
   "70": {
    "1": "Be My Rock of Refuge"
@@ -2793,13 +2792,13 @@
    "1": "Why Have You Rejected Us Forever?"
   },
   "74": {
-   "2": "God’s Righteous Judgment"
+   "1": "God’s Righteous Judgment"
   },
   "75": {
-   "2": "God’s Name Is Great in Israel"
+   "1": "God’s Name Is Great in Israel"
   },
   "76": {
-   "2": "In the Day of Trouble I Sought the LORD"
+   "1": "In the Day of Trouble I Sought the LORD"
   },
   "77": {
    "1": "I Will Open My Mouth in Parables"
@@ -2808,22 +2807,22 @@
    "1": "A Prayer for Deliverance"
   },
   "79": {
-   "2": "Hear Us, O Shepherd of Israel"
+   "1": "Hear Us, O Shepherd of Israel"
   },
   "80": {
-   "2": "Sing for Joy to God Our Strength"
+   "1": "Sing for Joy to God Our Strength"
   },
   "81": {
    "1": "God Presides in the Divine Assembly"
   },
   "82": {
-   "2": "O God, Be Not Silent"
+   "1": "O God, Be Not Silent"
   },
   "83": {
-   "2": "Better Is One Day in Your Courts"
+   "1": "Better Is One Day in Your Courts"
   },
   "84": {
-   "2": "You Showed Favor to Your Land"
+   "1": "You Showed Favor to Your Land"
   },
   "85": {
    "1": "Tried but Trusting"
@@ -2832,10 +2831,10 @@
    "1": "The LORD Loves the Gates of Zion"
   },
   "87": {
-   "2": "I Cry Out before You"
+   "1": "I Cry Out before You"
   },
   "88": {
-   "2": "I Will Sing of His Love Forever"
+   "1": "I Will Sing of His Love Forever"
   },
   "89": {
    "1": "From Everlasting to Everlasting"
@@ -2844,7 +2843,7 @@
    "1": "You Are My Refuge and My Fortress"
   },
   "91": {
-   "2": "How Great Are Your Works!"
+   "1": "How Great Are Your Works!"
   },
   "92": {
    "1": "The LORD Reigns!"
@@ -2874,7 +2873,7 @@
    "1": "I Will Set No Worthless Thing before My Eyes"
   },
   "101": {
-   "2": "The Prayer of the Afflicted"
+   "1": "The Prayer of the Afflicted"
   },
   "102": {
    "1": "Bless the LORD, O My Soul"
@@ -2892,7 +2891,7 @@
    "1": "Thanksgiving for Deliverance"
   },
   "107": {
-   "2": "Israel’s Kingdom Blessing"
+   "1": "Israel’s Kingdom Blessing"
   },
   "108": {
    "1": "The Song of the Slandered"
@@ -2986,13 +2985,13 @@
    "1": "You Have Searched Me and Known Me"
   },
   "139": {
-   "2": "Rescue Me from Evil Men"
+   "1": "Rescue Me from Evil Men"
   },
   "140": {
    "1": "Come Quickly to Me"
   },
   "141": {
-   "2": "I Lift My Voice to the LORD"
+   "1": "I Lift My Voice to the LORD"
   },
   "142": {
    "1": "I Stretch Out My Hands to You"
@@ -3166,7 +3165,8 @@
   },
   "4": {
    "1": "The Evil of Oppression",
-   "13": "The Futility of Power"
+   "13": "The Futility of Power",
+   "17": "Approaching God with Awe"
   },
   "5": {
    "7": "The Futility of Wealth"
@@ -3232,10 +3232,11 @@
    "1": "The Bride and Her Beloved · The Bridegroom",
    "2": "The Friends · The Bride",
    "9": "The Friends",
-   "10": "The Bride"
+   "10": "The Bride",
+   "17": "Together in the Garden · The Friends"
   },
   "6": {
-   "1": "Together in the Garden · The Friends · The Bride",
+   "1": "The Bride",
    "3": "The Bridegroom",
    "9": "The Friends",
    "10": "The Bridegroom",
@@ -3299,8 +3300,7 @@
   },
   "11": {
    "6": "Water for Israel, Blood for Egypt",
-   "16": "Punished by What They Worshiped",
-   "22": "God's Mercy Toward All"
+   "16": "Punished by What They Worshiped"
   },
   "12": {
    "3": "The Old Inhabitants of Canaan",
@@ -3344,7 +3344,8 @@
   "1": {
    "1": "The Origin of Wisdom",
    "11": "The Fear of the Lord",
-   "33": "Do Not Be a Hypocrite"
+   "26": "Do Not Be a Hypocrite",
+   "28": "Unjust Anger"
   },
   "2": {
    "1": "Trust God in Trial"
@@ -3352,7 +3353,7 @@
   "3": {
    "2": "Duties Toward Parents",
    "19": "Humility",
-   "28": "The Stubborn Heart",
+   "27": "The Stubborn Heart",
    "33": "Almsgiving Atones for Sin"
   },
   "4": {
@@ -3371,11 +3372,11 @@
    "1": "Avoid Evil and Pride",
    "24": "Household and Servants",
    "29": "Honor Your Parents",
+   "31": "Honor the Priests",
    "36": "Remember the Poor and the Dead"
   },
   "8": {
-   "2": "Prudence with Others",
-   "11": "Listen to the Wise",
+   "1": "Prudence with Others",
    "13": "Avoid the Sinner and the Fool"
   },
   "9": {
@@ -3399,25 +3400,28 @@
    "8": "Beware of Your Enemy"
   },
   "13": {
-   "2": "Rich and Poor"
+   "1": "Rich and Poor"
   },
   "14": {
    "1": "A Blameless Conscience",
-   "3": "The Miser"
+   "3": "The Miser",
+   "22": "Blessed Is the Seeker of Wisdom"
   },
   "15": {
-   "11": "God Is Not the Author of Sin"
+   "11": "God Is Not the Author of Sin",
+   "22": "Ungodly Children"
   },
   "16": {
-   "2": "Ungodly Children",
    "17": "Nothing Is Hidden from God",
    "24": "God's Order in Creation"
   },
   "17": {
-   "24": "A Call to Repentance"
+   "13": "The Lord Sees All Ways",
+   "22": "A Call to Repentance"
   },
   "18": {
    "1": "The Greatness of God",
+   "7": "The Frailty of Man",
    "15": "Give Without Reproach",
    "19": "Forethought and Self-Control",
    "30": "Master Your Desires"
@@ -3425,7 +3429,7 @@
   "19": {
    "4": "The Loose Tongue",
    "13": "Reprove Before You Condemn",
-   "17": "True and False Wisdom"
+   "18": "True and False Wisdom"
   },
   "20": {
    "9": "Gain and Loss",
@@ -3434,29 +3438,26 @@
    "29": "Wisdom Concealed and Revealed"
   },
   "21": {
-   "2": "Flee from Sin",
-   "14": "The Wise and the Foolish"
+   "1": "Flee from Sin"
   },
   "22": {
    "1": "The Sluggard",
    "3": "Sons and Daughters",
-   "14": "Mourning the Dead and the Fool",
+   "11": "Mourning the Dead and the Fool",
    "24": "Wounding a Friend",
    "33": "A Guard Over the Mouth"
   },
   "23": {
    "7": "Discipline of the Mouth",
+   "16": "Foul Speech",
    "32": "The Adulterous Wife"
   },
   "24": {
-   "4": "The Praise of Wisdom",
-   "33": "Wisdom and the Law"
+   "1": "The Praise of Wisdom"
   },
   "25": {
-   "3": "Things That Please and Displease",
    "5": "Old Age Without Wisdom",
-   "10": "Ten Happy Things",
-   "20": "A Wicked Wife"
+   "17": "A Wicked Wife"
   },
   "26": {
    "25": "Three Griefs",
@@ -3465,13 +3466,13 @@
   "27": {
    "5": "A Man Revealed by His Speech",
    "9": "Righteousness and Deceit",
-   "18": "Betraying Secrets",
+   "17": "Betraying Secrets",
    "25": "Treachery Returns on Its Author",
    "33": "Wrath and Vengeance"
   },
   "28": {
    "10": "Avoid Quarrels",
-   "17": "The Slanderous Tongue"
+   "15": "The Slanderous Tongue"
   },
   "29": {
    "1": "Lending and Repaying",
@@ -3481,14 +3482,16 @@
   },
   "30": {
    "1": "Discipline of Children",
-   "14": "Health Is Better Than Wealth"
+   "14": "Health Is Better Than Wealth",
+   "22": "Gladness of Heart"
   },
   "31": {
    "1": "The Cares of Riches",
-   "12": "Table Manners"
+   "12": "Table Manners",
+   "30": "Wine"
   },
   "32": {
-   "3": "Behavior at a Feast",
+   "1": "Behavior at a Feast",
    "18": "Reverence and the Law"
   },
   "33": {
@@ -3499,11 +3502,10 @@
   "34": {
    "1": "Dreams and Vain Hopes",
    "10": "Travel and Experience",
-   "22": "Offerings from Injustice"
+   "21": "Offerings from Injustice"
   },
   "35": {
-   "3": "True Sacrifice",
-   "14": "God Hears the Oppressed"
+   "1": "True Sacrifice"
   },
   "36": {
    "1": "A Prayer for God's People",
@@ -3512,26 +3514,25 @@
   },
   "37": {
    "1": "Friends and Counselors",
-   "19": "Reason Before Action",
+   "8": "Choosing a Counselor",
+   "20": "Reason Before Action",
    "30": "Moderation in Eating"
   },
   "38": {
    "1": "Physicians and Healing",
-   "17": "Mourning the Dead",
+   "16": "Mourning the Dead",
    "25": "The Scribe and the Craftsman"
   },
   "39": {
-   "1": "The Scribe Who Studies the Law",
-   "17": "Praise for the Works of God"
+   "1": "The Scribe Who Studies the Law"
   },
   "40": {
    "1": "The Troubles of Human Life",
    "12": "What Endures",
-   "18": "What Makes Life Sweet",
-   "30": "Do Not Live by Begging"
+   "18": "What Makes Life Sweet"
   },
   "41": {
-   "3": "Thoughts on Death",
+   "1": "Thoughts on Death",
    "8": "The Children of Sinners",
    "17": "What to Be Ashamed Of"
   },
@@ -3549,31 +3550,29 @@
   },
   "44": {
    "1": "In Praise of the Fathers",
-   "17": "Enoch",
+   "16": "Enoch",
    "18": "Noah",
-   "20": "Abraham"
+   "20": "Abraham",
+   "24": "Isaac and Jacob"
   },
   "45": {
    "1": "Moses",
-   "7": "Aaron",
-   "29": "Phinehas"
+   "7": "Aaron"
   },
   "46": {
    "2": "Joshua Son of Nun",
    "9": "Joshua and Caleb at Kadesh",
-   "14": "The Judges",
+   "13": "The Judges",
    "16": "Samuel"
   },
   "47": {
    "1": "Nathan",
    "2": "David",
-   "29": "Rehoboam and Jeroboam",
-   "30": "The Sin of Israel"
+   "14": "Solomon"
   },
   "48": {
    "1": "Elijah",
    "13": "Elisha",
-   "17": "The Exile of Israel",
    "19": "Hezekiah",
    "25": "Isaiah"
   },
@@ -3591,7 +3590,7 @@
    "29": "The Author's Epilogue"
   },
   "51": {
-   "1": "A Prayer of Thanksgiving",
+   "17": "A Prayer of Thanksgiving",
    "18": "The Search for Wisdom"
   }
  },
@@ -4357,7 +4356,7 @@
   "6": {
    "1": "The Plot against Daniel",
    "10": "Daniel in the Lions’ Den",
-   "25": "Darius Honors God"
+   "25": "Nebuchadnezzar Confesses God’s Kingdom · Darius Honors God"
   },
   "7": {
    "1": "Daniel’s Vision of the Four Beasts",
@@ -4790,7 +4789,7 @@
   },
   "17": {
    "1": "The Transfiguration",
-   "13": "The Boy with a Demon",
+   "14": "The Boy with a Demon",
    "18": "The Power of Faith",
    "21": "The Second Prediction of the Passion",
    "23": "The Temple Tax"
@@ -4935,10 +4934,10 @@
    "22": "The Blind Man at Bethsaida",
    "27": "Peter’s Confession of Christ",
    "31": "Christ’s Passion Foretold",
-   "34": "Take Up Your Cross"
+   "34": "Take Up Your Cross",
+   "39": "The Transfiguration"
   },
   "9": {
-   "1": "The Transfiguration",
    "13": "The Boy with an Evil Spirit",
    "29": "The Second Prediction of the Passion",
    "32": "The Greatest in the Kingdom",
@@ -5083,7 +5082,7 @@
    "23": "Take Up Your Cross",
    "28": "The Transfiguration",
    "37": "The Boy with an Evil Spirit",
-   "43": "The Second Prediction of the Passion",
+   "44": "The Second Prediction of the Passion",
    "46": "The Greatest in the Kingdom",
    "51": "The Samaritans Reject Jesus",
    "57": "The Cost of Discipleship"
@@ -5380,7 +5379,7 @@
    "30": "The Call of Moses",
    "39": "The Rebellion of Israel",
    "44": "The Tabernacle of the Testimony",
-   "53": "The Stoning of Stephen"
+   "54": "The Stoning of Stephen"
   },
   "8": {
    "1": "Saul Persecutes the Church",

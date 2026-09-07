@@ -16,11 +16,11 @@ its versification. Keeping them out of the book files has three consequences tha
   book is untrustworthy" and re-fetches the whole translation, so a heading typo shipped in a book
   file would cost every user 10–40 MB. Headings carry their own tag; the text tag never moves.
 
-  The shipped tag is **`headings-1.2`** — all seven languages in one snapshot. A tag here is a
+  The shipped tag is **`headings-1.3`** — all seven languages in one snapshot. A tag here is a
   snapshot and not a delta: whatever the app asks for, that tag has to hold every language. Never
   move a tag that has been served; jsDelivr caches by tag, so a fix ships as a new tag and the
   app's `bibleHeadingsTag` moves with it. `headings-v1`…`v7` are the per-language tags this was
-  built up under and nothing reads them; `headings-1.0` is the 66-book snapshot 1.1.3 shipped, and `headings-1.1` added the deuterocanon.
+  built up under and nothing reads them; `headings-1.0` is the 66-book snapshot 1.1.3 shipped, `headings-1.1` added the deuterocanon and `headings-1.2` the first four re-anchored editions.
 - **The app degrades to today's behaviour** when a heading file is missing, so a language ships
   when its translation is ready rather than all seven at once.
 - One file, ~127 KB, serves every English edition together.
@@ -44,11 +44,23 @@ its own first verse ("Thirty Sayings of the Wise · Saying 1"). Ten anchors in t
 
 ### Which file the app loads
 
-`headings/<translationId>.json` if it exists, otherwise `headings/<language>.json`. Four editions
-need their own: **dra, cpdv, brenton and lxx2012** number their Psalms the Vulgate's or the
-Septuagint's way, so the English anchors would sit over the wrong psalm in them from Psalm 10 on.
-`Translation.headingSetFor` names those four by their dataset id and everything else by its
-language.
+`headings/<translationId>.json` if it exists, otherwise `headings/<language>.json`. Eight editions
+need their own, for three different reasons:
+
+| Edition | Why |
+|---|---|
+| dra, cpdv | Vulgate Psalms — 10-147 run a number lower, and the superscription is a verse |
+| brenton, lxx2012 | Septuagint Psalms, plus a reordered Jeremiah and 151 psalms |
+| luther1912, elb1905, ostervald | cut chapters the Hebrew way (Malachi 4:1 is Luther's 3:19) |
+| asvbt | the Byzantine text moves the Romans doxology from 16:25 to 14:24 |
+
+`Translation.headingSetFor` names those eight by their dataset id and everything else by its
+language. **All eight of those mismatches resolved against a verse that existed**, so the
+validator reported 99.7% and nothing complained while 71 of Luther's headings sat over the wrong
+verse. Resolution is not correctness; only the audit scripts test correctness.
+
+The three editions numbered exactly like the KJV — bkj, arasvd, bbe — and the two whose only
+differences are single merged verses — bes, almeida — read their language's file.
 
 ## Source and licence
 
@@ -118,11 +130,18 @@ A **book** the edition does not carry is counted apart from these and does not m
 English anchor set now spans two canons, so scoring Tobit against the KJV would report a broken
 extraction where the only fact is that the KJV has no Tobit.
 
-## The Vulgate and Septuagint sets
+## The re-anchored sets
 
-`dra.json` (3,447 anchors), `cpdv.json` (3,439), `brenton.json` (2,503) and `lxx2012.json` (2,577)
-are `en.json` re-anchored onto those editions by `scripts/remap-headings.py`. Before them those
-four showed **no headings at all**, which was the larger of the two gaps this data has had.
+`dra.json` (3,446), `cpdv.json` (3,422), `brenton.json` (2,515), `lxx2012.json` (2,581) and
+`asvbt.json` (3,743) are re-anchored by `scripts/remap-headings.py`, which reads the text.
+`luther1912.json`, `elb1905.json` and `ostervald.json` (3,086 each) are re-anchored by
+`scripts/reanchor-by-structure.py`, which cannot: the target is in German or French, so aligning
+on words is noise, and aligning on the names and numbers that survive translation was tried and
+fails too — the verse a heading sits above is usually formulaic ("And the LORD spake unto Moses,
+saying") and carries no name at all. That script therefore claims only what the verse counts can
+force and reports the rest.
+
+Before this, the four Vulgate and Septuagint editions showed **no headings at all**.
 
 It is not a chapter-number remap. From Psalm 10 on the Greek and Latin traditions number the psalms
 one lower, *and* they print the superscription as a numbered verse, so the verses shift too — the
@@ -148,12 +167,45 @@ Four rules make it verifiable rather than clever:
 4. **Whatever survives is scored again where it landed and dropped under 0.05.** No heading beats
    a wrong heading.
 
-`scripts/audit-remapped-headings.py` re-scores a finished file from scratch. DRA lands 92.9% of
-its titles above 0.30 and none below 0.05; CPDV 71.8% and none; Brenton 87.0%; LXX2012 84.7%.
+A psalm's own title is the exception to all four: it goes above the psalm's **first** verse, not
+above the verse that translates the KJV's first. These editions print the superscription as verse
+1 (and sometimes 2) and the KJV prints it unnumbered above verse 1 — the same place. Following the
+alignment instead filed "Create in Me a Clean Heart, O God" at the DRA's 50:3, so a reader met two
+verses of "Unto the end, a psalm of David" before the title of the psalm they were in. Hebrew 10
+and 115 are excluded, because they are the second halves of Vulgate 9 and 113 and their titles
+belong where their text begins, a third of the way in.
+
+The psalm numbering is an argument, not a guess: run against the ASV Byzantine Text with `greek`
+and every psalm from 10 on moves down one, Psalm 23 files under 22, and the score is perfect —
+because the mapping was asked for.
+
+### What structure alone can and cannot settle
+
+`reanchor-by-structure.py` accepts three things and refuses everything else:
+
+- a chapter both editions cut the same way keeps its anchors;
+- a psalm with one or two verses more has them at the front, as the superscription;
+- **two or three adjacent chapters holding the same verses between them** are a moved boundary and
+  nothing else, so position within the span identifies the verse exactly. Joel needs three: the
+  KJV's chapters 2 and 3 are Luther's 2, 3 and 4.
+
+Anything wider is left alone. A ten-chapter span whose totals agree proves nothing — the DRA's
+Numbers 11-20 balances to the verse and still differs verse by verse inside, dropping one in 11
+and 12 and adding one in 13 and 20 — and that trap is why the residue below is reported rather
+than guessed at.
+
+**Residue**: 28 anchors in Luther, 35 in Elberfelder, 44 in Ostervald, 42 in Almeida and 2 in the
+BES sit in a chapter whose length differs for a reason counting cannot localise, and may be one
+verse out. The books are named in each `*.notes.txt`.
+
+`scripts/audit-remapped-headings.py` re-scores a finished file from scratch, and skips the psalm
+openings because they are placed by the rule above rather than by alignment. DRA lands 92.6% of
+its titles above 0.30 and none below 0.05; CPDV 72.7%; Brenton 85.8%; LXX2012 84.3%; ASV BT 99.8%.
 
 ```bash
-python3 scripts/remap-headings.py dra headings/dra.json
+python3 scripts/remap-headings.py dra greek headings/dra.json
 python3 scripts/audit-remapped-headings.py dra headings/dra.json
+python3 scripts/reanchor-by-structure.py luther1912 headings/de.json headings/luther1912.json
 node scripts/validate-headings.js
 ```
 

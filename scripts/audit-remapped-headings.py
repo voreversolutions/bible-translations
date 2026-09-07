@@ -34,6 +34,7 @@ for b, chs in en.items():
             src.setdefault((b, t), []).append((c, v))
 
 buckets = {"0.30+": 0, "0.15-0.30": 0, "0.05-0.15": 0, "under 0.05": 0}
+opened = 0
 worst = []
 checked = 0
 for b, chs in out.items():
@@ -44,6 +45,11 @@ for b, chs in out.items():
             for t in title.split(" · "):
                 anchors = src.get((b, t))
                 if not anchors: continue
+                # A psalm's own title is placed above the psalm rather than above the verse that
+                # translates the source, so scoring it verse-against-verse would flag every one.
+                if b == "PSA" and v == "1" and any(hv == "1" for _, hv in anchors):
+                    opened += 1
+                    continue
                 best = max(jac(toks(passage(hb[hc], int(hv))), toks(passage(tb[c], int(v))))
                            for hc, hv in anchors if hc in hb)
                 checked += 1
@@ -52,7 +58,8 @@ for b, chs in out.items():
                 buckets[key] += 1
                 if best < 0.05: worst.append((best, f"{b} {c}:{v} '{t}'"))
 
-print(f"{ed}: {checked} placed titles re-scored against their English passage")
+print(f"{ed}: {checked} placed titles re-scored against their English passage "
+      f"({opened} psalm openings placed by rule, not scored)")
 for k in ("0.30+", "0.15-0.30", "0.05-0.15", "under 0.05"):
     print(f"   {k:>10}: {buckets[k]:5}  ({buckets[k]/checked*100:.1f}%)")
 worst.sort()
@@ -70,6 +77,7 @@ for b, chs in out.items():
             for t in title.split(" · "):
                 a = src.get((b, t))
                 if not a: continue
+                if b == "PSA" and v == "1" and any(hv == "1" for _, hv in a): continue
                 per[b].append(max(jac(toks(passage(hb[hc], int(hv))), toks(passage(tb[c], int(v))))
                                   for hc, hv in a if hc in hb))
 rows = sorted((statistics.median(v), b, len(v), sum(1 for x in v if x < 0.10)) for b, v in per.items() if v)

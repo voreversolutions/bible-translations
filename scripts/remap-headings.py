@@ -9,11 +9,18 @@ Psalms a dozen chapters divide one verse earlier or later.
 
 Two rules keep this honest:
 
-1. **Every anchor is placed by aligning the words of the passage it opens**, five verses of it,
-   never by differencing verse counts. The counts agree most of the time and are wrong exactly
-   where the edition also merges a verse mid-psalm — eleven DRA psalms are that case — and a
-   remap that trusted them would move a heading onto the wrong text while every anchor still
-   resolved to a verse that exists.
+1. **Every anchor is placed by aligning the words of the passage it opens**, never by
+   differencing verse counts. The counts agree most of the time and are wrong exactly where the
+   edition also merges a verse mid-psalm — eleven DRA psalms are that case — and a remap that
+   trusted them would move a heading onto the wrong text while every anchor still resolved to a
+   verse that exists.
+
+   The verse the title *sits above* carries most of the vote, and the four verses after it only
+   break ties. Scoring the five as equals blurs exactly the error that matters: a placement one
+   verse out still shares four verses with the truth, so it scores nearly the same and the tie
+   breaks toward not moving. That is how "The Spies Explore Canaan" stayed on the DRA's Numbers
+   13:2 — "And there the Lord spoke to Moses" — when the verse it was written for is 13:3, "Send
+   men to view the land of Chanaan".
 2. **Evidence is required to move an anchor, never to leave it alone.** Staying put is the prior,
    so a weak alignment leaves the anchor where the mapping already put it; only a decisive win
    moves it, and an anchor with no reading at all is dropped rather than guessed. The asymmetry
@@ -25,6 +32,14 @@ Two rules keep this honest:
 Per anchor rather than per chapter, because one shift cannot describe a chapter the edition
 splits in the middle: the Vulgate's Daniel 3 carries the Song of the Three at verse 24, so
 anchors before it hold still while anchors after it move 67 verses.
+
+A psalm's own heading is an exception to all of it: it goes above the psalm's first verse, not
+above the verse that translates the KJV's first. These editions print the superscription as verse
+1 (and sometimes 2), and the KJV prints it unnumbered above verse 1 — the same place. Following
+the text alignment instead would file "Create in Me a Clean Heart, O God" at the DRA's 50:3, so
+the reader meets two verses of "Unto the end, a psalm of David" before the title of the psalm
+they are in. Luther and Ostervald number their superscriptions the same way and keep those
+headings at verse 1, so this is also what makes the editions agree with each other.
 
 Where the edition simply has no such verse — the Septuagint omits verses outright, so Brenton's
 chapters have gaps in them — the title goes on the first verse of the passage that *is* there,
@@ -49,7 +64,12 @@ formula matches better than a real translation of the same verse. Order catches 
 cannot: headings run through a book in one direction, so any placement that goes backwards
 relative to its neighbours is refused and re-searched between them.
 
-Usage: remap-headings.py <edition> <out.json>
+The psalm numbering is passed in, not guessed. An edition that numbers its Psalms the Hebrew way
+must not have the Greek chapter mapping applied to it, and the mistake is silent: run against the
+ASV Byzantine Text with `greek`, every psalm from 10 on moves down one and Psalm 23 files under
+22, with a perfect score, because the mapping was asked for.
+
+Usage: remap-headings.py <edition> <hebrew|greek> <out.json>
 """
 import json, re, sys, os
 
@@ -59,11 +79,13 @@ thy ye do did done who whom what when where there here so up out into an or if t
 hath doth am been being also more most very much many any every no nor only own same such too""".split())
 
 WINDOW = 5          # verses of the passage a heading opens, scored together
+ANCHOR_WEIGHT = 0.7  # …but the verse the title actually sits above carries most of the vote
 MIN_SCORE = 0.10    # below this the two passages have nothing in common
 MIN_MARGIN = 0.04   # and the winner has to beat the runner-up by this much
 FAR_SCORE = 0.20    # a jump outside the neighbouring chapters has to be this good
 FAR_MARGIN = 0.08
 FLOOR = 0.05        # and wherever an anchor ends up, its passage must still resemble the source
+OUT_OF_ORDER_EDGE = 1.6  # how much better an out-of-order reading must be to survive the order check
 
 _tok = {}
 def tokens(s):
@@ -79,6 +101,15 @@ def jaccard(a, b):
 def load(ed, book):
     p = f"{ed}/{book}.json"
     return json.load(open(p))["chapters"] if os.path.exists(p) else None
+
+def opens_its_psalm(n):
+    """Whether Hebrew psalm `n` starts the psalm it maps into, rather than continuing one.
+
+    Hebrew 10 is the second half of Vulgate 9 and Hebrew 115 the second half of Vulgate 113, so
+    their titles belong where their text begins — a third of the way in — and not at verse 1.
+    Hebrew 116 and 147 are each split into two psalms there, and both halves do open one.
+    """
+    return n not in (10, 115)
 
 def psalm_target(n, v):
     """Hebrew psalm n, verse v -> the psalm it sits in in a Greek/Vulgate edition."""
@@ -98,6 +129,11 @@ def resemblance(hv, tv, verse, target):
              if str(verse + i) in hv and str(target + i) in tv]
     if not pairs: return 0.0
     return sum(jaccard(tokens(a), tokens(b)) for a, b in pairs) / len(pairs)
+
+def anchor_resemblance(hv, tv, verse, target):
+    """Just the verse the title sits above — the measure a one-verse slip cannot hide from."""
+    if str(verse) not in hv or str(target) not in tv: return 0.0
+    return jaccard(tokens(hv[str(verse)]), tokens(tv[str(target)]))
 
 def first_present(tv, verse):
     """`verse` if the edition has it, else the next verse of the same passage that it does."""
@@ -121,9 +157,12 @@ def place(hv, chapters, home, verse, shifts, where=None):
         if not tv: continue
         cost = 0 if ch == home else 1000     # only to break ties, never to outweigh the words
         for s in shifts:
-            pairs = [(t, str(int(v) + s)) for t, v in zip(src, window) if str(int(v) + s) in tv]
-            if len(pairs) < min(2, len(window)): continue
-            score = sum(jaccard(a, tokens(tv[b])) for a, b in pairs) / len(pairs)
+            pairs = [(i, t, str(int(v) + s)) for i, (t, v) in enumerate(zip(src, window))
+                     if str(int(v) + s) in tv]
+            if not pairs or pairs[0][0] != 0: continue   # the anchor verse has to have a partner
+            head = jaccard(pairs[0][1], tokens(tv[pairs[0][2]]))
+            rest = [jaccard(t, tokens(tv[b])) for i, t, b in pairs[1:]]
+            score = ANCHOR_WEIGHT * head + (1 - ANCHOR_WEIGHT) * (sum(rest) / len(rest) if rest else head)
             scored.append((score, cost + abs(s), ch, s))
     if not scored: return None, None, 0.0, 0.0
     scored.sort(key=lambda x: (-x[0], x[1]))
@@ -131,7 +170,10 @@ def place(hv, chapters, home, verse, shifts, where=None):
     runner = next((r[0] for r in scored[1:] if (r[2], r[3]) != (best[2], best[3])), 0.0)
     return best[2], str(verse + best[3]), best[0], best[0] - runner
 
-ed, out = sys.argv[1], sys.argv[2]
+ed, numbering, out = sys.argv[1], sys.argv[2], sys.argv[3]
+if numbering not in ("hebrew", "greek"):
+    raise SystemExit("numbering must be 'hebrew' or 'greek'")
+GREEK_PSALMS = numbering == "greek"
 en = json.load(open("headings/en.json"))
 # Every book the source set has a title for, in the ASV BT's order, so the deuterocanon goes
 # through the same mill as the rest: the Latin Tobit is a different recension from the Greek one
@@ -173,13 +215,22 @@ for book in CANON:
     for ch, anchors in anchors_in_book.items():
         for v, title in sorted(anchors.items(), key=lambda kv: int(kv[0])):
             verse = int(v)
-            tch = str(psalm_target(int(ch), verse)) if book == "PSA" else ch
+            tch = (str(psalm_target(int(ch), verse))
+                   if book == "PSA" and GREEK_PSALMS else ch)
             if tch is None or tch not in tb or ch not in hb:
                 stats["dropped"] += 1
                 notes.append(f"{book} {ch}:{v}: no chapter to map onto")
                 continue
             # Wide enough for the psalm splits (Hebrew 10 sits 21 verses into Vulgate 9) and for
             # the Song of the Three inside Daniel 3 (67); negative for the psalms cut in two.
+            if (book == "PSA" and verse == min(int(x) for x in hb[ch])
+                    and (opens_its_psalm(int(ch)) or not GREEK_PSALMS)
+                    and "1" in tb.get(tch, {})):
+                # The psalm's own title belongs at the top of the psalm, superscription included.
+                # Marked `forced` so the resemblance floor leaves it alone: it is deliberately not
+                # on the verse that translates the source, so scoring it there would drop it.
+                placed.setdefault(book, []).append((ch, v, tch, "1", title, 1.0, 1.0, True))
+                continue
             tc, tvn, score, margin = place(hb[ch], tb, tch, verse, range(-15, 71))
             decisive = tc is not None and score >= MIN_SCORE and margin >= MIN_MARGIN
             if not decisive:
@@ -199,7 +250,7 @@ for book in CANON:
                 stats["dropped"] += 1
                 notes.append(f"{book} {ch}:{v}: {tc}:{tvn} and the verses after it are absent")
                 continue
-            placed.setdefault(book, []).append((ch, v, tc, landed, title, score, margin))
+            placed.setdefault(book, []).append((ch, v, tc, landed, title, score, margin, False))
 
 # Order is the one check that wording cannot fake. Anything that runs backwards through the book
 # is re-searched between the placements around it, and only kept if it reads better there.
@@ -214,7 +265,15 @@ for book, rows in placed.items():
         lo = int(prev[2]) if prev else 1
         hi = int(nxt[2]) if nxt else max(int(c) for c in tb)
         window = [c for c in sorted(tb, key=int) if lo <= int(c) <= hi]
+        if r[7]: continue
         tc, tvn, score, margin = place(hb[r[0]], tb, r[2], int(r[1]), range(-15, 71), where=window)
+        # Order is a heuristic and the words are the evidence. Where the out-of-order reading is
+        # far better than anything in order, it stays: the Byzantine text really does move the
+        # Romans doxology backwards, from 16:25 to 14:24, and no in-order placement comes close.
+        if tc is not None and r[5] > OUT_OF_ORDER_EDGE * score:
+            notes.append(f"{book} {r[0]}:{r[1]}: out of order at {r[2]}:{r[3]} but nothing in "
+                         f"order reads nearly as well ({r[5]:.2f} against {score:.2f}); kept")
+            continue
         if tc is None or score < MIN_SCORE:
             notes.append(f"{book} {r[0]}:{r[1]}: out of order at {r[2]}:{r[3]} and nothing "
                          f"between {lo} and {hi} reads better; dropped")
@@ -224,7 +283,7 @@ for book, rows in placed.items():
         landed = first_present(tb.get(tc, {}), int(tvn)) or tvn
         notes.append(f"{book} {r[0]}:{r[1]}: was out of order at {r[2]}:{r[3]} "
                      f"(score {r[5]:.2f}); re-placed at {tc}:{landed} (score {score:.2f})")
-        rows[i] = (r[0], r[1], tc, landed, r[4], score, margin)
+        rows[i] = (r[0], r[1], tc, landed, r[4], score, margin, False)
         stats["reordered"] += 1
 
 # The last word belongs to the text. The fallbacks above can leave an anchor where the chapter
@@ -233,7 +292,7 @@ for book, rows in placed.items():
 for book, rows in placed.items():
     tb, hb = load(ed, book), (load("kjv", book) or load("asvbt", book))
     for i, r in enumerate(rows):
-        if r is None: continue
+        if r is None or r[7]: continue
         got = resemblance(hb[r[0]], tb[r[2]], int(r[1]), int(r[3]))
         if got < FLOOR:
             notes.append(f"{book} {r[0]}:{r[1]} -> {r[2]}:{r[3]}: the passage there reads "
@@ -244,7 +303,7 @@ for book, rows in placed.items():
 for book, rows in placed.items():
     for r in rows:
         if r is None: continue
-        ch, v, tc, landed, title, score, margin = r
+        ch, v, tc, landed, title, score, margin, _ = r
         # Two sources can land on one verse where the edition merges verses. The set already
         # joins co-located titles with " · " (Proverbs' "Thirty Sayings" does it), so follow
         # that rather than let one silently overwrite the other.

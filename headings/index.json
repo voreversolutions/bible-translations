@@ -53,22 +53,38 @@
     "note": "The BSB has no deuterocanon and no public-domain edition carries both those books and section headings, so these titles are written for this dataset. Anchors for the eleven books a Catholic edition divides follow those divisions, checked verse by verse against the ASV Byzantine Text; for 1ES, 2ES, 3MA, 4MA and PSS both the anchors and the titles are ours. English only: ASV BT is the one edition that carries these books and reads a heading set."
   },
   "editions": {
-    "note": "Editions that number their Psalms the Vulgate's or the Septuagint's way read their own file, re-anchored from en.json by scripts/remap-headings.py. Every anchor is placed by aligning the words of the passage it opens, never by differencing verse counts, and one that does not read like its source is dropped rather than guessed.",
+    "note": "An edition that divides its text differently from the KJV reads its own file. dra/cpdv/brenton/lxx2012 number the Psalms the Vulgate's or the Septuagint's way; luther1912/elb1905/ostervald cut chapters the Hebrew way in a few dozen places; asvbt moves the Romans doxology to 14:24. Every one of those anchors resolved against a verse that existed, so the validator reported 99.7% while headings sat over the wrong verse. Built by scripts/remap-headings.py where the edition is in English and the words can be aligned, and by scripts/reanchor-by-structure.py where it is not and only the verse counts can be trusted.",
     "dra": {
       "books": 73,
-      "anchors": 3447
+      "anchors": 3446
     },
     "cpdv": {
       "books": 73,
-      "anchors": 3439
+      "anchors": 3422
     },
     "brenton": {
       "books": 51,
-      "anchors": 2503
+      "anchors": 2515
     },
     "lxx2012": {
       "books": 53,
-      "anchors": 2577
+      "anchors": 2581
+    },
+    "asvbt": {
+      "books": 84,
+      "anchors": 3743
+    },
+    "luther1912": {
+      "books": 66,
+      "anchors": 3086
+    },
+    "elb1905": {
+      "books": 66,
+      "anchors": 3086
+    },
+    "ostervald": {
+      "books": 66,
+      "anchors": 3086
     }
   }
 }
