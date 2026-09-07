@@ -16,11 +16,11 @@ its versification. Keeping them out of the book files has three consequences tha
   book is untrustworthy" and re-fetches the whole translation, so a heading typo shipped in a book
   file would cost every user 10–40 MB. Headings carry their own tag; the text tag never moves.
 
-  The shipped tag is **`headings-1.4`** — all seven languages in one snapshot. A tag here is a
+  The shipped tag is **`headings-1.5`** — all seven languages in one snapshot. A tag here is a
   snapshot and not a delta: whatever the app asks for, that tag has to hold every language. Never
   move a tag that has been served; jsDelivr caches by tag, so a fix ships as a new tag and the
   app's `bibleHeadingsTag` moves with it. `headings-v1`…`v7` are the per-language tags this was
-  built up under and nothing reads them; `headings-1.0` is the 66-book snapshot 1.1.3 shipped, `headings-1.1` added the deuterocanon `headings-1.2` the first four re-anchored editions and `headings-1.3` the rest.
+  built up under and nothing reads them; `headings-1.0` is the 66-book snapshot 1.1.3 shipped, `headings-1.1` added the deuterocanon `headings-1.2` the first four re-anchored editions, `headings-1.3` the rest and `headings-1.4` the contiguity fix.
 - **The app degrades to today's behaviour** when a heading file is missing, so a language ships
   when its translation is ready rather than all seven at once.
 - One file, ~127 KB, serves every English edition together.
@@ -166,6 +166,33 @@ Four rules make it verifiable rather than clever:
    refused and re-searched between them.
 4. **Whatever survives is scored again where it landed and dropped under 0.05.** No heading beats
    a wrong heading.
+
+The comparison counts word pairs as well as words, after trimming inflections, because a bag of
+words cannot tell "Moreover the LORD answered Job" from "Then Job answered the Lord" — the same
+three words, opposite speakers, four verses apart in the DRA — and it put a heading on the wrong
+one. The trimming is what lets order decide: the DRA writes "the Lord answering Job", so without
+it "answering" matches nothing while the wrong verse's "answered" matches exactly.
+
+### The check that found what the others missed
+
+`scripts/cross-check-headings.py` compares two editions of the same tradition anchor by anchor. It
+reads no verse, counts none and measures no length, so it is independent of everything above — and
+it is what caught the Job case and four more like it. Where two editions disagree, comparing their
+two target verses *to each other* settles whether one is wrong or whether the editions simply
+number differently.
+
+| Pair | Comparable | Disagree | Of those, wrong |
+|---|---|---|---|
+| luther1912 / elb1905 | 3,096 | 0 | — |
+| kjv / asvbt | 3,745 | 0 | — |
+| dra / cpdv | 2,436 | 1 | 0 — both right, the editions differ |
+| brenton / lxx2012 | 1,253 | 46 | 0 — all 46 hold the same verse in both |
+
+`headings/overrides.json` holds the five that were wrong, each read verse by verse, each with the
+quotation that settles it. They exist because word overlap has a floor: "Jesus rebuked the unclean
+spirit" sits beside "all were astonished at the greatness of God" in one edition's verses 43 and
+44, and no scoring of one verse against another separates that reliably. An override whose target
+verse is missing is refused rather than applied.
 
 A psalm's own title is the exception to all four: it goes above the psalm's **first** verse, not
 above the verse that translates the KJV's first. These editions print the superscription as verse

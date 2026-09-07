@@ -1,0 +1,23 @@
+{
+  "_note": [
+    "Anchors the automatic remap gets wrong, each read verse by verse and corrected by hand.",
+    "Every entry names the source reference in en.json and where it belongs in that edition, and",
+    "quotes what settles it. They were found by cross-check-headings.py, which compares two",
+    "editions of the same tradition against each other: nothing else here had noticed any of them.",
+    "The remap refuses to apply an override whose target verse does not exist, so a dataset change",
+    "that invalidates one of these fails loudly instead of shipping a stale correction."
+  ],
+  "dra": {
+    "JOS": { "13": { "15": ["13", "15", "13:24 is the tribe of Gad; 13:15 is 'a possession to the children of Ruben'"] } }
+  },
+  "cpdv": {
+    "LUK": { "9": { "43": ["9", "44", "9:43 is 'Jesus rebuked the unclean spirit'; 9:44 is 'all were astonished at the greatness of God'"] } }
+  },
+  "brenton": {
+    "ZEC": { "1": { "18": ["2", "1", "there is no 1:18 here; 2:1 is 'behold four horns' and 2:5 is the man with the measuring line"] } }
+  },
+  "lxx2012": {
+    "LEV": { "6": { "8": ["6", "7", "6:8 is 'Charge Aaron and his sons'; 6:7 is 'And the Lord spoke to Moses, saying'"] } },
+    "4MA": { "18": { "6": ["18", "7", "18:6 is 'departing from Jerusalem, he made war against the Persians'; 18:7 is 'the righteous mother'"] } }
+  }
+}

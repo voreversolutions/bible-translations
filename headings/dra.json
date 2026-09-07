@@ -192,7 +192,7 @@
   },
   "39": {
    "1": "Joseph and Potiphar’s Wife",
-   "18": "Joseph Falsely Imprisoned"
+   "13": "Joseph Falsely Imprisoned"
   },
   "40": {
    "1": "The Cupbearer and the Baker"
@@ -433,9 +433,8 @@
   "37": {
    "1": "Constructing the Ark",
    "6": "The Mercy Seat",
-   "10": "The Table of Showbread",
-   "17": "The Lampstand",
-   "25": "The Altar of Incense"
+   "10": "The Table of Showbread · The Altar of Incense",
+   "17": "The Lampstand"
   },
   "38": {
    "1": "The Bronze Altar",
@@ -446,7 +445,6 @@
   "39": {
    "1": "The Ephod",
    "8": "The Breastpiece",
-   "20": "Additional Priestly Garments",
    "31": "Moses Approves the Work"
   },
   "40": {
@@ -514,7 +512,7 @@
   "15": {
    "1": "The Uncleanness of Men",
    "13": "The Cleansing of Men",
-   "19": "The Uncleanness of Women",
+   "20": "The Uncleanness of Women",
    "28": "The Cleansing of Women"
   },
   "16": {
@@ -585,7 +583,8 @@
    "1": "The First Census of Israel",
    "5": "The Leaders of the Tribes",
    "17": "The Number of Every Tribe",
-   "47": "The Exemption of the Levites"
+   "47": "The Exemption of the Levites",
+   "54": "Laws about Vows"
   },
   "2": {
    "1": "The Order of the Camps"
@@ -654,14 +653,13 @@
   "15": {
    "1": "Laws about Offerings",
    "22": "Offerings for Unintentional Sins",
-   "32": "A Sabbath-Breaker Stoned",
-   "37": "The Law of Tassels"
+   "32": "A Sabbath-Breaker Stoned"
   },
   "16": {
    "1": "Korah’s Rebellion",
    "23": "Moses Separates the People",
    "28": "The Earth Swallows Korah",
-   "36": "The Censers Reserved for Holy Use",
+   "36": "The Law of Tassels · The Censers Reserved for Holy Use",
    "41": "Murmuring and Plague"
   },
   "17": {
@@ -739,9 +737,6 @@
    "1": "The Feast of Trumpets",
    "7": "The Day of Atonement",
    "12": "The Feast of Tabernacles"
-  },
-  "30": {
-   "1": "Laws about Vows"
   },
   "31": {
    "1": "Vengeance on Midian",
@@ -914,11 +909,11 @@
    "1": "Joshua to Succeed Moses",
    "9": "The Reading of the Law",
    "14": "God Commissions Joshua",
-   "24": "The Law Placed in the Ark"
+   "24": "The Law Placed in the Ark",
+   "30": "Moses Begins His Song"
   },
   "32": {
    "1": "The Song of Moses",
-   "45": "Moses Begins His Song",
    "48": "Moses’ Death Foretold"
   },
   "33": {
@@ -1075,7 +1070,7 @@
    "7": "Jotham’s Parable",
    "22": "Gaal Conspires with the Shechemites",
    "30": "The Fall of Shechem",
-   "39": "Abimelech’s Punishment"
+   "50": "Abimelech’s Punishment"
   },
   "10": {
    "1": "Tola",
@@ -2105,17 +2100,12 @@
   }
  },
  "TOB": {
-  "1": {
-   "2": "Tobit's Faithfulness in Exile",
-   "10": "Tobit Buries the Dead"
-  },
   "2": {
    "1": "Tobit Is Struck Blind"
   },
   "3": {
    "1": "The Prayer of Tobit",
    "7": "Sarah Is Reproached",
-   "13": "The Prayer of Sarah",
    "24": "Both Prayers Are Heard"
   },
   "4": {
@@ -2138,7 +2128,6 @@
    "1": "Raphael Fetches the Money"
   },
   "10": {
-   "1": "Tobit and Anna Wait",
    "10": "Tobias Departs with Sarah"
   },
   "11": {
@@ -2153,7 +2142,7 @@
  },
  "JDT": {
   "1": {
-   "5": "The Kings of Assyria and Media · The Defeat of Arphaxad"
+   "5": "The Kings of Assyria and Media"
   },
   "2": {
    "1": "Holofernes Sent Against the West"
@@ -2172,8 +2161,7 @@
    "1": "The Siege of Bethulia"
   },
   "8": {
-   "1": "Judith of Bethulia",
-   "9": "Judith Rebukes the Elders"
+   "1": "Judith of Bethulia"
   },
   "9": {
    "1": "The Prayer of Judith"
@@ -2187,9 +2175,6 @@
   "12": {
    "10": "The Banquet of Holofernes"
   },
-  "13": {
-   "1": "Judith Beheads Holofernes"
-  },
   "14": {
    "1": "The Assyrians Take Flight"
   },
@@ -2197,8 +2182,7 @@
    "9": "Israel Honors Judith"
   },
   "16": {
-   "1": "The Song of Judith",
-   "25": "The Later Years of Judith"
+   "1": "The Song of Judith"
   }
  },
  "EST": {
@@ -2224,10 +2208,10 @@
    "9": "Haman’s Plot against Mordecai"
   },
   "6": {
-   "1": "Mordecai Is Honored",
-   "14": "Esther Pleads for Her People"
+   "1": "Mordecai Is Honored"
   },
   "7": {
+   "1": "Esther Pleads for Her People",
    "7": "The Hanging of Haman"
   },
   "8": {
@@ -2440,10 +2424,11 @@
  "JOB": {
   "1": {
    "1": "Job’s Character and Wealth",
-   "6": "Satan’s First Attack · Job Loses His Health",
+   "6": "Satan’s First Attack",
    "13": "Job Loses His Children and Possessions"
   },
   "2": {
+   "1": "Job Loses His Health",
    "11": "Job’s Three Friends"
   },
   "3": {
@@ -2557,11 +2542,10 @@
    "1": "The LORD Challenges Job"
   },
   "39": {
-   "1": "The LORD Speaks of His Creation",
-   "33": "Job Humbles Himself before the LORD"
+   "1": "The LORD Speaks of His Creation"
   },
   "40": {
-   "1": "The LORD Challenges Job Again",
+   "1": "Job Humbles Himself before the LORD · The LORD Challenges Job Again",
    "20": "The LORD’s Power Shown in Leviathan"
   },
   "42": {
@@ -3344,8 +3328,7 @@
   "1": {
    "1": "The Origin of Wisdom",
    "11": "The Fear of the Lord",
-   "26": "Do Not Be a Hypocrite",
-   "28": "Unjust Anger"
+   "26": "Do Not Be a Hypocrite"
   },
   "2": {
    "1": "Trust God in Trial"
@@ -3377,6 +3360,7 @@
   },
   "8": {
    "1": "Prudence with Others",
+   "11": "Listen to the Wise",
    "13": "Avoid the Sinner and the Fool"
   },
   "9": {
@@ -3408,10 +3392,10 @@
    "22": "Blessed Is the Seeker of Wisdom"
   },
   "15": {
-   "11": "God Is Not the Author of Sin",
-   "22": "Ungodly Children"
+   "11": "God Is Not the Author of Sin"
   },
   "16": {
+   "1": "Ungodly Children",
    "17": "Nothing Is Hidden from God",
    "24": "God's Order in Creation"
   },
@@ -3428,8 +3412,7 @@
   },
   "19": {
    "4": "The Loose Tongue",
-   "13": "Reprove Before You Condemn",
-   "18": "True and False Wisdom"
+   "13": "Reprove Before You Condemn"
   },
   "20": {
    "9": "Gain and Loss",
@@ -3443,21 +3426,22 @@
   "22": {
    "1": "The Sluggard",
    "3": "Sons and Daughters",
-   "11": "Mourning the Dead and the Fool",
+   "10": "Mourning the Dead and the Fool",
    "24": "Wounding a Friend",
    "33": "A Guard Over the Mouth"
   },
   "23": {
    "7": "Discipline of the Mouth",
    "16": "Foul Speech",
+   "21": "Sins of the Flesh",
    "32": "The Adulterous Wife"
   },
   "24": {
-   "1": "The Praise of Wisdom"
+   "1": "The Praise of Wisdom",
+   "32": "Wisdom and the Law"
   },
   "25": {
-   "5": "Old Age Without Wisdom",
-   "17": "A Wicked Wife"
+   "5": "Old Age Without Wisdom"
   },
   "26": {
    "25": "Three Griefs",
@@ -3501,11 +3485,12 @@
   },
   "34": {
    "1": "Dreams and Vain Hopes",
-   "10": "Travel and Experience",
+   "9": "Travel and Experience",
    "21": "Offerings from Injustice"
   },
   "35": {
-   "1": "True Sacrifice"
+   "1": "True Sacrifice",
+   "14": "God Hears the Oppressed"
   },
   "36": {
    "1": "A Prayer for God's People",
@@ -3552,12 +3537,12 @@
    "1": "In Praise of the Fathers",
    "16": "Enoch",
    "18": "Noah",
-   "20": "Abraham",
-   "24": "Isaac and Jacob"
+   "20": "Abraham"
   },
   "45": {
    "1": "Moses",
-   "7": "Aaron"
+   "7": "Aaron",
+   "28": "Phinehas"
   },
   "46": {
    "2": "Joshua Son of Nun",
@@ -3568,11 +3553,12 @@
   "47": {
    "1": "Nathan",
    "2": "David",
-   "14": "Solomon"
+   "29": "The Sin of Israel"
   },
   "48": {
    "1": "Elijah",
    "13": "Elisha",
+   "16": "The Exile of Israel",
    "19": "Hezekiah",
    "25": "Isaiah"
   },
@@ -4789,7 +4775,7 @@
   },
   "17": {
    "1": "The Transfiguration",
-   "14": "The Boy with a Demon",
+   "13": "The Boy with a Demon",
    "18": "The Power of Faith",
    "21": "The Second Prediction of the Passion",
    "23": "The Temple Tax"

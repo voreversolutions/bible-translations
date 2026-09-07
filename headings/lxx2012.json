@@ -179,10 +179,10 @@
   "36": {
    "1": "The Descendants of Esau",
    "20": "The Descendants of Seir",
-   "31": "The Kings of Edom",
-   "44": "Joseph’s Dreams"
+   "31": "The Kings of Edom"
   },
   "37": {
+   "1": "Joseph’s Dreams",
    "12": "Joseph Sold into Egypt",
    "31": "Jacob Mourns Joseph"
   },
@@ -361,7 +361,7 @@
   },
   "25": {
    "1": "Offerings for the Tabernacle",
-   "10": "The Ark of the Covenant · Constructing the Ark · The Altar of Incense",
+   "10": "The Ark of the Covenant · Constructing the Ark",
    "17": "The Mercy Seat",
    "23": "The Table of Showbread",
    "31": "The Lampstand"
@@ -380,7 +380,7 @@
   },
   "28": {
    "1": "Garments for the Priests",
-   "6": "The Ephod",
+   "5": "The Ephod",
    "15": "The Breastpiece",
    "27": "Additional Priestly Garments"
   },
@@ -424,15 +424,19 @@
   },
   "36": {
    "1": "The People Bring More than Enough",
+   "15": "The Breastpiece",
    "30": "Additional Priestly Garments",
-   "32": "The Veil · The Curtain for the Entrance"
+   "35": "The Veil",
+   "37": "The Curtain for the Entrance"
   },
   "37": {
    "1": "The Eleven Curtains of Goat Hair",
    "6": "The Bronze Basin",
    "7": "The Courtyard",
-   "16": "The Bronze Altar",
    "19": "An Inventory of Materials"
+  },
+  "39": {
+   "23": "Moses Approves the Work"
   },
   "40": {
    "1": "Setting Up the Tabernacle",
@@ -458,7 +462,7 @@
   },
   "6": {
    "1": "Sins Requiring a Guilt Offering",
-   "8": "The Burnt Offering",
+   "7": "The Burnt Offering",
    "14": "The Grain Offering",
    "24": "The Sin Offering",
    "31": "The Guilt Offering"
@@ -697,7 +701,6 @@
    "19": "The Tribe of Issachar",
    "26": "The Tribe of Zebulun",
    "32": "The Tribe of Manasseh",
-   "35": "The Tribe of Ephraim",
    "42": "The Tribe of Benjamin",
    "44": "The Tribe of Asher",
    "46": "The Tribe of Dan",
@@ -901,7 +904,6 @@
   },
   "32": {
    "1": "The Song of Moses",
-   "44": "Moses Begins His Song",
    "48": "Moses’ Death Foretold"
   },
   "33": {
@@ -985,10 +987,10 @@
    "11": "Benjamin’s Inheritance"
   },
   "19": {
-   "1": "Simeon’s Inheritance",
    "10": "Zebulun’s Inheritance",
    "17": "Issachar’s Inheritance",
-   "24": "Asher’s Inheritance · Naphtali’s Inheritance",
+   "24": "Asher’s Inheritance",
+   "32": "Naphtali’s Inheritance",
    "40": "Dan’s Inheritance",
    "49": "Joshua’s Inheritance"
   },
@@ -1400,7 +1402,6 @@
   },
   "5": {
    "1": "Preparations for the Temple",
-   "2": "God’s Promise to Solomon",
    "7": "Hiram’s Reply to Solomon",
    "13": "Solomon’s Labor Force"
   },
@@ -1422,8 +1423,8 @@
   },
   "8": {
    "1": "The Ark Enters the Temple",
-   "14": "Solomon Blesses the LORD",
    "22": "Solomon’s Prayer of Dedication",
+   "53": "Solomon Blesses the LORD",
    "54": "Solomon’s Benediction",
    "62": "Sacrifices of Dedication"
   },
@@ -1455,8 +1456,7 @@
   },
   "14": {
    "21": "Rehoboam Reigns in Judah",
-   "25": "Shishak Raids Jerusalem",
-   "29": "Nadab Succeeds Jeroboam"
+   "25": "Shishak Raids Jerusalem"
   },
   "15": {
    "1": "Abijam Reigns in Judah",
@@ -1490,8 +1490,8 @@
    "19": "The Call of Elisha"
   },
   "20": {
+   "1": "Naboth’s Vineyard",
    "8": "Jezebel’s Plot",
-   "17": "Elijah Denounces Ahab and Jezebel",
    "25": "Ahab’s Repentance"
   },
   "21": {
@@ -1499,8 +1499,7 @@
    "13": "Ahab Defeats Ben-hadad",
    "26": "Another War with Ben-hadad",
    "31": "Ahab Spares Ben-hadad",
-   "35": "A Prophet Reproves Ahab",
-   "43": "Naboth’s Vineyard"
+   "35": "A Prophet Reproves Ahab"
   },
   "22": {
    "1": "Ahab and the False Prophets",
@@ -1674,7 +1673,6 @@
   "4": {
    "1": "The Descendants of Judah",
    "9": "The Prayer of Jabez",
-   "11": "More Descendants of Judah",
    "24": "The Descendants of Simeon"
   },
   "5": {
@@ -1697,8 +1695,7 @@
    "30": "The Descendants of Asher"
   },
   "8": {
-   "1": "Genealogy from Benjamin to Saul",
-   "33": "The Family of Saul"
+   "1": "Genealogy from Benjamin to Saul"
   },
   "9": {
    "1": "The People of Jerusalem",
@@ -2054,8 +2051,7 @@
   "7": {
    "1": "Securing the City",
    "4": "The List of Returning Exiles",
-   "70": "Offerings by the Exiles",
-   "73": "Residents Outside Jerusalem"
+   "70": "Offerings by the Exiles"
   },
   "8": {
    "1": "Ezra Reads the Law",
@@ -2159,8 +2155,11 @@
   "10": {
    "1": "Job’s Plea to God"
   },
+  "11": {
+   "1": "Zophar Rebukes Job"
+  },
   "12": {
-   "1": "Zophar Rebukes Job · Job Presents His Case"
+   "1": "Job Presents His Case"
   },
   "13": {
    "1": "Job Prepares His Case"
@@ -2195,8 +2194,11 @@
   "24": {
    "1": "Job: Judgment for the Wicked"
   },
+  "25": {
+   "1": "Bildad: Man Cannot Be Righteous"
+  },
   "26": {
-   "1": "Bildad: Man Cannot Be Righteous · Job: Who Can Understand God’s Majesty?"
+   "1": "Job: Who Can Understand God’s Majesty?"
   },
   "27": {
    "1": "Job Affirms His Integrity",
@@ -2224,24 +2226,15 @@
   "34": {
    "1": "Elihu Confirms God’s Justice"
   },
-  "35": {
-   "1": "Elihu Recalls God’s Justice"
-  },
   "36": {
    "1": "Elihu Describes God’s Power"
   },
   "37": {
    "1": "Elihu Proclaims God’s Majesty"
   },
-  "38": {
-   "1": "The LORD Challenges Job"
-  },
   "39": {
    "1": "The LORD Speaks of His Creation",
-   "31": "Job Humbles Himself before the LORD"
-  },
-  "40": {
-   "20": "The LORD’s Power Shown in Leviathan"
+   "31": "The LORD Challenges Job · Job Humbles Himself before the LORD"
   },
   "42": {
    "1": "Job Submits Himself to the LORD",
@@ -2750,6 +2743,9 @@
   "17": {
    "1": "Better a Dry Morsel in Quietness"
   },
+  "18": {
+   "1": "The Selfishness of the Unfriendly"
+  },
   "20": {
    "1": "Wine Is a Mocker"
   },
@@ -3207,7 +3203,6 @@
    "22": "An Invasion from the North"
   },
   "7": {
-   "2": "Jeremiah’s Message at the Temple Gate",
    "16": "Judah’s Idolatry Persists",
    "30": "The Valley of Slaughter"
   },
@@ -3288,6 +3283,9 @@
   "25": {
    "1": "Seventy Years of Captivity"
   },
+  "26": {
+   "1": "A Warning to the Cities of Judah"
+  },
   "27": {
    "1": "A Prophecy against Babylon",
    "4": "Hope for Israel and Judah",
@@ -3300,15 +3298,13 @@
   },
   "30": {
    "1": "Judgment on the Ammonites",
-   "23": "Judgment on Damascus",
    "28": "Judgment on Kedar and Hazor"
   },
   "32": {
-   "15": "The Cup of God’s Wrath",
-   "34": "The Cry of the Shepherds"
+   "15": "The Cup of God’s Wrath"
   },
   "33": {
-   "1": "A Warning to the Cities of Judah · The Yoke of Nebuchadnezzar",
+   "1": "The Yoke of Nebuchadnezzar",
    "7": "Jeremiah Threatened with Death",
    "16": "Jeremiah Spared from Death",
    "20": "The Prophet Uriah"
@@ -3351,8 +3347,7 @@
   },
   "44": {
    "1": "Jeremiah Warns Zedekiah",
-   "11": "Jeremiah Imprisoned",
-   "19": "Jeremiah Delivered"
+   "11": "Jeremiah Imprisoned"
   },
   "45": {
    "1": "Jeremiah Cast into the Cistern"
@@ -3371,7 +3366,7 @@
    "11": "Johanan Rescues the Captives"
   },
   "49": {
-   "1": "A Warning against Going to Egypt"
+   "8": "A Warning against Going to Egypt"
   },
   "50": {
    "1": "Jeremiah Taken to Egypt",
@@ -3379,7 +3374,6 @@
   },
   "51": {
    "1": "Judgment on the Jews in Egypt",
-   "11": "Judgment on Babylon",
    "15": "The Stubbornness of the People",
    "20": "Calamity for the Jews",
    "31": "Jeremiah’s Message to Baruch"
@@ -3577,7 +3571,7 @@
    "20": "The North Gate",
    "24": "The South Gate",
    "28": "The Gates of the Inner Court",
-   "29": "Eight Tables for Sacrifices",
+   "38": "Eight Tables for Sacrifices",
    "44": "Chambers for Ministry",
    "47": "The Inner Court"
   },
@@ -3884,8 +3878,9 @@
    "12": "The People Obey"
   },
   "2": {
+   "2": "The Coming Glory of God’s House",
    "11": "Blessings for a Defiled People",
-   "21": "The Coming Glory of God’s House · Zerubbabel the LORD’s Signet Ring"
+   "21": "Zerubbabel the LORD’s Signet Ring"
   }
  },
  "ZEC": {
@@ -3913,10 +3908,8 @@
    "9": "The Crown and the Temple"
   },
   "7": {
-   "1": "A Call to Justice and Mercy"
-  },
-  "8": {
-   "1": "The Restoration of Jerusalem"
+   "1": "A Call to Justice and Mercy",
+   "4": "The Restoration of Jerusalem"
   },
   "9": {
    "1": "The Burden against Israel’s Enemies",
@@ -4854,7 +4847,7 @@
   },
   "18": {
    "1": "A Call to Obey the Law",
-   "6": "The Mother's Words to Her Sons",
+   "7": "The Mother's Words to Her Sons",
    "20": "The Vengeance of God"
   }
  }

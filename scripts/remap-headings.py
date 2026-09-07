@@ -15,6 +15,13 @@ Two rules keep this honest:
    trusted them would move a heading onto the wrong text while every anchor still resolved to a
    verse that exists.
 
+   The comparison counts **word pairs as well as words, after trimming inflections**, because a
+   bag of words cannot tell "Moreover the LORD answered Job" from "Then Job answered the Lord" —
+   the same three words, opposite speakers, four verses apart in the DRA — and it put a heading on
+   the wrong one of them. Word order separates those two outright. The trimming is what lets it:
+   the DRA writes "the Lord answering Job", and without it "answering" matches nothing while the
+   wrong verse's "answered" matches exactly.
+
    The verse the title *sits above* carries most of the vote, and the four verses after it only
    break ties. Scoring the five as equals blurs exactly the error that matters: a placement one
    verse out still shares four verses with the truth, so it scores nearly the same and the tie
@@ -64,6 +71,14 @@ formula matches better than a real translation of the same verse. Order catches 
 cannot: headings run through a book in one direction, so any placement that goes backwards
 relative to its neighbours is refused and re-searched between them.
 
+`headings/overrides.json` holds the anchors this gets wrong. There are five, each read verse by
+verse and corrected by hand, and each with the quotation that settles it recorded beside it. They
+exist because word overlap has a floor: "Job answered the Lord" and "the Lord answered Job" are
+the same words, "Jesus rebuked the unclean spirit" sits beside "all were astonished at the
+greatness of God" in one edition's verse 43 and 44, and no scoring of one verse against another
+separates those reliably. An override whose target verse is missing is refused rather than
+applied, so a dataset change that invalidates one fails loudly.
+
 The psalm numbering is passed in, not guessed. An edition that numbers its Psalms the Hebrew way
 must not have the Greek chapter mapping applied to it, and the mistake is silent: run against the
 ASV Byzantine Text with `greek`, every psalm from 10 on moves down one and Psalm 23 files under
@@ -87,16 +102,37 @@ FAR_MARGIN = 0.08
 FLOOR = 0.05        # and wherever an anchor ends up, its passage must still resemble the source
 OUT_OF_ORDER_EDGE = 1.6  # how much better an out-of-order reading must be to survive the order check
 
+BIGRAM_WEIGHT = 0.5   # how much of a verse's score comes from word order rather than word choice
+SUFFIXES = ("ings", "ing", "edst", "eth", "est", "ed", "es", "s")
+
+def stem(word):
+    """Enough to make "answering", "answered" and "answereth" the same token, and no more."""
+    for suffix in SUFFIXES:
+        if len(word) - len(suffix) >= 4 and word.endswith(suffix):
+            return word[: -len(suffix)]
+    return word
+
 _tok = {}
 def tokens(s):
+    """(words, adjacent word pairs) — the pairs are what make the comparison order-sensitive."""
     t = _tok.get(s)
     if t is None:
-        t = {w for w in re.findall(r"[a-z]{4,}", s.lower()) if w not in STOP}
+        words = [stem(w) for w in re.findall(r"[a-z]{4,}", s.lower()) if w not in STOP]
+        t = (set(words), set(zip(words, words[1:])))
         _tok[s] = t
     return t
 
-def jaccard(a, b):
-    return len(a & b) / len(a | b) if a and b else 0.0
+def overlap(a, b):
+    ua, ba = a
+    ub, bb = b
+    if not ua or not ub: return 0.0
+    uni = len(ua & ub) / len(ua | ub)
+    if not ba or not bb: return uni
+    bi = len(ba & bb) / len(ba | bb)
+    return (1 - BIGRAM_WEIGHT) * uni + BIGRAM_WEIGHT * bi
+
+# Kept under the old name so every call site reads the same; it is no longer a plain Jaccard.
+jaccard = overlap
 
 def load(ed, book):
     p = f"{ed}/{book}.json"
@@ -171,6 +207,8 @@ def place(hv, chapters, home, verse, shifts, where=None):
     return best[2], str(verse + best[3]), best[0], best[0] - runner
 
 ed, numbering, out = sys.argv[1], sys.argv[2], sys.argv[3]
+OVERRIDES = json.load(open("headings/overrides.json")).get(ed, {}) \
+    if os.path.exists("headings/overrides.json") else {}
 if numbering not in ("hebrew", "greek"):
     raise SystemExit("numbering must be 'hebrew' or 'greek'")
 GREEK_PSALMS = numbering == "greek"
@@ -223,6 +261,16 @@ for book in CANON:
                 continue
             # Wide enough for the psalm splits (Hebrew 10 sits 21 verses into Vulgate 9) and for
             # the Song of the Three inside Daniel 3 (67); negative for the psalms cut in two.
+            fixed = OVERRIDES.get(book, {}).get(ch, {}).get(v)
+            if fixed:
+                tc, tv, why = fixed[0], fixed[1], fixed[2]
+                if tv in tb.get(tc, {}):
+                    placed.setdefault(book, []).append((ch, v, tc, tv, title, 1.0, 1.0, True))
+                    notes.append(f"{book} {ch}:{v} -> {tc}:{tv} by override — {why}")
+                else:
+                    raise SystemExit(f"override {ed} {book} {ch}:{v} points at {tc}:{tv}, "
+                                     f"which this edition does not have")
+                continue
             if (book == "PSA" and verse == min(int(x) for x in hb[ch])
                     and (opens_its_psalm(int(ch)) or not GREEK_PSALMS)
                     and "1" in tb.get(tch, {})):

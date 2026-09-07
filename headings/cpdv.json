@@ -361,8 +361,9 @@
   },
   "25": {
    "1": "Offerings for the Tabernacle",
+   "10": "The Ark of the Covenant",
    "17": "The Mercy Seat",
-   "23": "The Ark of the Covenant · The Table of Showbread",
+   "23": "The Table of Showbread",
    "31": "The Lampstand"
   },
   "26": {
@@ -430,8 +431,9 @@
    "37": "The Curtain for the Entrance"
   },
   "37": {
+   "1": "Constructing the Ark",
    "6": "The Mercy Seat",
-   "10": "Constructing the Ark · The Table of Showbread",
+   "10": "The Table of Showbread",
    "17": "The Lampstand",
    "25": "The Altar of Incense"
   },
@@ -511,7 +513,7 @@
   "15": {
    "1": "The Uncleanness of Men",
    "13": "The Cleansing of Men",
-   "19": "The Uncleanness of Women",
+   "20": "The Uncleanness of Women",
    "28": "The Cleansing of Women"
   },
   "16": {
@@ -752,12 +754,11 @@
    "50": "Instructions for Occupying Canaan"
   },
   "34": {
-   "1": "The Boundaries of Canaan",
+   "1": "The Boundaries of Canaan · Six Cities of Refuge",
    "16": "Leaders to Divide the Land"
   },
   "35": {
-   "1": "Forty-Eight Cities for the Levites",
-   "9": "Six Cities of Refuge"
+   "1": "Forty-Eight Cities for the Levites"
   },
   "36": {
    "1": "Zelophehad’s Daughters Marry"
@@ -870,7 +871,7 @@
   },
   "22": {
    "1": "Various Laws",
-   "30": "Marriage Violations"
+   "13": "Marriage Violations"
   },
   "23": {
    "1": "Exclusion from the Congregation",
@@ -2112,16 +2113,13 @@
   "3": {
    "1": "The Prayer of Tobit",
    "7": "Sarah Is Reproached",
-   "11": "The Prayer of Sarah",
    "24": "Both Prayers Are Heard"
   },
-  "5": {
-   "1": "Tobias Finds a Companion",
-   "14": "Tobit's Counsel to His Son"
+  "4": {
+   "1": "Tobit's Counsel to His Son"
   },
   "6": {
-   "1": "The Journey and the Fish",
-   "8": "The Remedy and the Marriage Plan"
+   "1": "The Journey and the Fish"
   },
   "7": {
    "1": "At the House of Raguel"
@@ -2133,7 +2131,6 @@
    "1": "Raphael Fetches the Money"
   },
   "10": {
-   "1": "Tobit and Anna Wait",
    "10": "Tobias Departs with Sarah"
   },
   "11": {
@@ -2148,13 +2145,10 @@
  },
  "JDT": {
   "1": {
-   "5": "The Kings of Assyria and Media · The Defeat of Arphaxad"
+   "5": "The Kings of Assyria and Media"
   },
   "2": {
    "1": "Holofernes Sent Against the West"
-  },
-  "4": {
-   "8": "Israel Cries Out to God"
   },
   "5": {
    "1": "Achior Recounts Israel's History"
@@ -2178,9 +2172,6 @@
   "11": {
    "1": "Judith Before Holofernes"
   },
-  "12": {
-   "10": "The Banquet of Holofernes"
-  },
   "14": {
    "1": "The Assyrians Take Flight"
   },
@@ -2188,8 +2179,7 @@
    "9": "Israel Honors Judith"
   },
   "16": {
-   "1": "The Song of Judith",
-   "21": "The Later Years of Judith"
+   "1": "The Song of Judith"
   }
  },
  "EST": {
@@ -2198,38 +2188,13 @@
    "9": "Queen Vashti’s Refusal"
   },
   "4": {
-   "1": "Seeking Vashti’s Successor",
-   "5": "Esther Finds Favor",
    "17": "Esther Becomes Queen"
   },
-  "5": {
-   "1": "Haman’s Plot against the Jews"
-  },
-  "7": {
-   "1": "Mordecai Appeals to Esther"
-  },
   "9": {
-   "17": "Esther Approaches the King",
-   "25": "Haman’s Plot against Mordecai"
-  },
-  "10": {
-   "1": "Mordecai Is Honored"
-  },
-  "11": {
-   "1": "Esther Pleads for Her People",
-   "7": "The Hanging of Haman"
+   "17": "Esther Approaches the King"
   },
   "12": {
-   "1": "Esther Appeals for the Jews",
-   "7": "The Decree of Xerxes"
-  },
-  "14": {
-   "1": "The Jews Destroy Their Enemies",
-   "11": "Haman’s Sons Hanged",
-   "18": "The Feast of Purim Instituted"
-  },
-  "15": {
-   "1": "Tribute to Xerxes and Mordecai"
+   "1": "Esther Appeals for the Jews"
   }
  },
  "JOB": {
@@ -2244,7 +2209,7 @@
   },
   "3": {
    "1": "Job Laments His Birth",
-   "2": "Job: God Will Punish the Wicked · Job: Who Can Understand God’s Majesty?"
+   "2": "Elihu Describes God’s Power"
   },
   "4": {
    "1": "Eliphaz: The Innocent Prosper"
@@ -2288,8 +2253,11 @@
   "17": {
    "1": "Job Prepares for Death"
   },
+  "18": {
+   "1": "Bildad: God Punishes the Wicked"
+  },
   "19": {
-   "1": "Bildad: God Punishes the Wicked · Job: My Redeemer Lives"
+   "1": "Job: My Redeemer Lives"
   },
   "20": {
    "1": "Zophar: Destruction Awaits the Wicked"
@@ -2331,12 +2299,6 @@
   },
   "34": {
    "1": "Elihu Confirms God’s Justice"
-  },
-  "35": {
-   "1": "Elihu Recalls God’s Justice"
-  },
-  "36": {
-   "1": "Elihu Describes God’s Power"
   },
   "37": {
    "1": "Elihu Proclaims God’s Majesty"
@@ -2951,11 +2913,7 @@
   },
   "4": {
    "1": "The Evil of Oppression",
-   "13": "The Futility of Power",
-   "17": "Approaching God with Awe"
-  },
-  "5": {
-   "7": "The Futility of Wealth"
+   "13": "The Futility of Power"
   },
   "6": {
    "1": "The Futility of Life"
@@ -2994,9 +2952,7 @@
    "13": "The Bridegroom",
    "15": "The Friends",
    "16": "The Bride",
-   "19": "The Bridegroom",
-   "20": "The Bride",
-   "21": "The Bridegroom"
+   "19": "The Bridegroom"
   },
   "2": {
    "1": "The Bride’s Admiration · The Bride",
@@ -3017,7 +2973,6 @@
   "5": {
    "2": "The Bride and Her Beloved · The Bridegroom",
    "4": "The Friends · The Bride",
-   "11": "The Friends",
    "12": "The Bride",
    "19": "Together in the Garden · The Friends"
   },
@@ -3025,8 +2980,7 @@
    "1": "The Bride",
    "3": "The Bridegroom",
    "9": "The Friends",
-   "10": "The Bridegroom",
-   "12": "The Friends"
+   "10": "The Bridegroom"
   },
   "7": {
    "2": "Admiration by the Bridegroom",
@@ -3121,7 +3075,6 @@
   "19": {
    "1": "The Sea Closes over Egypt",
    "10": "Egypt Remembers the Plagues",
-   "17": "Creation Reordered for Israel",
    "20": "God Magnifies His People"
   }
  },
@@ -3129,7 +3082,8 @@
   "1": {
    "1": "The Origin of Wisdom",
    "11": "The Fear of the Lord",
-   "26": "Do Not Be a Hypocrite"
+   "26": "Do Not Be a Hypocrite",
+   "34": "True and False Wisdom · The Wise and the Foolish"
   },
   "2": {
    "1": "Trust God in Trial"
@@ -3139,6 +3093,7 @@
    "33": "Almsgiving Atones for Sin"
   },
   "4": {
+   "12": "Wisdom Rewards Her Sons",
    "24": "Do Not Be Ashamed of the Truth"
   },
   "5": {
@@ -3151,13 +3106,11 @@
   },
   "7": {
    "1": "Avoid Evil and Pride",
-   "24": "Household and Servants",
    "29": "Honor Your Parents",
    "31": "Honor the Priests",
    "36": "Remember the Poor and the Dead"
   },
   "8": {
-   "1": "Prudence with Others",
    "13": "Avoid the Sinner and the Fool"
   },
   "9": {
@@ -3193,11 +3146,9 @@
    "24": "God's Order in Creation"
   },
   "17": {
-   "13": "The Lord Sees All Ways",
-   "22": "A Call to Repentance"
+   "13": "The Lord Sees All Ways"
   },
   "18": {
-   "1": "The Greatness of God",
    "7": "The Frailty of Man",
    "15": "Give Without Reproach",
    "19": "Forethought and Self-Control",
@@ -3205,45 +3156,36 @@
   },
   "19": {
    "4": "The Loose Tongue",
-   "13": "Reprove Before You Condemn",
-   "18": "True and False Wisdom"
+   "13": "Reprove Before You Condemn"
   },
   "20": {
    "9": "Gain and Loss",
    "20": "The Slip of the Tongue",
+   "26": "Lying",
    "29": "Wisdom Concealed and Revealed",
    "32": "What to Be Ashamed Of"
   },
   "21": {
-   "1": "Flee from Sin",
-   "13": "The Wise and the Foolish"
+   "1": "Flee from Sin"
   },
   "22": {
    "1": "The Sluggard",
    "3": "Sons and Daughters",
-   "11": "Mourning the Dead and the Fool",
    "24": "Wounding a Friend",
    "33": "A Guard Over the Mouth"
   },
   "23": {
-   "7": "Discipline of the Mouth",
-   "32": "The Adulterous Wife"
+   "7": "Discipline of the Mouth"
   },
   "24": {
-   "1": "The Praise of Wisdom",
-   "33": "Wisdom and the Law"
+   "1": "The Praise of Wisdom"
   },
   "25": {
-   "5": "Old Age Without Wisdom",
-   "9": "Ten Happy Things"
-  },
-  "26": {
-   "25": "Three Griefs"
+   "5": "Old Age Without Wisdom"
   },
   "27": {
    "5": "A Man Revealed by His Speech",
    "9": "Righteousness and Deceit",
-   "16": "Betraying Secrets",
    "33": "Wrath and Vengeance"
   },
   "28": {
@@ -3252,7 +3194,6 @@
   },
   "29": {
    "1": "Lending and Repaying",
-   "18": "Standing Surety for a Neighbor",
    "27": "Home and Hospitality"
   },
   "30": {
@@ -3278,8 +3219,7 @@
    "10": "Travel and Experience"
   },
   "35": {
-   "3": "True Sacrifice",
-   "13": "God Hears the Oppressed"
+   "3": "True Sacrifice"
   },
   "36": {
    "1": "A Prayer for God's People",
@@ -3287,8 +3227,7 @@
    "23": "A Good Wife"
   },
   "37": {
-   "1": "Friends and Counselors",
-   "30": "Moderation in Eating"
+   "1": "Friends and Counselors"
   },
   "38": {
    "1": "Physicians and Healing",
@@ -3304,7 +3243,6 @@
    "18": "What Makes Life Sweet"
   },
   "41": {
-   "1": "Thoughts on Death",
    "8": "The Children of Sinners"
   },
   "42": {
@@ -3322,7 +3260,7 @@
   "44": {
    "1": "In Praise of the Fathers",
    "16": "Enoch",
-   "18": "Noah",
+   "17": "Noah",
    "20": "Abraham"
   },
   "45": {
@@ -3351,7 +3289,6 @@
   },
   "49": {
    "2": "Josiah",
-   "6": "The Kings of Judah",
    "13": "Zerubbabel and Joshua",
    "15": "Nehemiah",
    "16": "Enoch, Joseph, Shem, and Adam"
@@ -3363,7 +3300,7 @@
    "29": "The Author's Epilogue"
   },
   "51": {
-   "17": "A Prayer of Thanksgiving",
+   "1": "A Prayer of Thanksgiving",
    "18": "The Search for Wisdom"
   }
  },
@@ -3894,7 +3831,7 @@
    "1": "Ezekiel’s Call"
   },
   "3": {
-   "4": "Ezekiel Eats the Scroll",
+   "1": "Ezekiel Eats the Scroll",
    "16": "A Watchman for Israel"
   },
   "4": {
@@ -5044,7 +4981,7 @@
    "23": "Take Up Your Cross",
    "28": "The Transfiguration",
    "37": "The Boy with an Evil Spirit",
-   "43": "The Second Prediction of the Passion",
+   "44": "The Second Prediction of the Passion",
    "46": "The Greatest in the Kingdom",
    "51": "The Samaritans Reject Jesus",
    "57": "The Cost of Discipleship"
@@ -5203,7 +5140,7 @@
   },
   "6": {
    "1": "The Feeding of the Five Thousand",
-   "3": "Jesus Walks on Water",
+   "16": "Jesus Walks on Water",
    "22": "Jesus the Bread of Life",
    "60": "Many Disciples Turn Back",
    "68": "Peter’s Confession of Faith"
