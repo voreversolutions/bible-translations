@@ -4,13 +4,14 @@
     "name": "Berean Standard Bible",
     "license": "public-domain",
     "url": "https://ebible.org/Scriptures/engbsb_usfm.zip",
-    "note": "Headings only. None of the BSB's verse text is used here or shipped anywhere in the app."
+    "note": "Headings only, for the 66 canonical books. None of the BSB's verse text is used here or shipped anywhere in the app."
   },
   "languages": [
     {
       "code": "en",
-      "anchors": 3086,
-      "translated": false
+      "anchors": 3743,
+      "translated": false,
+      "deuterocanonAnchors": 657
     },
     {
       "code": "ar",
@@ -42,5 +43,13 @@
       "anchors": 3086,
       "translated": true
     }
-  ]
+  ],
+  "deuterocanon": {
+    "books": 18,
+    "anchors": 657,
+    "languages": [
+      "en"
+    ],
+    "note": "The BSB has no deuterocanon and no public-domain edition carries both those books and section headings, so these titles are written for this dataset. Anchors for the eleven books a Catholic edition divides follow those divisions, checked verse by verse against the ASV Byzantine Text; for 1ES, 2ES, 3MA, 4MA and PSS both the anchors and the titles are ours. English only: ASV BT is the one edition that carries these books and reads a heading set."
+  }
 }

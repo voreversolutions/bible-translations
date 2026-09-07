@@ -9,6 +9,11 @@
  * verse simply never renders — but the *count* is worth watching: a dozen is versification, a
  * thousand is a broken extraction.
  *
+ * A book the edition does not contain at all is counted separately and does not move the ratio.
+ * English now carries one anchor set over two canons: the ASV Byzantine Text has 84 books, the
+ * KJV 66, so scoring the deuterocanon against the KJV would report a broken extraction where the
+ * only fact is that the KJV has no Tobit.
+ *
  * Usage:
  *   node scripts/validate-headings.js [headings/en.json ...]
  *
@@ -37,6 +42,8 @@ function check(headingsFile, translation) {
   const headings = JSON.parse(fs.readFileSync(headingsFile, "utf8"));
   let total = 0;
   let resolved = 0;
+  let outOfCanon = 0;
+  const absentBooks = [];
   const misses = [];
 
   for (const [bookId, chapters] of Object.entries(headings)) {
@@ -45,13 +52,16 @@ function check(headingsFile, translation) {
       ? JSON.parse(fs.readFileSync(bookFile, "utf8")).chapters
       : null;
 
+    if (!book) {
+      const anchors = Object.values(chapters).reduce((n, v) => n + Object.keys(v).length, 0);
+      outOfCanon += anchors;
+      absentBooks.push(`${bookId} (${anchors})`);
+      continue;
+    }
+
     for (const [chapter, verses] of Object.entries(chapters)) {
       for (const verse of Object.keys(verses)) {
         total++;
-        if (!book) {
-          misses.push(`${bookId} ${chapter}:${verse} — book not in this edition`);
-          continue;
-        }
         if (book[chapter] && book[chapter][verse]) {
           resolved++;
           continue;
@@ -65,7 +75,7 @@ function check(headingsFile, translation) {
       }
     }
   }
-  return { total, resolved, misses };
+  return { total, resolved, outOfCanon, absentBooks, misses };
 }
 
 const files =
@@ -89,14 +99,18 @@ for (const file of files) {
   }
 
   for (const translation of targets) {
-    const { total, resolved, misses } = check(file, translation);
+    const { total, resolved, outOfCanon, absentBooks, misses } = check(file, translation);
     const ratio = total === 0 ? 0 : resolved / total;
     const flag = ratio < MIN_RESOLVED ? "FAIL" : "ok";
     if (ratio < MIN_RESOLVED) failed = true;
     console.log(
       `  ${flag.padEnd(4)} ${translation.id.padEnd(11)} ${resolved}/${total} ` +
-        `(${(ratio * 100).toFixed(2)}%)`
+        `(${(ratio * 100).toFixed(2)}%)` +
+        (outOfCanon > 0 ? `  +${outOfCanon} anchors outside this canon` : "")
     );
+    if (absentBooks.length > 0) {
+      console.log(`         books absent: ${absentBooks.join(", ")}`);
+    }
     for (const miss of misses) console.log(`         ${miss}`);
   }
 }

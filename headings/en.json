@@ -4028,6 +4028,1127 @@
    "1": "The Day of the LORD"
   }
  },
+ "TOB": {
+  "1": {
+   "3": "Tobit's Faithfulness in Exile",
+   "10": "Tobit Buries the Dead"
+  },
+  "2": {
+   "1": "Tobit Is Struck Blind",
+   "11": "Anna Reproaches Tobit"
+  },
+  "3": {
+   "1": "The Prayer of Tobit",
+   "7": "Sarah Is Reproached",
+   "11": "The Prayer of Sarah",
+   "16": "Both Prayers Are Heard"
+  },
+  "4": {
+   "1": "Tobit's Counsel to His Son"
+  },
+  "5": {
+   "1": "Tobias Finds a Companion"
+  },
+  "6": {
+   "1": "The Journey and the Fish",
+   "7": "The Remedy and the Marriage Plan"
+  },
+  "7": {
+   "1": "At the House of Raguel"
+  },
+  "8": {
+   "1": "The Wedding Night"
+  },
+  "9": {
+   "1": "Raphael Fetches the Money"
+  },
+  "10": {
+   "1": "Tobit and Anna Wait",
+   "10": "Tobias Departs with Sarah"
+  },
+  "11": {
+   "1": "The Return to Nineveh",
+   "10": "Tobit's Sight Restored",
+   "17": "Tobit Blesses Sarah"
+  },
+  "12": {
+   "1": "Raphael Reveals Himself"
+  },
+  "13": {
+   "1": "The Song of Tobit"
+  },
+  "14": {
+   "1": "The Last Words of Tobit"
+  }
+ },
+ "JDT": {
+  "1": {
+   "1": "The Kings of Assyria and Media",
+   "13": "The Defeat of Arphaxad"
+  },
+  "2": {
+   "1": "Holofernes Sent Against the West"
+  },
+  "4": {
+   "1": "Israel Prepares for War",
+   "9": "Israel Cries Out to God"
+  },
+  "5": {
+   "1": "Achior Recounts Israel's History"
+  },
+  "6": {
+   "1": "Achior Driven Out"
+  },
+  "7": {
+   "1": "The Siege of Bethulia"
+  },
+  "8": {
+   "1": "Judith of Bethulia",
+   "9": "Judith Rebukes the Elders"
+  },
+  "9": {
+   "1": "The Prayer of Judith"
+  },
+  "10": {
+   "1": "Judith Goes to the Assyrian Camp"
+  },
+  "11": {
+   "1": "Judith Before Holofernes"
+  },
+  "12": {
+   "10": "The Banquet of Holofernes"
+  },
+  "13": {
+   "1": "Judith Beheads Holofernes"
+  },
+  "14": {
+   "1": "The Assyrians Take Flight"
+  },
+  "15": {
+   "8": "Israel Honors Judith"
+  },
+  "16": {
+   "1": "The Song of Judith",
+   "21": "The Later Years of Judith"
+  }
+ },
+ "ESG": {
+  "1": {
+   "1": "The Dream of Mordecai"
+  },
+  "3": {
+   "13": "The Edict of Artaxerxes"
+  },
+  "4": {
+   "17": "The Prayers of Mordecai and Esther"
+  },
+  "5": {
+   "1": "Esther Before the King"
+  },
+  "8": {
+   "12": "The Decree of Reversal"
+  },
+  "10": {
+   "3": "The Dream Interpreted"
+  }
+ },
+ "WIS": {
+  "1": {
+   "1": "Seek Righteousness and Wisdom",
+   "16": "The Ungodly Court Death"
+  },
+  "2": {
+   "21": "The Error of the Wicked"
+  },
+  "3": {
+   "1": "The Righteous Are in God's Hand",
+   "13": "Childlessness and the Fruit of Virtue"
+  },
+  "4": {
+   "7": "The Early Death of the Righteous",
+   "20": "The Judgment of the Ungodly"
+  },
+  "5": {
+   "15": "The Reward of the Righteous"
+  },
+  "6": {
+   "1": "A Warning to Rulers",
+   "12": "Wisdom Is Easily Found",
+   "22": "The Nature of Wisdom"
+  },
+  "7": {
+   "1": "Solomon Is Mortal Like All Men",
+   "7": "Wisdom Better Than Riches",
+   "15": "A Prayer for True Speech",
+   "22": "The Spirit of Wisdom"
+  },
+  "8": {
+   "2": "Wisdom Loved from Youth",
+   "9": "Wisdom as Counselor",
+   "17": "Solomon Prays for Wisdom"
+  },
+  "9": {
+   "1": "The Prayer for Wisdom"
+  },
+  "10": {
+   "1": "Wisdom Guards the Patriarchs",
+   "15": "Wisdom Delivers Israel"
+  },
+  "11": {
+   "5": "Water for Israel, Blood for Egypt",
+   "15": "Punished by What They Worshiped",
+   "21": "God's Mercy Toward All"
+  },
+  "12": {
+   "3": "The Old Inhabitants of Canaan",
+   "12": "God Judges with Restraint",
+   "19": "God Teaches His People",
+   "23": "The Folly of the Unrighteous"
+  },
+  "13": {
+   "1": "The Worship of Created Things",
+   "10": "The Maker of Idols"
+  },
+  "14": {
+   "12": "The Origin of Idolatry",
+   "22": "The Fruits of Idol Worship"
+  },
+  "15": {
+   "1": "God's People Are Not Deceived",
+   "7": "The Potter and His Clay Gods",
+   "14": "The Idols of Israel's Enemies"
+  },
+  "16": {
+   "1": "Vermin Against Egypt",
+   "5": "The Serpents and the Saving Sign",
+   "15": "Hail, Fire, and Manna"
+  },
+  "17": {
+   "1": "Darkness Over Egypt"
+  },
+  "18": {
+   "5": "The Death of the Firstborn"
+  },
+  "19": {
+   "1": "The Sea Closes over Egypt",
+   "10": "Egypt Remembers the Plagues",
+   "13": "Sodom and Egypt Compared",
+   "18": "Creation Reordered for Israel",
+   "22": "God Magnifies His People"
+  }
+ },
+ "SIR": {
+  "1": {
+   "1": "The Origin of Wisdom",
+   "11": "The Fear of the Lord",
+   "22": "Unjust Anger",
+   "25": "Do Not Be a Hypocrite"
+  },
+  "2": {
+   "1": "Trust God in Trial"
+  },
+  "3": {
+   "1": "Duties Toward Parents",
+   "17": "Humility",
+   "26": "The Stubborn Heart",
+   "30": "Almsgiving Atones for Sin"
+  },
+  "4": {
+   "11": "Wisdom Rewards Her Sons",
+   "20": "Do Not Be Ashamed of the Truth"
+  },
+  "5": {
+   "1": "Presumption",
+   "9": "The Double Tongue"
+  },
+  "6": {
+   "5": "True and False Friends",
+   "18": "Come to Wisdom's Discipline"
+  },
+  "7": {
+   "1": "Avoid Evil and Pride",
+   "22": "Household and Servants",
+   "27": "Honor Your Parents",
+   "29": "Honor the Priests",
+   "32": "Remember the Poor and the Dead"
+  },
+  "8": {
+   "1": "Prudence with Others",
+   "8": "Listen to the Wise",
+   "10": "Avoid the Sinner and the Fool"
+  },
+  "9": {
+   "1": "Caution Concerning Women",
+   "10": "Choosing Friends and Company"
+  },
+  "10": {
+   "1": "Rulers and Their Peoples",
+   "6": "Pride Is Hateful to God",
+   "19": "Whom to Honor",
+   "26": "Self-Respect and Poverty"
+  },
+  "11": {
+   "1": "Do Not Judge by Appearances",
+   "7": "Examine Before You Speak",
+   "12": "The Lord Lifts Up the Lowly",
+   "29": "Be Careful Whom You Welcome"
+  },
+  "12": {
+   "1": "To Whom to Do Good",
+   "8": "Beware of Your Enemy"
+  },
+  "13": {
+   "1": "Rich and Poor"
+  },
+  "14": {
+   "1": "A Blameless Conscience",
+   "3": "The Miser",
+   "20": "Blessed Is the Seeker of Wisdom"
+  },
+  "15": {
+   "11": "God Is Not the Author of Sin"
+  },
+  "16": {
+   "1": "Ungodly Children",
+   "17": "Nothing Is Hidden from God",
+   "24": "God's Order in Creation"
+  },
+  "17": {
+   "15": "The Lord Sees All Ways",
+   "25": "A Call to Repentance"
+  },
+  "18": {
+   "1": "The Greatness of God",
+   "8": "The Frailty of Man",
+   "15": "Give Without Reproach",
+   "19": "Forethought and Self-Control",
+   "30": "Master Your Desires"
+  },
+  "19": {
+   "4": "The Loose Tongue",
+   "13": "Reprove Before You Condemn",
+   "20": "True and False Wisdom"
+  },
+  "20": {
+   "1": "Silence and Speech",
+   "9": "Gain and Loss",
+   "18": "The Slip of the Tongue",
+   "24": "Lying",
+   "27": "Wisdom Concealed and Revealed"
+  },
+  "21": {
+   "1": "Flee from Sin",
+   "11": "The Wise and the Foolish"
+  },
+  "22": {
+   "1": "The Sluggard",
+   "3": "Sons and Daughters",
+   "11": "Mourning the Dead and the Fool",
+   "19": "Wounding a Friend",
+   "27": "A Guard Over the Mouth"
+  },
+  "23": {
+   "7": "Discipline of the Mouth",
+   "12": "Foul Speech",
+   "16": "Sins of the Flesh",
+   "22": "The Adulterous Wife"
+  },
+  "24": {
+   "1": "The Praise of Wisdom",
+   "23": "Wisdom and the Law"
+  },
+  "25": {
+   "1": "Things That Please and Displease",
+   "3": "Old Age Without Wisdom",
+   "7": "Ten Happy Things",
+   "13": "A Wicked Wife"
+  },
+  "26": {
+   "28": "Three Griefs",
+   "29": "Merchants and Sin"
+  },
+  "27": {
+   "4": "A Man Revealed by His Speech",
+   "8": "Righteousness and Deceit",
+   "16": "Betraying Secrets",
+   "22": "Treachery Returns on Its Author",
+   "30": "Wrath and Vengeance"
+  },
+  "28": {
+   "8": "Avoid Quarrels",
+   "13": "The Slanderous Tongue"
+  },
+  "29": {
+   "1": "Lending and Repaying",
+   "8": "Alms and Surety",
+   "14": "Standing Surety for a Neighbor",
+   "21": "Home and Hospitality"
+  },
+  "30": {
+   "1": "Discipline of Children",
+   "14": "Health Is Better Than Wealth",
+   "21": "Gladness of Heart"
+  },
+  "31": {
+   "1": "The Cares of Riches",
+   "12": "Table Manners",
+   "25": "Wine"
+  },
+  "32": {
+   "1": "Behavior at a Feast",
+   "14": "Reverence and the Law"
+  },
+  "33": {
+   "7": "Why Days Differ",
+   "20": "Keep Your Own Authority",
+   "25": "Servants"
+  },
+  "34": {
+   "1": "Dreams and Vain Hopes",
+   "9": "Travel and Experience",
+   "18": "Offerings from Injustice"
+  },
+  "35": {
+   "1": "True Sacrifice",
+   "11": "God Hears the Oppressed"
+  },
+  "36": {
+   "1": "A Prayer for God's People",
+   "18": "Choosing Well",
+   "21": "A Good Wife"
+  },
+  "37": {
+   "1": "Friends and Counselors",
+   "7": "Choosing a Counselor",
+   "16": "Reason Before Action",
+   "27": "Moderation in Eating"
+  },
+  "38": {
+   "1": "Physicians and Healing",
+   "16": "Mourning the Dead",
+   "24": "The Scribe and the Craftsman"
+  },
+  "39": {
+   "1": "The Scribe Who Studies the Law",
+   "12": "Praise for the Works of God"
+  },
+  "40": {
+   "1": "The Troubles of Human Life",
+   "12": "What Endures",
+   "18": "What Makes Life Sweet",
+   "28": "Do Not Live by Begging"
+  },
+  "41": {
+   "1": "Thoughts on Death",
+   "5": "The Children of Sinners",
+   "14": "What to Be Ashamed Of"
+  },
+  "42": {
+   "9": "A Father's Care for His Daughter",
+   "12": "Guarding Against Temptation",
+   "15": "The Works of the Lord"
+  },
+  "43": {
+   "1": "The Sun",
+   "6": "The Moon",
+   "9": "The Stars",
+   "11": "The Rainbow",
+   "13": "Snow, Frost, and Storm"
+  },
+  "44": {
+   "1": "In Praise of the Fathers",
+   "16": "Enoch",
+   "17": "Noah",
+   "19": "Abraham",
+   "22": "Isaac and Jacob"
+  },
+  "45": {
+   "1": "Moses",
+   "6": "Aaron",
+   "23": "Phinehas"
+  },
+  "46": {
+   "1": "Joshua Son of Nun",
+   "7": "Joshua and Caleb at Kadesh",
+   "11": "The Judges",
+   "13": "Samuel"
+  },
+  "47": {
+   "1": "Nathan",
+   "2": "David",
+   "12": "Solomon",
+   "23": "Rehoboam and Jeroboam",
+   "24": "The Sin of Israel"
+  },
+  "48": {
+   "1": "Elijah",
+   "12": "Elisha",
+   "15": "The Exile of Israel",
+   "17": "Hezekiah",
+   "22": "Isaiah"
+  },
+  "49": {
+   "1": "Josiah",
+   "4": "The Kings of Judah",
+   "11": "Zerubbabel and Joshua",
+   "13": "Nehemiah",
+   "14": "Enoch, Joseph, Shem, and Adam"
+  },
+  "50": {
+   "1": "Simon the High Priest",
+   "22": "A Call to Bless God",
+   "25": "Three Hated Nations",
+   "27": "The Author's Epilogue"
+  },
+  "51": {
+   "1": "A Prayer of Thanksgiving",
+   "13": "The Search for Wisdom"
+  }
+ },
+ "BAR": {
+  "1": {
+   "1": "The Words of Baruch",
+   "16": "A Confession of Guilt"
+  },
+  "2": {
+   "11": "A Plea for Mercy"
+  },
+  "3": {
+   "9": "Israel Has Forsaken Wisdom"
+  },
+  "4": {
+   "5": "Comfort for Jerusalem"
+  },
+  "6": {
+   "1": "The Letter of Jeremiah"
+  }
+ },
+ "S3Y": {
+  "1": {
+   "2": "The Prayer of Azariah",
+   "23": "The Angel in the Furnace",
+   "28": "The Song of the Three"
+  }
+ },
+ "SUS": {
+  "1": {
+   "1": "Susanna and the Elders",
+   "42": "The Judgment of Daniel"
+  }
+ },
+ "BEL": {
+  "1": {
+   "1": "Daniel Refuses to Worship Bel",
+   "13": "Daniel Exposes the Deception",
+   "23": "Daniel Kills the Dragon",
+   "28": "Daniel in the Lions' Den"
+  }
+ },
+ "1MA": {
+  "1": {
+   "1": "Alexander and His Successors",
+   "10": "Antiochus Epiphanes and the Renegades",
+   "16": "Antiochus Plunders the Temple",
+   "29": "Jerusalem Occupied",
+   "41": "The Decree Against the Law"
+  },
+  "2": {
+   "1": "Mattathias of Modein",
+   "15": "Mattathias Refuses to Sacrifice",
+   "29": "Slaughter in the Wilderness",
+   "39": "The Decision to Fight on the Sabbath",
+   "49": "The Last Words of Mattathias"
+  },
+  "3": {
+   "1": "Judas Maccabeus Takes Command",
+   "10": "Victories over Apollonius and Seron",
+   "27": "Lysias Sent Against Judea",
+   "38": "Nicanor and Gorgias",
+   "46": "Israel Gathers at Mizpeh"
+  },
+  "4": {
+   "1": "The Battle of Emmaus",
+   "28": "The Battle of Beth-zur",
+   "36": "The Cleansing of the Temple"
+  },
+  "5": {
+   "1": "War with the Neighboring Nations",
+   "9": "Judas in Gilead",
+   "21": "Simon in Galilee",
+   "55": "The Defeat at Jamnia",
+   "63": "The Fame of Judas"
+  },
+  "6": {
+   "1": "The Death of Antiochus Epiphanes",
+   "14": "Antiochus Eupator Made King",
+   "18": "The Siege of the Citadel",
+   "28": "The Battle of Beth-zechariah",
+   "48": "Peace with Antiochus Eupator",
+   "55": "Lysias Returns to Antioch"
+  },
+  "7": {
+   "1": "Demetrius and Alcimus",
+   "26": "Nicanor Sent Against Judas",
+   "33": "Nicanor Threatens the Temple",
+   "39": "The Death of Nicanor"
+  },
+  "8": {
+   "1": "The Fame of the Romans",
+   "17": "The Treaty with Rome"
+  },
+  "9": {
+   "1": "The Last Battle of Judas",
+   "19": "The Burial of Judas",
+   "23": "Jonathan Succeeds Judas",
+   "32": "Jonathan in the Wilderness",
+   "43": "The Battle at the Jordan",
+   "50": "Bacchides Fortifies Judea",
+   "58": "Peace Between Jonathan and Bacchides"
+  },
+  "10": {
+   "1": "Alexander Epiphanes Courts Jonathan",
+   "22": "The Offer of Demetrius",
+   "46": "Jonathan Sides with Alexander",
+   "51": "Alexander Marries Cleopatra",
+   "67": "Jonathan Defeats Apollonius"
+  },
+  "11": {
+   "1": "Ptolemy and the Death of Alexander",
+   "20": "Jonathan Before Demetrius",
+   "30": "The Letter of Demetrius",
+   "38": "Trypho and the Young Antiochus",
+   "54": "Jonathan Serves Antiochus"
+  },
+  "12": {
+   "1": "Envoys to Rome and Sparta",
+   "24": "Jonathan Campaigns in Syria",
+   "35": "The Walls of Jerusalem",
+   "39": "Trypho Seizes Jonathan"
+  },
+  "13": {
+   "1": "Simon Takes Command",
+   "12": "Trypho Marches on Judea",
+   "25": "The Tomb at Modein",
+   "31": "Simon Wins Independence",
+   "43": "The Capture of Gazara",
+   "49": "The Citadel Surrenders"
+  },
+  "14": {
+   "1": "The Capture of Demetrius",
+   "16": "Rome and Sparta Renew Friendship",
+   "25": "Israel Honors Simon"
+  },
+  "15": {
+   "1": "The Letter of Antiochus Sidetes",
+   "15": "Rome Writes on Israel's Behalf",
+   "25": "The Siege of Dor",
+   "37": "Cendebeus Sent Against Judea"
+  },
+  "16": {
+   "1": "John and Judas Defeat Cendebeus",
+   "11": "The Murder of Simon"
+  }
+ },
+ "2MA": {
+  "1": {
+   "1": "A Letter to the Jews of Egypt",
+   "10": "A Second Letter",
+   "11": "Thanksgiving for Deliverance",
+   "18": "The Sacred Fire"
+  },
+  "2": {
+   "1": "Jeremiah and the Tent",
+   "13": "The Records of Nehemiah",
+   "16": "An Invitation to the Feast",
+   "19": "The Author's Preface"
+  },
+  "3": {
+   "1": "Onias the High Priest",
+   "13": "Heliodorus Sent for the Treasury",
+   "24": "The Vision in the Treasury",
+   "35": "Heliodorus Testifies to the Lord"
+  },
+  "4": {
+   "1": "Simon Slanders Onias",
+   "7": "Jason Buys the High Priesthood",
+   "21": "Antiochus Received in Jerusalem",
+   "23": "Menelaus Outbids Jason",
+   "30": "The Murder of Onias",
+   "39": "The Death of Lysimachus",
+   "43": "Menelaus Escapes Judgment"
+  },
+  "5": {
+   "1": "The Vision over Jerusalem",
+   "5": "Jason's Failed Assault",
+   "15": "Antiochus Plunders the Temple",
+   "21": "Apollonius Attacks on the Sabbath"
+  },
+  "6": {
+   "1": "The Suppression of the Law",
+   "12": "Why God Chastens His People",
+   "18": "The Martyrdom of Eleazar"
+  },
+  "7": {
+   "1": "The Seven Brothers and Their Mother"
+  },
+  "8": {
+   "1": "Judas Maccabeus Gathers His Forces",
+   "8": "Nicanor and the Slave Merchants",
+   "30": "Victory over Timothy and Bacchides",
+   "34": "The Flight of Nicanor"
+  },
+  "9": {
+   "1": "The Sickness of Antiochus",
+   "18": "The Letter of Antiochus"
+  },
+  "10": {
+   "1": "The Temple Recovered and Dedicated",
+   "9": "Antiochus Eupator Succeeds His Father",
+   "14": "War with Gorgias and the Idumeans",
+   "24": "The Defeat of Timothy"
+  },
+  "11": {
+   "1": "Lysias Invades Judea",
+   "13": "Letters of Peace"
+  },
+  "12": {
+   "1": "Trouble at Joppa and Jamnia",
+   "10": "Battles Beyond the Jordan",
+   "17": "The Fortress of Caspin",
+   "27": "Ephron Destroyed",
+   "32": "The Battle with Gorgias",
+   "38": "Prayer for the Fallen"
+  },
+  "13": {
+   "1": "Antiochus Eupator Marches on Judea",
+   "9": "Judas Attacks the King's Camp",
+   "18": "Peace with Antiochus Eupator"
+  },
+  "14": {
+   "1": "Demetrius and Alcimus",
+   "15": "Nicanor Makes Friends with Judas",
+   "26": "Nicanor Ordered to Arrest Judas",
+   "37": "The Death of Razis"
+  },
+  "15": {
+   "1": "Nicanor Plans a Sabbath Attack",
+   "6": "The Dream of Judas",
+   "17": "Judas Prepares for Battle",
+   "25": "The Defeat and Death of Nicanor",
+   "37": "The Author's Epilogue"
+  }
+ },
+ "1ES": {
+  "1": {
+   "1": "The Passover of Josiah",
+   "25": "The Death of Josiah",
+   "34": "The Last Kings of Judah",
+   "49": "The Fall of Jerusalem"
+  },
+  "2": {
+   "1": "The Decree of Cyrus",
+   "10": "The Vessels of the Temple Returned",
+   "16": "The Letter to Artaxerxes",
+   "25": "The Reply of Artaxerxes"
+  },
+  "3": {
+   "1": "The Feast of Darius",
+   "4": "The Question of the Three Bodyguards",
+   "17": "The First Answer: Wine"
+  },
+  "4": {
+   "1": "The Second Answer: The King",
+   "13": "The Third Answer: Women",
+   "33": "Truth Is Strongest of All",
+   "42": "Darius Grants Zerubbabel's Request",
+   "58": "The Thanksgiving of Zerubbabel"
+  },
+  "5": {
+   "1": "The Return from Babylon",
+   "7": "The List of Those Who Returned",
+   "24": "The Priests, Levites, and Temple Servants",
+   "36": "Those Who Could Not Prove Their Descent",
+   "47": "The Altar Rebuilt",
+   "56": "The Foundation of the Temple",
+   "66": "The Work Is Hindered"
+  },
+  "6": {
+   "1": "Haggai and Zechariah Stir Up the Work",
+   "7": "The Letter of Sisinnes to Darius",
+   "23": "The Decree of Cyrus Found",
+   "27": "The Reply of Darius"
+  },
+  "7": {
+   "1": "The Temple Finished and Dedicated",
+   "10": "The Passover Kept"
+  },
+  "8": {
+   "1": "Ezra Comes Up from Babylon",
+   "8": "The Commission of Artaxerxes",
+   "25": "The Blessing of Ezra",
+   "28": "The Heads of the Families Who Returned",
+   "41": "Levites Sought at the River Theras",
+   "50": "The Fast Before the Journey",
+   "54": "The Silver and Gold Weighed Out",
+   "61": "Arrival at Jerusalem",
+   "68": "The Report of Foreign Marriages",
+   "71": "The Prayer of Ezra",
+   "91": "The People Swear a Covenant"
+  },
+  "9": {
+   "1": "The Assembly at Jerusalem",
+   "16": "The Examination of the Cases",
+   "18": "Those Who Had Foreign Wives",
+   "37": "Ezra Reads the Law",
+   "49": "This Day Is Holy to the Lord"
+  }
+ },
+ "MAN": {
+  "1": {
+   "1": "The Prayer of Manasseh"
+  }
+ },
+ "PS2": {
+  "1": {
+   "1": "A Psalm of David After Goliath"
+  }
+ },
+ "3MA": {
+  "1": {
+   "1": "Philopator Defeats Antiochus",
+   "6": "The King Visits the Cities",
+   "9": "The King Would Enter the Temple",
+   "16": "Jerusalem Cries Out",
+   "25": "The Elders Plead with the King"
+  },
+  "2": {
+   "1": "The Prayer of Simon the High Priest",
+   "21": "God Strikes the King Down",
+   "25": "The Decree Against the Jews of Egypt",
+   "31": "Some Apostatize, the Rest Hold Fast"
+  },
+  "3": {
+   "1": "The King's Rage Against All the Jews",
+   "8": "The Greeks Pity the Jews",
+   "11": "The King's Letter",
+   "25": "The Order to Round Them Up"
+  },
+  "4": {
+   "1": "The Jews Driven from Their Homes",
+   "11": "Brought to the Hippodrome",
+   "14": "The Registration",
+   "17": "The Registrars Run Out of Paper"
+  },
+  "5": {
+   "1": "The Elephants Prepared",
+   "10": "God Sends the King Sleep",
+   "14": "The Feast Delays the Slaughter",
+   "23": "The Second Attempt",
+   "30": "The King Turns on Hermon",
+   "36": "The Third Attempt"
+  },
+  "6": {
+   "1": "The Prayer of Eleazar",
+   "16": "Two Angels Appear",
+   "22": "The King Relents",
+   "30": "A Feast of Deliverance",
+   "36": "The Festival Ordained"
+  },
+  "7": {
+   "1": "The Letter of Ptolemy Philopator",
+   "10": "Judgment on the Apostates",
+   "17": "The Feast at Ptolemais",
+   "20": "The Return Home"
+  }
+ },
+ "2ES": {
+  "1": {
+   "1": "The Word of the Lord to Ezra",
+   "12": "Israel's Ingratitude",
+   "24": "The Lord Forsakes His People",
+   "33": "Your House Is Desolate",
+   "38": "A People Yet to Come"
+  },
+  "2": {
+   "1": "The Mother Forsaken",
+   "10": "The Everlasting Tabernacles",
+   "20": "How My People Must Live",
+   "33": "Ezra Is Sent to the Nations",
+   "42": "The Multitude on Mount Zion"
+  },
+  "3": {
+   "1": "The Complaint of Ezra",
+   "4": "From Adam to the Flood",
+   "12": "From Abraham to David",
+   "20": "The Wicked Heart Remained",
+   "28": "Is Babylon Better Than Zion?"
+  },
+  "4": {
+   "1": "Uriel Answers with Three Riddles",
+   "13": "The Wood and the Waves",
+   "22": "Why Israel Is Given to the Nations",
+   "33": "How Long Until the End?",
+   "44": "The Vision of Fire and Water"
+  },
+  "5": {
+   "1": "The Signs of the End",
+   "14": "Ezra Awakes",
+   "16": "Phaltiel Comes to Ezra",
+   "21": "The Second Vision",
+   "31": "The Angel's Reply",
+   "43": "Why Creation Is Not All at Once"
+  },
+  "6": {
+   "1": "God Alone Was at the Beginning",
+   "7": "The Parting of the Two Ages",
+   "11": "The End of the Signs",
+   "18": "The Days That Are Coming",
+   "29": "Fast Seven Days More",
+   "35": "The Third Vision",
+   "38": "The Six Days of Creation",
+   "55": "The World Was Made for Israel"
+  },
+  "7": {
+   "1": "The Narrow Entrance",
+   "10": "Why This World Is Narrow",
+   "17": "The Fate of the Ungodly",
+   "26": "The Messiah and the Judgment",
+   "45": "Few Are Saved, and Why",
+   "62": "Better Not to Have Been Born",
+   "70": "Man Was Given Understanding",
+   "75": "The Soul After Death",
+   "78": "The Seven Torments of the Wicked",
+   "88": "The Seven Orders of the Just",
+   "100": "None May Intercede on That Day",
+   "116": "O Adam, What Hast Thou Done?",
+   "132": "The Mercies of the Most High"
+  },
+  "8": {
+   "1": "Many Created, Few Saved",
+   "4": "Ezra Pleads for Mankind",
+   "20": "The Prayer of Ezra",
+   "37": "God Rejoices Over the Righteous",
+   "41": "The Seed That Does Not Come Up",
+   "46": "Paradise Is Opened to You"
+  },
+  "9": {
+   "1": "The Signs of the Appointed Time",
+   "14": "The Lost Are More Than the Saved",
+   "23": "Go into the Field of Flowers",
+   "29": "The Law That Does Not Perish",
+   "38": "The Mourning Woman"
+  },
+  "10": {
+   "1": "The Woman's Son Dies",
+   "5": "Ezra Rebukes Her Grief",
+   "25": "The Woman Becomes a City",
+   "29": "Uriel Returns",
+   "38": "The Woman Is Zion",
+   "55": "Enter the City and See"
+  },
+  "11": {
+   "1": "The Vision of the Eagle",
+   "10": "The Reign of the Wings",
+   "22": "The Under Wings",
+   "29": "The Three Heads",
+   "36": "The Lion Rebukes the Eagle"
+  },
+  "12": {
+   "1": "The Eagle Is Consumed",
+   "4": "Ezra Asks for the Meaning",
+   "10": "The Eagle Is the Fourth Kingdom",
+   "22": "The Three Heads Interpreted",
+   "31": "The Lion Is the Anointed One",
+   "37": "Write These Things in a Book",
+   "40": "The People Seek Ezra"
+  },
+  "13": {
+   "1": "The Man from the Sea",
+   "12": "Ezra Asks for the Interpretation",
+   "21": "Those Who Are Left Behind",
+   "25": "The Man Is the Son of God",
+   "39": "The Ten Tribes Beyond the River",
+   "51": "Why the Vision Was Shown to Ezra"
+  },
+  "14": {
+   "1": "The Voice from the Bush",
+   "13": "Set Thy House in Order",
+   "19": "The Law Is Burnt",
+   "23": "Five Scribes and Many Tablets",
+   "27": "Ezra Speaks to the People",
+   "37": "The Cup of Understanding",
+   "44": "Ninety-Four Books Written"
+  },
+  "15": {
+   "1": "Speak the Words of Prophecy",
+   "12": "Woe to the World",
+   "20": "The Kings of the Earth Called Together",
+   "28": "A Vision from the East",
+   "34": "Clouds and Storms Gather",
+   "43": "The Destruction of Babylon",
+   "46": "Woe to Asia"
+  },
+  "16": {
+   "1": "Woe to Babylon and Asia",
+   "12": "None Can Turn Back the Sword",
+   "17": "The Beginning of Sorrows",
+   "21": "Famine and Desolation",
+   "35": "Hear, Ye Servants of the Lord",
+   "40": "Live as Strangers in the World",
+   "52": "Iniquity Shall Be Taken Away",
+   "54": "The Lord Knows All Works",
+   "64": "Your Sins Shall Be Brought Forth",
+   "73": "The Trial of the Elect"
+  }
+ },
+ "4MA": {
+  "1": {
+   "1": "Reason Is Master of the Passions",
+   "13": "What Reason and Passion Are",
+   "20": "The Forms of Passion",
+   "31": "Temperance and the Law"
+  },
+  "2": {
+   "1": "Joseph and the Mastery of Desire",
+   "8": "The Law Rules the Lover of Money",
+   "15": "Reason Over Anger and Ambition",
+   "21": "The Mind Enthroned Over the Passions"
+  },
+  "3": {
+   "1": "Reason Restrains, It Does Not Uproot",
+   "6": "The Thirst of King David",
+   "19": "The Peace Under Seleucus"
+  },
+  "4": {
+   "1": "Simon Betrays Onias",
+   "15": "Antiochus Epiphanes and Jason",
+   "22": "The Persecution Begins"
+  },
+  "5": {
+   "1": "Eleazar Before the Tyrant",
+   "14": "The Answer of Eleazar",
+   "32": "Eleazar Defies the Tortures"
+  },
+  "6": {
+   "1": "The Torture of Eleazar",
+   "12": "The Offer of an Escape",
+   "24": "The Death of Eleazar",
+   "31": "Reason Rules the Passions"
+  },
+  "7": {
+   "1": "In Praise of Eleazar",
+   "16": "Only the Devout Master the Passions"
+  },
+  "8": {
+   "1": "The Seven Brothers Brought In",
+   "5": "The Tyrant's Offer",
+   "16": "What a Coward Would Have Said",
+   "27": "The Brothers Were Not Cowards"
+  },
+  "9": {
+   "1": "The Answer of the Brothers",
+   "10": "The Death of the Eldest",
+   "26": "The Second Brother"
+  },
+  "10": {
+   "1": "The Third Brother",
+   "12": "The Fourth Brother"
+  },
+  "11": {
+   "1": "The Fifth Brother",
+   "13": "The Sixth Brother"
+  },
+  "12": {
+   "1": "The Youngest Brother",
+   "10": "His Words to the Tyrant"
+  },
+  "13": {
+   "1": "The Brothers Mastered Their Passions",
+   "8": "They Encouraged One Another",
+   "19": "The Bond of Brotherhood"
+  },
+  "14": {
+   "1": "The Courage of the Seven",
+   "11": "The Endurance of the Mother",
+   "13": "Even Beasts Love Their Young"
+  },
+  "15": {
+   "1": "The Mother Chose Religion",
+   "14": "The Mother Watched Them Die",
+   "29": "Mother of a Nation"
+  },
+  "16": {
+   "1": "A Woman Mastered the Passions",
+   "5": "What a Fainthearted Mother Would Have Said",
+   "12": "The Mother Exhorts Her Sons"
+  },
+  "17": {
+   "1": "The Death of the Mother",
+   "7": "An Epitaph for the Martyrs",
+   "20": "Their Death Ransomed the Nation"
+  },
+  "18": {
+   "1": "A Call to Obey the Law",
+   "6": "The Mother's Words to Her Sons",
+   "20": "The Vengeance of God"
+  }
+ },
+ "PSS": {
+  "1": {
+   "1": "Jerusalem Cries Out"
+  },
+  "2": {
+   "1": "The Sinner Profanes Jerusalem"
+  },
+  "3": {
+   "1": "The Righteous and the Sinner"
+  },
+  "4": {
+   "1": "Against the Men-Pleasers"
+  },
+  "5": {
+   "1": "God Provides for All"
+  },
+  "6": {
+   "1": "Happy the Man Who Calls on the Lord"
+  },
+  "7": {
+   "1": "Chasten Us, but Do Not Forsake Us"
+  },
+  "8": {
+   "1": "The Sins of Jerusalem"
+  },
+  "9": {
+   "1": "Israel in Captivity"
+  },
+  "10": {
+   "1": "Happy the Man the Lord Corrects"
+  },
+  "11": {
+   "1": "The Gathering of the Scattered"
+  },
+  "12": {
+   "1": "Against the Slanderous Tongue"
+  },
+  "13": {
+   "1": "The Lord Spares the Righteous"
+  },
+  "14": {
+   "1": "The Faithful and the Sinners"
+  },
+  "15": {
+   "1": "The Mark of the Righteous"
+  },
+  "16": {
+   "1": "Rescued from the Pit"
+  },
+  "17": {
+   "1": "Our King and His Anointed"
+  },
+  "18": {
+   "1": "The Blessing of the Lord's Anointed"
+  }
+ },
  "MAT": {
   "1": {
    "1": "The Genealogy of Jesus",
