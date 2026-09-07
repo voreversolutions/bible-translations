@@ -110,6 +110,15 @@
       "license": "public-domain",
       "attribution": "Michael Paul Johnson, via eBible.org",
       "versification": "septuagint"
+    },
+    {
+      "id": "asvbt",
+      "name": "American Standard Version Byzantine Text",
+      "language": "en",
+      "year": 2011,
+      "license": "public-domain",
+      "attribution": "ASV 1901 with the Byzantine-text New Testament, via eBible.org",
+      "versification": "hebrew"
     }
   ]
 }
